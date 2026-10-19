@@ -3,5 +3,8 @@
   "bytes": 5774007,
   "sha256": "27b8163a19f8001555ade7cba2f720dc5ef236d84b512caf334f00411665270b",
   "purpose": "Historical derived v2/v3 mix; original narration, both supplied music options and the supplied full muwashah stay in persistent assets. V5 uses its separately rebuilt PCM mix.",
-  "repository_path": "archives/prior-renders/film-mix-v2.m4a"
+  "repository_path": "archives/prior-renders/film-mix-v2.m4a",
+  "moved_not_deleted": true,
+  "runtime_path": "/home/user/.cache/alhambra-render/preserved-previous-audio/film-mix-v2.m4a",
+  "backup_commit": "f728121421ad5c84d751b8e005d2412aa1eaac8b"
 }
