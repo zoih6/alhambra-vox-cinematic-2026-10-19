@@ -1,6 +1,6 @@
 {
-  "build_id": "a08c190140",
-  "status": "rendered_pending_final_review",
+  "build_id": "baf673ad5f",
+  "status": "rendering",
   "fps": 32,
   "width": 1920,
   "height": 1080,
@@ -316,36 +316,15 @@
       "height": 1080,
       "video_codec": "h264",
       "audio_streams": 1,
-      "bytes": 2257524,
-      "sha256": "12b012c52f5c5153205b745cb7a17b7f27ed670658775dd716ef0241e5489e79",
+      "bytes": 2252627,
+      "sha256": "9a3165112cf653af655e92e321f3035f07db23d42a8d49baa92ddea92842f8f3",
       "part": 16,
       "frame_in": 4800,
       "frame_out_exclusive": 5120,
       "time_in": 150.0,
       "time_out": 160.0,
-      "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-016.mp4",
-      "repository_path": "renders/a08c190140/segments/part-016.mp4",
-      "backup_commit": "f337a528d18cdf4eecc286ede1d9f4455b707081"
-    },
-    {
-      "duration": 10.0,
-      "frames": 320,
-      "fps": 32.0,
-      "fps_fraction": "32/1",
-      "width": 1920,
-      "height": 1080,
-      "video_codec": "h264",
-      "audio_streams": 1,
-      "bytes": 2160416,
-      "sha256": "54fb3bc6f549f9fd33f52313f58a541c2d5b4fc1b47a25d4d05f4e6883f84526",
-      "part": 17,
-      "frame_in": 5120,
-      "frame_out_exclusive": 5440,
-      "time_in": 160.0,
-      "time_out": 170.0,
-      "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-017.mp4",
-      "repository_path": "renders/a08c190140/segments/part-017.mp4",
-      "backup_commit": "42d4d2a2ee00eb728f418e9d9543a25c83db0b0b"
+      "local_staging_path": "/home/user/.cache/alhambra-render/baf673ad5f/segments/part-016.mp4",
+      "repository_path": "renders/baf673ad5f/segments/part-016.mp4"
     },
     {
       "duration": 10.0,
@@ -549,25 +528,14 @@
     }
   ],
   "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
-  "current_segment": 27,
-  "current_frame": 8479,
-  "completed_count": 27,
-  "render_capture_fps": 8.2,
-  "master": {
-    "duration": 269.40625,
-    "frames": 8621,
-    "fps": 32.0,
-    "fps_fraction": "32/1",
-    "width": 1920,
-    "height": 1080,
-    "video_codec": "h264",
-    "audio_streams": 1,
-    "bytes": 57592587,
-    "sha256": "5023704406299e680760c36500842e1c7dde83be3a964cfad497b322d717b051"
-  },
-  "master_staging_path": "/home/user/.cache/alhambra-render/a08c190140/alhambra-cinematic-1080p32.mp4",
+  "current_segment": 16,
+  "current_frame": 5119,
+  "completed_count": 26,
+  "render_capture_fps": 7.78,
   "render_elapsed_seconds": 1162.99,
-  "master_backup_commit": "38f6f46d820b6402de45ee704ea4376c882b6fc3",
-  "local_delivery": null,
-  "local_delivery_note": "Full-quality master is preserved in GitHub and local runtime staging; a size-budgeted viewing copy may be added after review."
+  "reused_unchanged_build": "a08c190140",
+  "repaired_parts": [
+    16,
+    17
+  ]
 }

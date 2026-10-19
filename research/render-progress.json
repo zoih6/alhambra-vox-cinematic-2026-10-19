@@ -1,31 +1,20 @@
 {
-  "build_id": "a08c190140",
-  "status": "rendered_pending_final_review",
+  "build_id": "baf673ad5f",
+  "status": "rendering",
   "fps": 32,
   "width": 1920,
   "height": 1080,
   "total_frames": 8621,
   "total_segments": 27,
   "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
-  "current_segment": 27,
-  "current_frame": 8479,
-  "completed_count": 27,
-  "render_capture_fps": 8.2,
-  "master": {
-    "duration": 269.40625,
-    "frames": 8621,
-    "fps": 32.0,
-    "fps_fraction": "32/1",
-    "width": 1920,
-    "height": 1080,
-    "video_codec": "h264",
-    "audio_streams": 1,
-    "bytes": 57592587,
-    "sha256": "5023704406299e680760c36500842e1c7dde83be3a964cfad497b322d717b051"
-  },
-  "master_staging_path": "/home/user/.cache/alhambra-render/a08c190140/alhambra-cinematic-1080p32.mp4",
+  "current_segment": 16,
+  "current_frame": 5119,
+  "completed_count": 26,
+  "render_capture_fps": 7.78,
   "render_elapsed_seconds": 1162.99,
-  "master_backup_commit": "38f6f46d820b6402de45ee704ea4376c882b6fc3",
-  "local_delivery": null,
-  "local_delivery_note": "Full-quality master is preserved in GitHub and local runtime staging; a size-budgeted viewing copy may be added after review."
+  "reused_unchanged_build": "a08c190140",
+  "repaired_parts": [
+    16,
+    17
+  ]
 }

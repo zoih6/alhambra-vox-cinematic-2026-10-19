@@ -1,0 +1,12 @@
+{
+  "reason": "At scene 27 the tall Amiri diacritics approached the preceding eyebrow line.",
+  "change": "Separate the eyebrow and headline baselines and use unvowelled display text; narration unchanged.",
+  "only_rerendered_parts": [
+    16,
+    17
+  ],
+  "unchanged_parts_reused": 25,
+  "previous_build_preserved": "a08c190140",
+  "new_build": "baf673ad5f",
+  "original_master_and_viewing_copy_retained_in_git_and_runtime_staging": true
+}

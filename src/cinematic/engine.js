@@ -171,7 +171,10 @@ function sceneContent(g,cam,s,globalT){
   photoNode(g,cam,'dome',626,555,920,900,t,0,-.03,150);titleBlock(g,cam,s,t,{y:320,size:150,width:800});
   object(g,cam,210,1430,766,t,.9,c=>{for(let i=0;i<24;i++){let a=i*Math.PI*2/24,r=90+(i%3)*67,p=spring(q-.8-i*.035,170,24);star(c,Math.cos(a)*r,Math.sin(a)*r,Math.max(.1,25*p),i%4?P.paper:P.redLight,a);}}, {heavy:true});redThread(g,cam,t);break;
  case 'sound':
-  photoNode(g,cam,'inscription',470,532,630,745,t,0,-.06,50);titleBlock(g,cam,s,t,{y:380,size:195,width:840});
+  photoNode(g,cam,'inscription',470,532,630,745,t,0,-.06,50);
+  label(g,cam,'الشعر لا يكتب فقط',1760,174,52,t,.12,{maxWidth:850});
+  label(g,cam,'بل يغنى',1760,438,195,t,.32,{family:'Amiri',weight:400,maxWidth:840});
+  tag(g,cam,'من النقش إلى اللحن',1440,584,t,.85,640,'ink',48);
   object(g,cam,130,1375,790,t,1.3,c=>waveform(c,globalT,800),{continuous:true,dy:15});redThread(g,cam,t);break;
  case 'key':
   object(g,cam,220,650,550,t,.0,keyGraphic,{heavy:true,dy:90,tilt:.09});titleBlock(g,cam,s,t,{y:370,size:175,width:800});photoNode(g,cam,'dawn',585,899,790,230,t,2.1,-.045,-10);redThread(g,cam,t);break;

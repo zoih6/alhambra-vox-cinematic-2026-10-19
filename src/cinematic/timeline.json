@@ -1,45 +1,385 @@
 {
-  "fps":32,"width":1920,"height":1080,"voice_duration":265.4,"duration_frames":8621,"duration":269.40625,
-  "scenes":[
-    {"id":"01","from":0,"to":3.9375,"type":"stone","title":"لحجر","eyebrow":"هل يمكن","subtitle":"أن يحفظ الشعر؟","focus":230},
-    {"id":"02","from":3.9375,"to":7.8125,"type":"inscription","title":"جدران","subtitle":"تروي التاريخ","focus":100},
-    {"id":"03","from":7.8125,"to":10.71875,"type":"centuries","title":"٨","subtitle":"قرون","focus":60},
-    {"id":"04","from":10.71875,"to":14.15625,"type":"map","title":"هنا","subtitle":"هضبة السبيكة","detail":"غرناطة · الأندلس","focus":-30},
-    {"id":"05","from":14.15625,"to":17.9375,"type":"sky","title":"تعانق السماء","subtitle":"غرناطة","focus":-100},
-    {"id":"06","from":17.9375,"to":22.5,"type":"layers","title":"قصر","eyebrow":"ليس مجرّد","focus":120},
-    {"id":"07","from":22.5,"to":26.09375,"type":"poem","title":"قصيدة","eyebrow":"بل كُتب ليكون","focus":80},
-    {"id":"08","from":26.09375,"to":36.75,"type":"hero","title":"الحمراء","subtitle":"قصيدة من حجر","detail":"ذاكرة الأندلس","focus":-110},
-    {"id":"09","from":36.75,"to":42.125,"type":"year","title":"١٢٣٨","subtitle":"بداية الحلم","focus":90},
-    {"id":"10","from":42.125,"to":50.6875,"type":"decline","title":"مدن تتساقط","subtitle":"الأندلس · القرن الثالث عشر","focus":-30},
-    {"id":"11","from":50.6875,"to":60.40625,"type":"founder","title":"ابن الأحمر","subtitle":"محمد بن يوسف بن نصر","detail":"حلمٌ أخير","focus":140},
-    {"id":"12","from":60.40625,"to":70.96875,"type":"foundation","title":"حجر الأساس","subtitle":"غرناطة","detail":"حلمٌ يجد أرضًا","focus":220},
-    {"id":"13","from":70.96875,"to":73.75,"type":"map","title":"السبيكة","subtitle":"اختيار المكان","focus":-30},
-    {"id":"14","from":73.75,"to":79.5,"type":"aqueduct","title":"٦ كم","eyebrow":"نحو","subtitle":"من نهر دارو","focus":50},
-    {"id":"15","from":79.5,"to":81.84375,"type":"growth","title":"فأحيا الأرض","subtitle":"الماء يصنع الحياة","focus":60},
-    {"id":"16","from":81.84375,"to":91.1875,"type":"red","title":"الحمراء","subtitle":"طينٌ أحمر · اسمٌ باقٍ","detail":"بنو الأحمر","focus":230},
-    {"id":"17","from":91.1875,"to":97.84375,"type":"home","title":"أكثر من حصن","subtitle":"آخر ممالك الأندلس","focus":-90},
-    {"id":"18","from":97.84375,"to":105.5,"type":"patrons","title":"القرن الرابع عشر","subtitle":"يوسف الأول","detail":"محمد الخامس","focus":70},
-    {"id":"19","from":105.5,"to":112.3125,"type":"transformation","title":"كل شيء له معنى","subtitle":"من القلعة إلى التحفة","focus":-70},
-    {"id":"20","from":112.3125,"to":121.3125,"type":"pool","title":"بهو الريحان","subtitle":"سماءٌ في الماء","focus":80},
-    {"id":"21","from":121.3125,"to":125.9375,"type":"court","title":"بهو الأسود","subtitle":"قلب الحمراء","focus":90},
-    {"id":"22","from":125.9375,"to":129.25,"type":"lions","title":"١٢","subtitle":"أسدًا من الرخام","focus":100},
-    {"id":"23","from":129.25,"to":133.84375,"type":"columns","title":"١٢٤","subtitle":"عمودًا من الرخام","focus":20},
-    {"id":"24","from":133.84375,"to":141.09375,"type":"rim","title":"قصيدة على الماء","subtitle":"ابن زمرك","detail":"حين يتجمّد الماء جمالًا","focus":100},
-    {"id":"25","from":141.09375,"to":149.375,"type":"dome","title":"المقرنصات","subtitle":"نجومٌ من حجر","focus":150},
-    {"id":"26","from":149.375,"to":158.59375,"type":"motto","title":"ولا غالب إلا الله","subtitle":"شعارٌ يتردد في الجدران","focus":70},
-    {"id":"27","from":158.59375,"to":168.40625,"type":"sound","title":"بل يُغنّى","eyebrow":"الشعر لا يُكتب فقط","subtitle":"من النقش إلى اللحن","focus":80},
-    {"id":"28","from":168.40625,"to":175.96875,"type":"verse","title":"جادك الغيث إذا الغيث همى","subtitle":"يا زمان الوصل بالأندلس","focus":60},
-    {"id":"29","from":175.96875,"to":183.96875,"type":"poet","title":"لسان الدين بن الخطيب","subtitle":"وزيرٌ وشاعر","detail":"لحنٌ لا يموت","focus":130},
-    {"id":"30","from":183.96875,"to":190.875,"type":"fall","title":"١٤٩٢","subtitle":"٢ يناير","focus":70},
-    {"id":"31","from":190.875,"to":197.5,"type":"key","title":"المفاتيح","subtitle":"أبو عبد الله الصغير","focus":220},
-    {"id":"32","from":197.5,"to":205.25,"type":"sigh","title":"النظرة الأخيرة","subtitle":"زفرة العربي الأخيرة","detail":"رواية شعبية","focus":-100},
-    {"id":"33","from":205.25,"to":217.96875,"type":"change","title":"طبقاتٌ من الزمن","subtitle":"تغيّرٌ وإهمال","detail":"القرن السادس عشر وما بعده","focus":70},
-    {"id":"34","from":217.96875,"to":223.0625,"type":"resistance","title":"رفضت أن تموت","subtitle":"الحمراء","focus":-100},
-    {"id":"35","from":223.0625,"to":229.96875,"type":"archive","title":"اكتشافٌ متجدد","subtitle":"القرن التاسع عشر","detail":"أوراق الرحّالة","focus":130},
-    {"id":"36","from":229.96875,"to":238.5625,"type":"visitors","title":"٢٫٧ مليون","subtitle":"زائر في ٢٠٢٥ · نحو","detail":"المصدر: حكومة الأندلس","focus":20},
-    {"id":"37","from":238.5625,"to":250.375,"type":"return","title":"رسالة صمود","subtitle":"رحل أهلها… وبقي الأثر","focus":230},
-    {"id":"38","from":250.375,"to":255.25,"type":"dream","title":"لم يكن وصلك إلا حلمًا","subtitle":"وبقي اللحن","focus":80},
-    {"id":"39","from":255.25,"to":265.40625,"type":"closing","title":"ولا غالب إلا الله","subtitle":"في غرناطة… قصيدة من حجر","focus":-110},
-    {"id":"40","from":265.40625,"to":269.40625,"type":"credits","title":"قصيدة من حجر","subtitle":"الحمراء","focus":0}
+  "fps": 32,
+  "width": 1920,
+  "height": 1080,
+  "voice_duration": 265.4,
+  "duration_frames": 8621,
+  "duration": 269.40625,
+  "scenes": [
+    {
+      "id": "01",
+      "from": 0,
+      "to": 3.9375,
+      "type": "stone",
+      "title": "لحجر",
+      "eyebrow": "هل يمكن",
+      "subtitle": "أن يحفظ الشعر؟",
+      "focus": 230
+    },
+    {
+      "id": "02",
+      "from": 3.9375,
+      "to": 7.8125,
+      "type": "inscription",
+      "title": "جدران",
+      "subtitle": "تروي التاريخ",
+      "focus": 100
+    },
+    {
+      "id": "03",
+      "from": 7.8125,
+      "to": 10.71875,
+      "type": "centuries",
+      "title": "٨",
+      "subtitle": "قرون",
+      "focus": 60
+    },
+    {
+      "id": "04",
+      "from": 10.71875,
+      "to": 14.15625,
+      "type": "map",
+      "title": "هنا",
+      "subtitle": "هضبة السبيكة",
+      "detail": "غرناطة · الأندلس",
+      "focus": -30
+    },
+    {
+      "id": "05",
+      "from": 14.15625,
+      "to": 17.9375,
+      "type": "sky",
+      "title": "تعانق السماء",
+      "subtitle": "غرناطة",
+      "focus": -100
+    },
+    {
+      "id": "06",
+      "from": 17.9375,
+      "to": 22.5,
+      "type": "layers",
+      "title": "قصر",
+      "eyebrow": "ليس مجرّد",
+      "focus": 120
+    },
+    {
+      "id": "07",
+      "from": 22.5,
+      "to": 26.09375,
+      "type": "poem",
+      "title": "قصيدة",
+      "eyebrow": "بل كُتب ليكون",
+      "focus": 80
+    },
+    {
+      "id": "08",
+      "from": 26.09375,
+      "to": 36.75,
+      "type": "hero",
+      "title": "الحمراء",
+      "subtitle": "قصيدة من حجر",
+      "detail": "ذاكرة الأندلس",
+      "focus": -110
+    },
+    {
+      "id": "09",
+      "from": 36.75,
+      "to": 42.125,
+      "type": "year",
+      "title": "١٢٣٨",
+      "subtitle": "بداية الحلم",
+      "focus": 90
+    },
+    {
+      "id": "10",
+      "from": 42.125,
+      "to": 50.6875,
+      "type": "decline",
+      "title": "مدن تتساقط",
+      "subtitle": "الأندلس · القرن الثالث عشر",
+      "focus": -30
+    },
+    {
+      "id": "11",
+      "from": 50.6875,
+      "to": 60.40625,
+      "type": "founder",
+      "title": "ابن الأحمر",
+      "subtitle": "محمد بن يوسف بن نصر",
+      "detail": "حلمٌ أخير",
+      "focus": 140
+    },
+    {
+      "id": "12",
+      "from": 60.40625,
+      "to": 70.96875,
+      "type": "foundation",
+      "title": "حجر الأساس",
+      "subtitle": "غرناطة",
+      "detail": "حلمٌ يجد أرضًا",
+      "focus": 220
+    },
+    {
+      "id": "13",
+      "from": 70.96875,
+      "to": 73.75,
+      "type": "map",
+      "title": "السبيكة",
+      "subtitle": "اختيار المكان",
+      "focus": -30
+    },
+    {
+      "id": "14",
+      "from": 73.75,
+      "to": 79.5,
+      "type": "aqueduct",
+      "title": "٦ كم",
+      "eyebrow": "نحو",
+      "subtitle": "من نهر دارو",
+      "focus": 50
+    },
+    {
+      "id": "15",
+      "from": 79.5,
+      "to": 81.84375,
+      "type": "growth",
+      "title": "فأحيا الأرض",
+      "subtitle": "الماء يصنع الحياة",
+      "focus": 60
+    },
+    {
+      "id": "16",
+      "from": 81.84375,
+      "to": 91.1875,
+      "type": "red",
+      "title": "الحمراء",
+      "subtitle": "طينٌ أحمر · اسمٌ باقٍ",
+      "detail": "بنو الأحمر",
+      "focus": 230
+    },
+    {
+      "id": "17",
+      "from": 91.1875,
+      "to": 97.84375,
+      "type": "home",
+      "title": "أكثر من حصن",
+      "subtitle": "آخر ممالك الأندلس",
+      "focus": -90
+    },
+    {
+      "id": "18",
+      "from": 97.84375,
+      "to": 105.5,
+      "type": "patrons",
+      "title": "القرن الرابع عشر",
+      "subtitle": "يوسف الأول",
+      "detail": "محمد الخامس",
+      "focus": 70
+    },
+    {
+      "id": "19",
+      "from": 105.5,
+      "to": 112.3125,
+      "type": "transformation",
+      "title": "كل شيء له معنى",
+      "subtitle": "من القلعة إلى التحفة",
+      "focus": -70
+    },
+    {
+      "id": "20",
+      "from": 112.3125,
+      "to": 121.3125,
+      "type": "pool",
+      "title": "بهو الريحان",
+      "subtitle": "سماءٌ في الماء",
+      "focus": 80
+    },
+    {
+      "id": "21",
+      "from": 121.3125,
+      "to": 125.9375,
+      "type": "court",
+      "title": "بهو الأسود",
+      "subtitle": "قلب الحمراء",
+      "focus": 90
+    },
+    {
+      "id": "22",
+      "from": 125.9375,
+      "to": 129.25,
+      "type": "lions",
+      "title": "١٢",
+      "subtitle": "أسدًا من الرخام",
+      "focus": 100
+    },
+    {
+      "id": "23",
+      "from": 129.25,
+      "to": 133.84375,
+      "type": "columns",
+      "title": "١٢٤",
+      "subtitle": "عمودًا من الرخام",
+      "focus": 20
+    },
+    {
+      "id": "24",
+      "from": 133.84375,
+      "to": 141.09375,
+      "type": "rim",
+      "title": "قصيدة على الماء",
+      "subtitle": "ابن زمرك",
+      "detail": "حين يتجمّد الماء جمالًا",
+      "focus": 100
+    },
+    {
+      "id": "25",
+      "from": 141.09375,
+      "to": 149.375,
+      "type": "dome",
+      "title": "المقرنصات",
+      "subtitle": "نجومٌ من حجر",
+      "focus": 150
+    },
+    {
+      "id": "26",
+      "from": 149.375,
+      "to": 158.59375,
+      "type": "motto",
+      "title": "ولا غالب إلا الله",
+      "subtitle": "شعارٌ يتردد في الجدران",
+      "focus": 70
+    },
+    {
+      "id": "27",
+      "from": 158.59375,
+      "to": 168.40625,
+      "type": "sound",
+      "title": "بل يغنى",
+      "eyebrow": "الشعر لا يكتب فقط",
+      "subtitle": "من النقش إلى اللحن",
+      "focus": 80
+    },
+    {
+      "id": "28",
+      "from": 168.40625,
+      "to": 175.96875,
+      "type": "verse",
+      "title": "جادك الغيث إذا الغيث همى",
+      "subtitle": "يا زمان الوصل بالأندلس",
+      "focus": 60
+    },
+    {
+      "id": "29",
+      "from": 175.96875,
+      "to": 183.96875,
+      "type": "poet",
+      "title": "لسان الدين بن الخطيب",
+      "subtitle": "وزيرٌ وشاعر",
+      "detail": "لحنٌ لا يموت",
+      "focus": 130
+    },
+    {
+      "id": "30",
+      "from": 183.96875,
+      "to": 190.875,
+      "type": "fall",
+      "title": "١٤٩٢",
+      "subtitle": "٢ يناير",
+      "focus": 70
+    },
+    {
+      "id": "31",
+      "from": 190.875,
+      "to": 197.5,
+      "type": "key",
+      "title": "المفاتيح",
+      "subtitle": "أبو عبد الله الصغير",
+      "focus": 220
+    },
+    {
+      "id": "32",
+      "from": 197.5,
+      "to": 205.25,
+      "type": "sigh",
+      "title": "النظرة الأخيرة",
+      "subtitle": "زفرة العربي الأخيرة",
+      "detail": "رواية شعبية",
+      "focus": -100
+    },
+    {
+      "id": "33",
+      "from": 205.25,
+      "to": 217.96875,
+      "type": "change",
+      "title": "طبقاتٌ من الزمن",
+      "subtitle": "تغيّرٌ وإهمال",
+      "detail": "القرن السادس عشر وما بعده",
+      "focus": 70
+    },
+    {
+      "id": "34",
+      "from": 217.96875,
+      "to": 223.0625,
+      "type": "resistance",
+      "title": "رفضت أن تموت",
+      "subtitle": "الحمراء",
+      "focus": -100
+    },
+    {
+      "id": "35",
+      "from": 223.0625,
+      "to": 229.96875,
+      "type": "archive",
+      "title": "اكتشافٌ متجدد",
+      "subtitle": "القرن التاسع عشر",
+      "detail": "أوراق الرحّالة",
+      "focus": 130
+    },
+    {
+      "id": "36",
+      "from": 229.96875,
+      "to": 238.5625,
+      "type": "visitors",
+      "title": "٢٫٧ مليون",
+      "subtitle": "زائر في ٢٠٢٥ · نحو",
+      "detail": "المصدر: حكومة الأندلس",
+      "focus": 20
+    },
+    {
+      "id": "37",
+      "from": 238.5625,
+      "to": 250.375,
+      "type": "return",
+      "title": "رسالة صمود",
+      "subtitle": "رحل أهلها… وبقي الأثر",
+      "focus": 230
+    },
+    {
+      "id": "38",
+      "from": 250.375,
+      "to": 255.25,
+      "type": "dream",
+      "title": "لم يكن وصلك إلا حلمًا",
+      "subtitle": "وبقي اللحن",
+      "focus": 80
+    },
+    {
+      "id": "39",
+      "from": 255.25,
+      "to": 265.40625,
+      "type": "closing",
+      "title": "ولا غالب إلا الله",
+      "subtitle": "في غرناطة… قصيدة من حجر",
+      "focus": -110
+    },
+    {
+      "id": "40",
+      "from": 265.40625,
+      "to": 269.40625,
+      "type": "credits",
+      "title": "قصيدة من حجر",
+      "subtitle": "الحمراء",
+      "focus": 0
+    }
   ]
 }
