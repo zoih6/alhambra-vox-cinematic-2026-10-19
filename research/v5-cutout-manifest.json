@@ -126,7 +126,39 @@
           "depth": 265
         }
       ],
-      "body": "assets/layered-v5/hands-body.webp"
+      "body": "assets/layered-v5/hands-body.webp",
+      "construction_parts": [
+        {
+          "key": "hands-left-hand-partition",
+          "path": "assets/layered-v5/hands-left-hand-partition.webp",
+          "bounds": [
+            0.0,
+            0.0,
+            0.3819060773480663,
+            0.8822869955156951
+          ]
+        },
+        {
+          "key": "hands-right-hand-partition",
+          "path": "assets/layered-v5/hands-right-hand-partition.webp",
+          "bounds": [
+            0.6781767955801105,
+            0.0,
+            0.3218232044198895,
+            0.9125560538116592
+          ]
+        },
+        {
+          "key": "hands-stone-partition",
+          "path": "assets/layered-v5/hands-stone-partition.webp",
+          "bounds": [
+            0.0,
+            0.021300448430493273,
+            0.8984806629834254,
+            0.9697309417040358
+          ]
+        }
+      ]
     },
     "key": {
       "source": "assets/generated/v5-medieval-key.jpg",

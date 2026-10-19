@@ -1,0 +1,228 @@
+{
+  "scene": {
+    "id": "C5",
+    "type": "credits-v5",
+    "focus": 30
+  },
+  "layers": [
+    {
+      "name": "image/water-backing",
+      "depth": -580,
+      "start": 0,
+      "duration": 0,
+      "properties": [
+        "depth parallax",
+        "focus plane"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "image/water-wall",
+      "depth": -70,
+      "start": 0,
+      "duration": 0,
+      "properties": [
+        "depth parallax",
+        "focus plane"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "image/water-arch",
+      "depth": 420,
+      "start": 0,
+      "duration": 0,
+      "properties": [
+        "depth parallax",
+        "focus plane"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "scene/light-flag",
+      "depth": 430,
+      "start": 0,
+      "duration": 0,
+      "properties": [
+        "static type-protecting flag"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "credits/dark-flag",
+      "depth": 440,
+      "start": 0,
+      "duration": 0.4,
+      "properties": [
+        "fixed contrast plane"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/المونتاج@1396,327/body",
+      "depth": 495,
+      "start": 0.12,
+      "duration": 0.78,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/المونتاج@1396,327/dots",
+      "depth": 495,
+      "start": 0.32,
+      "duration": 0.46799999999999997,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "type/والتصميم@1118,327/body",
+      "depth": 495,
+      "start": 0.72,
+      "duration": 0.78,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/والتصميم@1118,327/dots",
+      "depth": 495,
+      "start": 0.9199999999999999,
+      "duration": 0.46799999999999997,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "type/بواسطة@784,327/body",
+      "depth": 495,
+      "start": 1.3,
+      "duration": 0.78,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/بواسطة@784,327/dots",
+      "depth": 495,
+      "start": 1.5,
+      "duration": 0.46799999999999997,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "type/شذى@1369.5,604/body",
+      "depth": 495,
+      "start": 1.74,
+      "duration": 1.03,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/شذى@1369.5,604/dots",
+      "depth": 495,
+      "start": 1.94,
+      "duration": 0.618,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "type/ياسر@867.5,604/body",
+      "depth": 495,
+      "start": 2.4,
+      "duration": 1.03,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/ياسر@867.5,604/dots",
+      "depth": 495,
+      "start": 2.6,
+      "duration": 0.618,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "credits/name-underline",
+      "depth": 550,
+      "start": 2.8,
+      "duration": 1.55,
+      "properties": [
+        "independent curved Trim Paths and moving cap"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/موشح «جادك الغيث» · تسجيل «En al-Ándalus» لسامي يوسف@960,795/body",
+      "depth": 495,
+      "start": 3.35,
+      "duration": 0.78,
+      "properties": [
+        "native Arabic alpha body matte",
+        "ascender mask",
+        "descender mask"
+      ],
+      "age": 4.625,
+      "visible": true
+    },
+    {
+      "name": "type/موشح «جادك الغيث» · تسجيل «En al-Ándalus» لسامي يوسف@960,795/dots",
+      "depth": 495,
+      "start": 3.5500000000000003,
+      "duration": 0.46799999999999997,
+      "properties": [
+        "right-to-left mark apertures; positions unchanged"
+      ]
+    },
+    {
+      "name": "credits/source-lines",
+      "depth": 540,
+      "start": 4.05,
+      "duration": 1,
+      "properties": [
+        "three independent source-line masks"
+      ],
+      "age": 4.625,
+      "visible": true
+    }
+  ],
+  "camera": {
+    "x": 0,
+    "y": 0,
+    "dolly": 108.0514782682861,
+    "roll": 0,
+    "focus": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "name": "frame-01.png",
+      "bytes": 1774428,
+      "sha256": "7e69f168b93006f2f170b546d07c935d99f07c6c1ed862be47b8ec7245357206"
+    },
+    {
+      "name": "frame-02.png",
+      "bytes": 2194896,
+      "sha256": "59943fe35522d8d198a343bdc04a95efd0b3f5f9cba10ca9b689158d13bf707d"
+    },
+    {
+      "name": "frame-03.png",
+      "bytes": 872170,
+      "sha256": "84ca09278dbb841c3f281436f70a925c93457fbb6f461acf37482837dddc8abc"
+    },
+    {
+      "name": "frame-04.png",
+      "bytes": 778303,
+      "sha256": "df3fedc73277f334a516a93db41e298cb244cdbf400e2f03a1fc4ebf77aceb89"
+    },
+    {
+      "name": "frame-05.png",
+      "bytes": 1761062,
+      "sha256": "74028b8739ce0c5984a5de5a41fbec61ef1af25d709648c9eb0f94a22f180cc3"
+    },
+    {
+      "name": "frame-06.png",
+      "bytes": 1542975,
+      "sha256": "15f3c2c1e742bca44712287eb93ecaf75a66ddec91ba81a471312ea6d1c555a2"
+    },
+    {
+      "name": "frame-07.png",
+      "bytes": 1059914,
+      "sha256": "dcbfe0a71970bfa3db1291eb750a061f0811b3c0c31b8aa162cc2334ee992e01"
+    },
+    {
+      "name": "frame-08.png",
+      "bytes": 1729112,
+      "sha256": "cc135c3d592c782a822f46f788c5c0cb020d74c80137741682897e7f7b3544a0"
+    }
+  ],
+  "archive_bytes": 11714904,
+  "archive_sha256": "d206b2758155283f7a2fabce5aa057f94164755a9a9b2af013c5bc46d10a7f32",
+  "repository_path": "archives/static-v1-full-resolution.zip",
+  "purpose": "Preserve all eight original full-HD stills while reserving local snapshot space for the new high-quality viewing film. Interactive board and contact sheet remain local."
+}
