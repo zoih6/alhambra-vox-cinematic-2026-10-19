@@ -1,0 +1,68 @@
+{
+  "reference_clip_count": 12,
+  "archive_bytes": 38570897,
+  "archive_sha256": "8aee829235f1bd4c14c4933717135a8a4ef435b9291cb7aa8027b403812b9314",
+  "repository_path": "references/style-reference-videos-originals.zip",
+  "contents": [
+    {
+      "file": "videos/01.mp4",
+      "bytes": 2541666,
+      "sha256": "bd40b1cf83960310412afb16de389809704368855daf12640234a4a77cefb6af"
+    },
+    {
+      "file": "videos/02.mp4",
+      "bytes": 2502419,
+      "sha256": "e3cf1786e332c2c29b40c01fa579126748dd254120ace175ca74661a4758d352"
+    },
+    {
+      "file": "videos/03.mp4",
+      "bytes": 2467414,
+      "sha256": "15f5936e963b097f2376112a1d6218d4f46c5c816f05b3af98d72b6ece58fd6f"
+    },
+    {
+      "file": "videos/04.mp4",
+      "bytes": 2960790,
+      "sha256": "f37a0621e021ab3d064db86789364886034bdabca0fa8a14bf6105378d908c14"
+    },
+    {
+      "file": "videos/05.mp4",
+      "bytes": 3307210,
+      "sha256": "224de1bb03ca929144bc2e6f9f13f3b9d66bec057d77d66d7ae51d55e7742040"
+    },
+    {
+      "file": "videos/06.mp4",
+      "bytes": 3765326,
+      "sha256": "e791cc1f3c095d5f015db5539ebfba450ec59f729187386d0330fdf2681fb8ee"
+    },
+    {
+      "file": "videos/07.mp4",
+      "bytes": 3638418,
+      "sha256": "d1febd6e5a12b776d08cd5ba4cb2917182b35c3c38123d908cfd1bc4589cda25"
+    },
+    {
+      "file": "videos/08.mp4",
+      "bytes": 3212809,
+      "sha256": "d2eaec44243c5e21bbf6f728cb296a4e0583c8e0f9eae49d66ee063a46f30dbb"
+    },
+    {
+      "file": "videos/09.mp4",
+      "bytes": 2720654,
+      "sha256": "d49c8850f22c650cbb20b7aa41a67968eb4bd536a1d45f247bfa0205ffcfb466"
+    },
+    {
+      "file": "videos/10.mp4",
+      "bytes": 3454823,
+      "sha256": "e92cde1b7cab6f1c4689ecfedfe64e4c05afdc6639e75f354cb420b3034b1ac1"
+    },
+    {
+      "file": "videos/11.mp4",
+      "bytes": 3956418,
+      "sha256": "9de37cd478ed520a8701c9846dd7c9fc66e0d3170d326d31985aa26f4f7a3413"
+    },
+    {
+      "file": "videos/12.mp4",
+      "bytes": 4039554,
+      "sha256": "bb92bc2091e64e46a5875045687b64a2fdc3821a28387f9727bb8f479d118353"
+    }
+  ]
+}

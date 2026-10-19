@@ -9,8 +9,8 @@
   "height": 1080,
   "fps": 32,
   "narration_duration_seconds": 265.4,
-  "planned_total_frames": 8493,
-  "frame_quantized_duration_seconds": 265.40625,
+  "planned_total_frames": 8621,
+  "frame_quantized_duration_seconds": 269.40625,
   "preview_duration_seconds": 30,
   "preview_timeline_frames": 960,
   "approval_stills": 8,
@@ -33,5 +33,8 @@
     "moving warm light",
     "dust in light",
     "stop-motion element transforms on a smooth 32fps timeline"
-  ]
+  ],
+  "render_started": true,
+  "engine_built": true,
+  "credits_duration_seconds": 4.0
 }

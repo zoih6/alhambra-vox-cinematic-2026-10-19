@@ -304,12 +304,13 @@
       "time_in": 140.0,
       "time_out": 150.0,
       "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-015.mp4",
-      "repository_path": "renders/a08c190140/segments/part-015.mp4"
+      "repository_path": "renders/a08c190140/segments/part-015.mp4",
+      "backup_commit": "36ac720b0ec4409e313d080c75478eb1e346d94c"
     }
   ],
   "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
-  "current_segment": 15,
-  "current_frame": 4799,
+  "current_segment": 16,
+  "current_frame": 4800,
   "completed_count": 15,
   "render_capture_fps": 6.95
 }
