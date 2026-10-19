@@ -1,5 +1,5 @@
 {
-  "status": "awaiting_final_visual_review",
+  "status": "delivered",
   "build_id": "baf673ad5f",
   "master": {
     "path": "/home/user/.cache/alhambra-render/baf673ad5f/alhambra-cinematic-1080p32.mp4",
@@ -47,5 +47,29 @@
   "master_backed_up_before_viewing_encode": true,
   "checkpoints_preserved": 27,
   "required_checkpoints": 27,
-  "credential_written_to_project": false
+  "credential_written_to_project": false,
+  "review": {
+    "approved_for_delivery": true,
+    "reviewer": "assistant technical and visual contact-sheet review",
+    "build_id": "baf673ad5f",
+    "reviewed": [
+      "40-scene encoded-master contact sheets",
+      "full-resolution viewing-copy Arabic verse frame",
+      "encoded opening motion strip",
+      "corrected scene 27 typography and its final encoded contact",
+      "complete decoder pass and constant-frame-rate presentation timestamps",
+      "27 current checkpoints with verified GitHub backup commits",
+      "master and viewing-copy hashes matched to uploaded artifacts",
+      "original narration checksum, audio headroom, loudness and true-peak report",
+      "credential scan and persistent workspace storage budget"
+    ],
+    "master_frame_count": 8621,
+    "viewing_frame_count": 8621,
+    "fps": 32,
+    "width": 1920,
+    "height": 1080,
+    "source_files_deleted": false,
+    "user_full_cut_creative_approval": "pending user review",
+    "review_limit": "This records specific technical and sampled visual checks, not a claim of manual real-time listening or human approval of every frame."
+  }
 }

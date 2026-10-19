@@ -1,7 +1,7 @@
 {
-  "snapshot_eligible_bytes": 122008708,
-  "snapshot_eligible_mib": 116.36,
-  "files": 887,
+  "snapshot_eligible_bytes": 122033348,
+  "snapshot_eligible_mib": 116.38,
+  "files": 894,
   "soft_limit_mib": 90,
   "stop_limit_mib": 118,
   "below_stop_limit": true,
@@ -10,11 +10,11 @@
     "AGENTS.md": 0.0,
     "ai-film-studio": 3.73,
     "ai-film-studio-setup": 0.06,
-    "alhambra-vox": 110.62,
+    "alhambra-vox": 110.65,
     "image-search": 0.41,
     "skills": 1.53
   },
-  "system_disk_free_gib": 17.11,
+  "system_disk_free_gib": 16.92,
   "project_video_files": [
     "deliverables/alhambra-cinematic-viewing-1080p32.mp4"
   ]

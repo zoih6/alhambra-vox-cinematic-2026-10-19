@@ -1,10 +1,10 @@
 {
   "project_id": "alhambra-poem-in-stone",
   "date": "2026-10-19",
-  "stage": "approved_cinematic_rebuild_and_render",
+  "stage": "rendered_and_delivered",
   "video_render_allowed": true,
-  "video_rendered": false,
-  "full_film_built": false,
+  "video_rendered": true,
+  "full_film_built": true,
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -23,7 +23,7 @@
   "workspace_stop_limit_mib": 118,
   "required_future_output_directory": "deliverables",
   "never_use_output_directory_named": "out",
-  "next_action": "Generate two cinematic plates, build the 32fps layered camera engine, render checkpoint segments, back up each segment, then merge.",
+  "next_action": "User may review the full film; no further changes or publishing beyond this project without a request.",
   "public_github_backup_authorized": true,
   "credential_storage_allowed": false,
   "camera_requirements": [
@@ -36,5 +36,10 @@
   ],
   "render_started": true,
   "engine_built": true,
-  "credits_duration_seconds": 4.0
+  "credits_duration_seconds": 4.0,
+  "duration_seconds": 269.40625,
+  "github_backup_authorized": true,
+  "master_repository_path": "renders/final/alhambra-cinematic-1080p32.mp4",
+  "local_video": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+  "quality_status": "technical_checks_passed_visual_contacts_reviewed_user_final_review_pending"
 }
