@@ -1,7 +1,7 @@
 {
   "version": "layered-v5",
   "build_id": "f26451dec561",
-  "status": "rendering",
+  "status": "paused_on_error",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -565,5 +565,6 @@
   "original_sources_deleted": false,
   "current_segment": 29,
   "current_frame": 9280,
-  "capture_fps": 11.28
+  "capture_fps": 11.28,
+  "error": "Backup failed; production paused so no completed piece is lost."
 }

@@ -2,13 +2,15 @@
 All original versions are preserved. No saved frame sequence and no out/ directory.
 """
 from pathlib import Path
-import json,time,hashlib,base64,subprocess,math,shutil,os,sys
+import json,time,hashlib,base64,subprocess,math,shutil,os,sys,argparse
 import av,imageio_ffmpeg
 from playwright.sync_api import sync_playwright
 R=Path(__file__).resolve().parents[1];D=R/'src/layered-v5';C=json.loads((D/'layer-plan.json').read_text());FPS=32;TOTAL=C['total_frames'];FF=imageio_ffmpeg.get_ffmpeg_exe()
 BUILD=hashlib.sha256((D/'engine.js').read_bytes()+(D/'layer-plan.json').read_bytes()+(D/'chorus-data.json').read_bytes()).hexdigest()[:12]
 TMP=Path('/home/user/.cache/alhambra-render/layered-v5');RUN=TMP/BUILD;SEG=RUN/'segments';SEG.mkdir(parents=True,exist_ok=True);MIX=TMP/'alhambra-layered-v5-full-mix.m4a'
 Q=R/'sync-queue';MAN=R/'research/v5-render-manifest.json'
+parser=argparse.ArgumentParser();parser.add_argument('--parts',default='all');args=parser.parse_args()
+SELECTED=list(range(math.ceil(TOTAL/320))) if args.parts=='all' else [int(p)-1 for p in args.parts.split(',')]
 S={'version':'layered-v5','build_id':BUILD,'status':'rendering','width':1920,'height':1080,'fps':32,'total_frames':TOTAL,'duration':C['duration'],'segments':[],'segment_count':math.ceil(TOTAL/320),'whole_film_rebuilt':True,'master_crf':20,'original_sources_deleted':False}
 if MAN.exists():
  old=json.loads(MAN.read_text())
@@ -52,7 +54,7 @@ try:
  with sync_playwright() as p:
   browser=p.chromium.launch(args=['--no-sandbox','--disable-dev-shm-usage','--allow-file-access-from-files']);page=browser.new_page(viewport={'width':1920,'height':1080},device_scale_factor=1)
   errors=[];page.on('pageerror',lambda e:errors.append(str(e)));page.goto((D/'index.html').as_uri());page.evaluate('()=>filmReady')
-  for part in range(S['segment_count']):
+  for part in SELECTED:
    first=part*320;last=min(TOTAL,first+320);count=last-first;file=SEG/f'part-{part+1:03}.mp4';record=next((a for a in S['segments'] if a['part']==part+1),None)
    valid=False
    if file.exists():

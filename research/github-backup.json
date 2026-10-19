@@ -1,5 +1,5 @@
 {
-  "status": "watching_for_checkpoints",
+  "status": "initial_backup",
   "public_repository": true,
   "token_persisted": false,
   "uploaded_artifacts": [
@@ -466,7 +466,7 @@
       "source_name": "part-029.mp4"
     }
   ],
-  "last_commit": "b777cd547a6a9fa617fbde5193da6d2d05f02fc4",
+  "last_commit": null,
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",

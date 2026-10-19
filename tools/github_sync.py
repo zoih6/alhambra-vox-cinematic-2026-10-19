@@ -32,9 +32,14 @@ def git(*args,auth=False):
     env=os.environ.copy();env['GIT_TERMINAL_PROMPT']='0'
     if auth:
         env['GIT_CONFIG_COUNT']='1';env['GIT_CONFIG_KEY_0']='http.https://github.com/.extraHeader';env['GIT_CONFIG_VALUE_0']='AUTHORIZATION: basic '+BASIC
-    r=subprocess.run(['git',*args],cwd=GIT,env=env,capture_output=True,text=True,timeout=240)
-    if r.returncode:raise RuntimeError((r.stderr or r.stdout)[-2000:])
-    return r.stdout.strip()
+    for attempt in range(4):
+        r=subprocess.run(['git',*args],cwd=GIT,env=env,capture_output=True,text=True,timeout=240)
+        if not r.returncode:return r.stdout.strip()
+        message=(r.stderr or r.stdout)[-2000:]
+        transient=args and args[0]=='push' and any(x in message.lower() for x in ['fatal error in commit_refs','502 bad gateway','http 502','http 503','remote end hung up'])
+        if not transient or attempt==3:raise RuntimeError(message)
+        log(f'Retrying transient GitHub push failure, attempt {attempt+2}/4; no force push and no new render.')
+        time.sleep([2,5,12][attempt])
 EXCLUDE={'__pycache__','.cache','.local','.git','node_modules','out','build','dist','sync-queue'}
 SECRET_PATTERN=re.compile(rb'(?:github_pat_[A-Za-z0-9_]{20,}|gh[pousr]_[A-Za-z0-9]{20,}|-----BEGIN [A-Z ]*PRIVATE KEY-----)')
 def copy_safe(src,dst):
