@@ -64,12 +64,32 @@
       "time_in": 20.0,
       "time_out": 30.0,
       "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-003.mp4",
-      "repository_path": "renders/a08c190140/segments/part-003.mp4"
+      "repository_path": "renders/a08c190140/segments/part-003.mp4",
+      "backup_commit": "5772acb74d5bd32430189b02c7f7f44fa69d94e3"
+    },
+    {
+      "duration": 10.0,
+      "frames": 320,
+      "fps": 32.0,
+      "fps_fraction": "32/1",
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_streams": 1,
+      "bytes": 2824679,
+      "sha256": "7db9dad5e0fba648748101bd277d846dd65dbcde8544524762d1508712a76633",
+      "part": 4,
+      "frame_in": 960,
+      "frame_out_exclusive": 1280,
+      "time_in": 30.0,
+      "time_out": 40.0,
+      "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-004.mp4",
+      "repository_path": "renders/a08c190140/segments/part-004.mp4"
     }
   ],
   "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
-  "current_segment": 3,
-  "current_frame": 959,
-  "completed_count": 3,
-  "render_capture_fps": 8.2
+  "current_segment": 4,
+  "current_frame": 1279,
+  "completed_count": 4,
+  "render_capture_fps": 7.87
 }
