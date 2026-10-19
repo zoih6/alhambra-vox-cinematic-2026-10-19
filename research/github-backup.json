@@ -1,5 +1,5 @@
 {
-  "status": "initial_backup",
+  "status": "watching_for_checkpoints",
   "public_repository": true,
   "token_persisted": false,
   "uploaded_artifacts": [
@@ -272,9 +272,15 @@
       "bytes": 34978929,
       "sha256": "860c3ff5c91953c5d70334171ccd51c5be68e4b3b4ad91368ddb740bbd98332b",
       "source_name": "alhambra-muwashah-viewing-1080p32.mp4"
+    },
+    {
+      "path": "renders/layered-v5/audio/alhambra-layered-v5-full-mix.m4a",
+      "bytes": 7139024,
+      "sha256": "f0b740f0ab744e25df12915bb0a8ab8db8e4829e1768ed323489c4a346115999",
+      "source_name": "alhambra-layered-v5-full-mix.m4a"
     }
   ],
-  "last_commit": null,
+  "last_commit": "197ef1aa21986eb4da958a150ed9f1a0856e6fd0",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",

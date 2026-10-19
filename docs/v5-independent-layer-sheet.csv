@@ -1,0 +1,435 @@
+﻿scene,type,new_start,new_end,independent_layer,local_start,duration,depth,animated_properties,before,during,settled
+01,stone,0,3.9375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+01,stone,0,3.9375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+01,stone,0,3.9375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+01,stone,0,3.9375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+01,stone,0,3.9375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+01,stone,0,3.9375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+01,stone,0,3.9375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+01,stone,0,3.9375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+01,stone,0,3.9375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+01,stone,0,3.9375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+01,stone,0,3.9375,detail,1.5750000000000002,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+02,inscription,3.9375,7.8125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+02,inscription,3.9375,7.8125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+02,inscription,3.9375,7.8125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+02,inscription,3.9375,7.8125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+02,inscription,3.9375,7.8125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+02,inscription,3.9375,7.8125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+02,inscription,3.9375,7.8125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+02,inscription,3.9375,7.8125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+02,inscription,3.9375,7.8125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+02,inscription,3.9375,7.8125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+02,inscription,3.9375,7.8125,detail,1.55,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+03,centuries,7.8125,10.71875,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+03,centuries,7.8125,10.71875,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+03,centuries,7.8125,10.71875,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+03,centuries,7.8125,10.71875,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+03,centuries,7.8125,10.71875,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+03,centuries,7.8125,10.71875,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+03,centuries,7.8125,10.71875,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+03,centuries,7.8125,10.71875,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+03,centuries,7.8125,10.71875,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+03,centuries,7.8125,10.71875,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+03,centuries,7.8125,10.71875,detail,1.1625,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+04,map,10.71875,14.15625,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+04,map,10.71875,14.15625,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+04,map,10.71875,14.15625,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+04,map,10.71875,14.15625,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+04,map,10.71875,14.15625,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+04,map,10.71875,14.15625,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+04,map,10.71875,14.15625,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+04,map,10.71875,14.15625,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+04,map,10.71875,14.15625,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+04,map,10.71875,14.15625,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+04,map,10.71875,14.15625,detail,1.375,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+05,sky,14.15625,17.9375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+05,sky,14.15625,17.9375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+05,sky,14.15625,17.9375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+05,sky,14.15625,17.9375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+05,sky,14.15625,17.9375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+05,sky,14.15625,17.9375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+05,sky,14.15625,17.9375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+05,sky,14.15625,17.9375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+05,sky,14.15625,17.9375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+05,sky,14.15625,17.9375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+05,sky,14.15625,17.9375,detail,1.5125000000000002,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+06,layers,17.9375,22.5,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+06,layers,17.9375,22.5,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+06,layers,17.9375,22.5,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+06,layers,17.9375,22.5,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+06,layers,17.9375,22.5,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+06,layers,17.9375,22.5,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+06,layers,17.9375,22.5,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+06,layers,17.9375,22.5,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+06,layers,17.9375,22.5,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+06,layers,17.9375,22.5,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+06,layers,17.9375,22.5,detail,1.8250000000000002,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+07,poem,22.5,26.09375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+07,poem,22.5,26.09375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+07,poem,22.5,26.09375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+07,poem,22.5,26.09375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+07,poem,22.5,26.09375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+07,poem,22.5,26.09375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+07,poem,22.5,26.09375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+07,poem,22.5,26.09375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+07,poem,22.5,26.09375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+07,poem,22.5,26.09375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+07,poem,22.5,26.09375,detail,1.4375,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+08,hero,26.09375,36.75,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+08,hero,26.09375,36.75,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+08,hero,26.09375,36.75,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+08,hero,26.09375,36.75,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+08,hero,26.09375,36.75,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+08,hero,26.09375,36.75,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+08,hero,26.09375,36.75,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+08,hero,26.09375,36.75,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+08,hero,26.09375,36.75,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+08,hero,26.09375,36.75,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+08,hero,26.09375,36.75,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+09,year,36.75,42.125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+09,year,36.75,42.125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+09,year,36.75,42.125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+09,year,36.75,42.125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+09,year,36.75,42.125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+09,year,36.75,42.125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+09,year,36.75,42.125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+09,year,36.75,42.125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+09,year,36.75,42.125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+09,year,36.75,42.125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+09,year,36.75,42.125,detail,2.15,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+10,decline,42.125,50.6875,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+10,decline,42.125,50.6875,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+10,decline,42.125,50.6875,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+10,decline,42.125,50.6875,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+10,decline,42.125,50.6875,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+10,decline,42.125,50.6875,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+10,decline,42.125,50.6875,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+10,decline,42.125,50.6875,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+10,decline,42.125,50.6875,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+10,decline,42.125,50.6875,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+10,decline,42.125,50.6875,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+11,founder,50.6875,60.40625,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+11,founder,50.6875,60.40625,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+11,founder,50.6875,60.40625,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+11,founder,50.6875,60.40625,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+11,founder,50.6875,60.40625,title_body,6.4,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+11,founder,50.6875,60.40625,title_dots,6.65,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+11,founder,50.6875,60.40625,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+11,founder,50.6875,60.40625,subtitle_mount,4.35,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+11,founder,50.6875,60.40625,subtitle_type,4.52,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+11,founder,50.6875,60.40625,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+11,founder,50.6875,60.40625,detail,1.7,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+11,founder,50.6875,60.40625,subject_body,0.05,1.25,210,cutout silhouette matte,fully keyed transparent subject,body-specific contour reveal,original generated illustration
+11,founder,50.6875,60.40625,subject_detail,0.48,1.03,235,independent head/hand/scroll mask / limited articulated movement,masked secondary parts,detail parts settle after main silhouette,cleanly registered sublayers
+11,founder,50.6875,60.40625,subject_shadow,0.05,1.4,175,contact shadow offset / softness,soft floating contact,separate optical settling,warm scene-matched contact
+12,foundation,60.40625,70.96875,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+12,foundation,60.40625,70.96875,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+12,foundation,60.40625,70.96875,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+12,foundation,60.40625,70.96875,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+12,foundation,60.40625,70.96875,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+12,foundation,60.40625,70.96875,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+12,foundation,60.40625,70.96875,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+12,foundation,60.40625,70.96875,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+12,foundation,60.40625,70.96875,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+12,foundation,60.40625,70.96875,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+12,foundation,60.40625,70.96875,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+12,foundation,60.40625,70.96875,subject_body,0.05,1.25,210,cutout silhouette matte,fully keyed transparent subject,body-specific contour reveal,original generated illustration
+12,foundation,60.40625,70.96875,subject_detail,0.48,1.03,235,independent head/hand/scroll mask / limited articulated movement,masked secondary parts,detail parts settle after main silhouette,cleanly registered sublayers
+12,foundation,60.40625,70.96875,subject_shadow,0.05,1.4,175,contact shadow offset / softness,soft floating contact,separate optical settling,warm scene-matched contact
+13,map,70.96875,73.75,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+13,map,70.96875,73.75,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+13,map,70.96875,73.75,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+13,map,70.96875,73.75,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+13,map,70.96875,73.75,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+13,map,70.96875,73.75,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+13,map,70.96875,73.75,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+13,map,70.96875,73.75,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+13,map,70.96875,73.75,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+13,map,70.96875,73.75,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+13,map,70.96875,73.75,detail,1.1125,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+14,aqueduct,73.75,79.5,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+14,aqueduct,73.75,79.5,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+14,aqueduct,73.75,79.5,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+14,aqueduct,73.75,79.5,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+14,aqueduct,73.75,79.5,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+14,aqueduct,73.75,79.5,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+14,aqueduct,73.75,79.5,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+14,aqueduct,73.75,79.5,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+14,aqueduct,73.75,79.5,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+14,aqueduct,73.75,79.5,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+14,aqueduct,73.75,79.5,detail,2.3000000000000003,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+15,growth,79.5,81.84375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+15,growth,79.5,81.84375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+15,growth,79.5,81.84375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+15,growth,79.5,81.84375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+15,growth,79.5,81.84375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+15,growth,79.5,81.84375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+15,growth,79.5,81.84375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+15,growth,79.5,81.84375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+15,growth,79.5,81.84375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+15,growth,79.5,81.84375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+15,growth,79.5,81.84375,detail,0.9375,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+16,red,81.84375,91.1875,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+16,red,81.84375,91.1875,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+16,red,81.84375,91.1875,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+16,red,81.84375,91.1875,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+16,red,81.84375,91.1875,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+16,red,81.84375,91.1875,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+16,red,81.84375,91.1875,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+16,red,81.84375,91.1875,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+16,red,81.84375,91.1875,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+16,red,81.84375,91.1875,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+16,red,81.84375,91.1875,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+17,home,91.1875,97.84375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+17,home,91.1875,97.84375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+17,home,91.1875,97.84375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+17,home,91.1875,97.84375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+17,home,91.1875,97.84375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+17,home,91.1875,97.84375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+17,home,91.1875,97.84375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+17,home,91.1875,97.84375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+17,home,91.1875,97.84375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+17,home,91.1875,97.84375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+17,home,91.1875,97.84375,detail,2.6625,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+18,patrons,97.84375,105.5,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+18,patrons,97.84375,105.5,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+18,patrons,97.84375,105.5,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+18,patrons,97.84375,105.5,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+18,patrons,97.84375,105.5,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+18,patrons,97.84375,105.5,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+18,patrons,97.84375,105.5,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+18,patrons,97.84375,105.5,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+18,patrons,97.84375,105.5,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+18,patrons,97.84375,105.5,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+18,patrons,97.84375,105.5,detail,3.0625,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+19,transformation,105.5,112.3125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+19,transformation,105.5,112.3125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+19,transformation,105.5,112.3125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+19,transformation,105.5,112.3125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+19,transformation,105.5,112.3125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+19,transformation,105.5,112.3125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+19,transformation,105.5,112.3125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+19,transformation,105.5,112.3125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+19,transformation,105.5,112.3125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+19,transformation,105.5,112.3125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+19,transformation,105.5,112.3125,detail,2.725,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+20,pool,112.3125,121.3125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+20,pool,112.3125,121.3125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+20,pool,112.3125,121.3125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+20,pool,112.3125,121.3125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+20,pool,112.3125,121.3125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+20,pool,112.3125,121.3125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+20,pool,112.3125,121.3125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+20,pool,112.3125,121.3125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+20,pool,112.3125,121.3125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+20,pool,112.3125,121.3125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+20,pool,112.3125,121.3125,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+20,pool,112.3125,121.3125,reflection,2.7,1.25,102,separate lower-photo track matte,reflection concealed,waterline reveals downward,unaltered real reflection
+21,court,121.3125,125.9375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+21,court,121.3125,125.9375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+21,court,121.3125,125.9375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+21,court,121.3125,125.9375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+21,court,121.3125,125.9375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+21,court,121.3125,125.9375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+21,court,121.3125,125.9375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+21,court,121.3125,125.9375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+21,court,121.3125,125.9375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+21,court,121.3125,125.9375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+21,court,121.3125,125.9375,detail,1.85,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+22,lions,125.9375,129.25,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+22,lions,125.9375,129.25,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+22,lions,125.9375,129.25,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+22,lions,125.9375,129.25,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+22,lions,125.9375,129.25,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+22,lions,125.9375,129.25,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+22,lions,125.9375,129.25,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+22,lions,125.9375,129.25,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+22,lions,125.9375,129.25,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+22,lions,125.9375,129.25,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+22,lions,125.9375,129.25,detail,1.3250000000000002,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+23,columns,129.25,133.84375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+23,columns,129.25,133.84375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+23,columns,129.25,133.84375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+23,columns,129.25,133.84375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+23,columns,129.25,133.84375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+23,columns,129.25,133.84375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+23,columns,129.25,133.84375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+23,columns,129.25,133.84375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+23,columns,129.25,133.84375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+23,columns,129.25,133.84375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+23,columns,129.25,133.84375,detail,1.8375000000000001,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+24,rim,133.84375,141.09375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+24,rim,133.84375,141.09375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+24,rim,133.84375,141.09375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+24,rim,133.84375,141.09375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+24,rim,133.84375,141.09375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+24,rim,133.84375,141.09375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+24,rim,133.84375,141.09375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+24,rim,133.84375,141.09375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+24,rim,133.84375,141.09375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+24,rim,133.84375,141.09375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+24,rim,133.84375,141.09375,detail,2.9000000000000004,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+25,dome,141.09375,149.375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+25,dome,141.09375,149.375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+25,dome,141.09375,149.375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+25,dome,141.09375,149.375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+25,dome,141.09375,149.375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+25,dome,141.09375,149.375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+25,dome,141.09375,149.375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+25,dome,141.09375,149.375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+25,dome,141.09375,149.375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+25,dome,141.09375,149.375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+25,dome,141.09375,149.375,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+26,motto,149.375,158.59375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+26,motto,149.375,158.59375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+26,motto,149.375,158.59375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+26,motto,149.375,158.59375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+26,motto,149.375,158.59375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+26,motto,149.375,158.59375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+26,motto,149.375,158.59375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+26,motto,149.375,158.59375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+26,motto,149.375,158.59375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+26,motto,149.375,158.59375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+26,motto,149.375,158.59375,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+27,sound,158.59375,168.40625,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+27,sound,158.59375,168.40625,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+27,sound,158.59375,168.40625,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+27,sound,158.59375,168.40625,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+27,sound,158.59375,168.40625,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+27,sound,158.59375,168.40625,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+27,sound,158.59375,168.40625,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+27,sound,158.59375,168.40625,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+27,sound,158.59375,168.40625,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+27,sound,158.59375,168.40625,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+27,sound,158.59375,168.40625,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+29,poet,239.75,247.75,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+29,poet,239.75,247.75,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+29,poet,239.75,247.75,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+29,poet,239.75,247.75,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+29,poet,239.75,247.75,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+29,poet,239.75,247.75,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+29,poet,239.75,247.75,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+29,poet,239.75,247.75,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+29,poet,239.75,247.75,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+29,poet,239.75,247.75,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+29,poet,239.75,247.75,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+29,poet,239.75,247.75,subject_body,0.05,1.25,210,cutout silhouette matte,fully keyed transparent subject,body-specific contour reveal,original generated illustration
+29,poet,239.75,247.75,subject_detail,0.48,1.03,235,independent head/hand/scroll mask / limited articulated movement,masked secondary parts,detail parts settle after main silhouette,cleanly registered sublayers
+29,poet,239.75,247.75,subject_shadow,0.05,1.4,175,contact shadow offset / softness,soft floating contact,separate optical settling,warm scene-matched contact
+30,fall,247.75,254.65625,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+30,fall,247.75,254.65625,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+30,fall,247.75,254.65625,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+30,fall,247.75,254.65625,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+30,fall,247.75,254.65625,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+30,fall,247.75,254.65625,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+30,fall,247.75,254.65625,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+30,fall,247.75,254.65625,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+30,fall,247.75,254.65625,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+30,fall,247.75,254.65625,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+30,fall,247.75,254.65625,detail,2.7625,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+30,fall,247.75,254.65625,subject_body,0.05,1.25,210,cutout silhouette matte,fully keyed transparent subject,body-specific contour reveal,original generated illustration
+30,fall,247.75,254.65625,subject_detail,0.48,1.03,235,independent head/hand/scroll mask / limited articulated movement,masked secondary parts,detail parts settle after main silhouette,cleanly registered sublayers
+30,fall,247.75,254.65625,subject_shadow,0.05,1.4,175,contact shadow offset / softness,soft floating contact,separate optical settling,warm scene-matched contact
+31,key,254.65625,261.28125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+31,key,254.65625,261.28125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+31,key,254.65625,261.28125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+31,key,254.65625,261.28125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+31,key,254.65625,261.28125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+31,key,254.65625,261.28125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+31,key,254.65625,261.28125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+31,key,254.65625,261.28125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+31,key,254.65625,261.28125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+31,key,254.65625,261.28125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+31,key,254.65625,261.28125,detail,2.6500000000000004,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+31,key,254.65625,261.28125,subject_body,0.05,1.25,210,cutout silhouette matte,fully keyed transparent subject,body-specific contour reveal,original generated illustration
+31,key,254.65625,261.28125,subject_detail,0.48,1.03,235,independent head/hand/scroll mask / limited articulated movement,masked secondary parts,detail parts settle after main silhouette,cleanly registered sublayers
+31,key,254.65625,261.28125,subject_shadow,0.05,1.4,175,contact shadow offset / softness,soft floating contact,separate optical settling,warm scene-matched contact
+32,sigh,261.28125,269.03125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+32,sigh,261.28125,269.03125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+32,sigh,261.28125,269.03125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+32,sigh,261.28125,269.03125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+32,sigh,261.28125,269.03125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+32,sigh,261.28125,269.03125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+32,sigh,261.28125,269.03125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+32,sigh,261.28125,269.03125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+32,sigh,261.28125,269.03125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+32,sigh,261.28125,269.03125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+32,sigh,261.28125,269.03125,detail,3.1,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+33,change,269.03125,281.75,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+33,change,269.03125,281.75,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+33,change,269.03125,281.75,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+33,change,269.03125,281.75,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+33,change,269.03125,281.75,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+33,change,269.03125,281.75,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+33,change,269.03125,281.75,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+33,change,269.03125,281.75,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+33,change,269.03125,281.75,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+33,change,269.03125,281.75,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+33,change,269.03125,281.75,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+34,resistance,281.75,286.84375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+34,resistance,281.75,286.84375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+34,resistance,281.75,286.84375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+34,resistance,281.75,286.84375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+34,resistance,281.75,286.84375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+34,resistance,281.75,286.84375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+34,resistance,281.75,286.84375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+34,resistance,281.75,286.84375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+34,resistance,281.75,286.84375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+34,resistance,281.75,286.84375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+34,resistance,281.75,286.84375,detail,2.0375,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+35,archive,286.84375,293.75,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+35,archive,286.84375,293.75,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+35,archive,286.84375,293.75,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+35,archive,286.84375,293.75,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+35,archive,286.84375,293.75,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+35,archive,286.84375,293.75,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+35,archive,286.84375,293.75,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+35,archive,286.84375,293.75,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+35,archive,286.84375,293.75,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+35,archive,286.84375,293.75,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+35,archive,286.84375,293.75,detail,2.7625,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+36,visitors,293.75,302.34375,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+36,visitors,293.75,302.34375,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+36,visitors,293.75,302.34375,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+36,visitors,293.75,302.34375,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+36,visitors,293.75,302.34375,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+36,visitors,293.75,302.34375,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+36,visitors,293.75,302.34375,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+36,visitors,293.75,302.34375,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+36,visitors,293.75,302.34375,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+36,visitors,293.75,302.34375,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+36,visitors,293.75,302.34375,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+37,return,302.34375,314.15625,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+37,return,302.34375,314.15625,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+37,return,302.34375,314.15625,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+37,return,302.34375,314.15625,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+37,return,302.34375,314.15625,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+37,return,302.34375,314.15625,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+37,return,302.34375,314.15625,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+37,return,302.34375,314.15625,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+37,return,302.34375,314.15625,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+37,return,302.34375,314.15625,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+37,return,302.34375,314.15625,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+38,dream,314.15625,319.03125,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+38,dream,314.15625,319.03125,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+38,dream,314.15625,319.03125,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+38,dream,314.15625,319.03125,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+38,dream,314.15625,319.03125,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+38,dream,314.15625,319.03125,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+38,dream,314.15625,319.03125,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+38,dream,314.15625,319.03125,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+38,dream,314.15625,319.03125,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+38,dream,314.15625,319.03125,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+38,dream,314.15625,319.03125,detail,1.9500000000000002,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words
+39,closing,319.03125,329.1875,backdrop,0,0,-580,camera parallax only,visible,no decorative element motion,fixed world substrate
+39,closing,319.03125,329.1875,paper_shadow,0,1.25,35,shadow offset / blur / density,wide soft low-density shadow,narrows as paper approaches its plane,12px optical offset
+39,closing,319.03125,329.1875,paper_mount,0.08,0.68,55,custom torn-edge mask,matte closed,angled right-to-left peel,original mount geometry
+39,closing,319.03125,329.1875,photo,0.3,1.05,90,image-specific track matte,hidden by matte,independent reveal after mount,original crop and grading
+39,closing,319.03125,329.1875,title_body,0.32,1.08,495,three-band shaped-text alpha matte,native Arabic shape retained but masked,"baseline, ascenders and descenders reveal on staggered curves",original text and font pixels
+39,closing,319.03125,329.1875,title_dots,0.55,0.92,495,"component masks, right-to-left range selector",dots masked at their original positions,local apertures reveal dots after their body strokes,correct joined Arabic typography
+39,closing,319.03125,329.1875,eyebrow,0.12,0.68,495,Arabic mask reveal,hidden by matte,separate smaller type clock,original label
+39,closing,319.03125,329.1875,subtitle_mount,0.85,0.55,125,paper matte / independent shadow,paper hidden,tear-edge grows across its final position,original subtitle backing
+39,closing,319.03125,329.1875,subtitle_type,1.04,0.76,530,Arabic body/dot mattes,type hidden independently of backing,right-to-left ink build,original words
+39,closing,319.03125,329.1875,thread,0.72,1.75,450,trim path / moving stroke tip,zero length,arc-length reveal with a following tip,original red path
+39,closing,319.03125,329.1875,detail,3.2,0.82,495,independent type matte,hidden,supporting detail follows primary explanation,original words

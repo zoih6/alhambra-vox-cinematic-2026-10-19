@@ -1,0 +1,6212 @@
+{
+  "version": "layered-v5",
+  "width": 1920,
+  "height": 1080,
+  "fps": 32,
+  "song_source_in": 618.67,
+  "song_source_out": 690.0,
+  "song_exact_seconds": 71.33000000000004,
+  "song_frames": 2283,
+  "song_video_seconds": 71.34375,
+  "song_padding_seconds": 0.013749999999959073,
+  "narration_cut_in": 168.40625,
+  "narration_resume_source": 175.96875,
+  "narration_resume_new": 239.75,
+  "narration_tail_offset": 63.78125,
+  "credits_start": 329.1875,
+  "credits_seconds": 7,
+  "duration": 336.1875,
+  "total_frames": 10758,
+  "original_narration_seconds": 265.4,
+  "source_scenes": [
+    {
+      "id": "01",
+      "from": 0,
+      "to": 3.9375,
+      "type": "stone",
+      "title": "لحجر",
+      "eyebrow": "هل يمكن",
+      "subtitle": "أن يحفظ الشعر؟",
+      "focus": 230
+    },
+    {
+      "id": "02",
+      "from": 3.9375,
+      "to": 7.8125,
+      "type": "inscription",
+      "title": "جدران",
+      "subtitle": "تروي التاريخ",
+      "focus": 100
+    },
+    {
+      "id": "03",
+      "from": 7.8125,
+      "to": 10.71875,
+      "type": "centuries",
+      "title": "٨",
+      "subtitle": "قرون",
+      "focus": 60
+    },
+    {
+      "id": "04",
+      "from": 10.71875,
+      "to": 14.15625,
+      "type": "map",
+      "title": "هنا",
+      "subtitle": "هضبة السبيكة",
+      "detail": "غرناطة · الأندلس",
+      "focus": -30
+    },
+    {
+      "id": "05",
+      "from": 14.15625,
+      "to": 17.9375,
+      "type": "sky",
+      "title": "تعانق السماء",
+      "subtitle": "غرناطة",
+      "focus": -100
+    },
+    {
+      "id": "06",
+      "from": 17.9375,
+      "to": 22.5,
+      "type": "layers",
+      "title": "قصر",
+      "eyebrow": "ليس مجرّد",
+      "focus": 120
+    },
+    {
+      "id": "07",
+      "from": 22.5,
+      "to": 26.09375,
+      "type": "poem",
+      "title": "قصيدة",
+      "eyebrow": "بل كُتب ليكون",
+      "focus": 80
+    },
+    {
+      "id": "08",
+      "from": 26.09375,
+      "to": 36.75,
+      "type": "hero",
+      "title": "الحمراء",
+      "subtitle": "قصيدة من حجر",
+      "detail": "ذاكرة الأندلس",
+      "focus": -110
+    },
+    {
+      "id": "09",
+      "from": 36.75,
+      "to": 42.125,
+      "type": "year",
+      "title": "١٢٣٨",
+      "subtitle": "بداية الحلم",
+      "focus": 90
+    },
+    {
+      "id": "10",
+      "from": 42.125,
+      "to": 50.6875,
+      "type": "decline",
+      "title": "مدن تتساقط",
+      "subtitle": "الأندلس · القرن الثالث عشر",
+      "focus": -30
+    },
+    {
+      "id": "11",
+      "from": 50.6875,
+      "to": 60.40625,
+      "type": "founder",
+      "title": "ابن الأحمر",
+      "subtitle": "محمد بن يوسف بن نصر",
+      "detail": "حلمٌ أخير",
+      "focus": 140
+    },
+    {
+      "id": "12",
+      "from": 60.40625,
+      "to": 70.96875,
+      "type": "foundation",
+      "title": "حجر الأساس",
+      "subtitle": "غرناطة",
+      "detail": "حلمٌ يجد أرضًا",
+      "focus": 220
+    },
+    {
+      "id": "13",
+      "from": 70.96875,
+      "to": 73.75,
+      "type": "map",
+      "title": "السبيكة",
+      "subtitle": "اختيار المكان",
+      "focus": -30
+    },
+    {
+      "id": "14",
+      "from": 73.75,
+      "to": 79.5,
+      "type": "aqueduct",
+      "title": "٦ كم",
+      "eyebrow": "نحو",
+      "subtitle": "من نهر دارو",
+      "focus": 50
+    },
+    {
+      "id": "15",
+      "from": 79.5,
+      "to": 81.84375,
+      "type": "growth",
+      "title": "فأحيا الأرض",
+      "subtitle": "الماء يصنع الحياة",
+      "focus": 60
+    },
+    {
+      "id": "16",
+      "from": 81.84375,
+      "to": 91.1875,
+      "type": "red",
+      "title": "الحمراء",
+      "subtitle": "طينٌ أحمر · اسمٌ باقٍ",
+      "detail": "بنو الأحمر",
+      "focus": 230
+    },
+    {
+      "id": "17",
+      "from": 91.1875,
+      "to": 97.84375,
+      "type": "home",
+      "title": "أكثر من حصن",
+      "subtitle": "آخر ممالك الأندلس",
+      "focus": -90
+    },
+    {
+      "id": "18",
+      "from": 97.84375,
+      "to": 105.5,
+      "type": "patrons",
+      "title": "القرن الرابع عشر",
+      "subtitle": "يوسف الأول",
+      "detail": "محمد الخامس",
+      "focus": 70
+    },
+    {
+      "id": "19",
+      "from": 105.5,
+      "to": 112.3125,
+      "type": "transformation",
+      "title": "كل شيء له معنى",
+      "subtitle": "من القلعة إلى التحفة",
+      "focus": -70
+    },
+    {
+      "id": "20",
+      "from": 112.3125,
+      "to": 121.3125,
+      "type": "pool",
+      "title": "بهو الريحان",
+      "subtitle": "سماءٌ في الماء",
+      "focus": 80
+    },
+    {
+      "id": "21",
+      "from": 121.3125,
+      "to": 125.9375,
+      "type": "court",
+      "title": "بهو الأسود",
+      "subtitle": "قلب الحمراء",
+      "focus": 90
+    },
+    {
+      "id": "22",
+      "from": 125.9375,
+      "to": 129.25,
+      "type": "lions",
+      "title": "١٢",
+      "subtitle": "أسدًا من الرخام",
+      "focus": 100
+    },
+    {
+      "id": "23",
+      "from": 129.25,
+      "to": 133.84375,
+      "type": "columns",
+      "title": "١٢٤",
+      "subtitle": "عمودًا من الرخام",
+      "focus": 20
+    },
+    {
+      "id": "24",
+      "from": 133.84375,
+      "to": 141.09375,
+      "type": "rim",
+      "title": "قصيدة على الماء",
+      "subtitle": "ابن زمرك",
+      "detail": "حين يتجمّد الماء جمالًا",
+      "focus": 100
+    },
+    {
+      "id": "25",
+      "from": 141.09375,
+      "to": 149.375,
+      "type": "dome",
+      "title": "المقرنصات",
+      "subtitle": "نجومٌ من حجر",
+      "focus": 150
+    },
+    {
+      "id": "26",
+      "from": 149.375,
+      "to": 158.59375,
+      "type": "motto",
+      "title": "ولا غالب إلا الله",
+      "subtitle": "شعارٌ يتردد في الجدران",
+      "focus": 70
+    },
+    {
+      "id": "27",
+      "from": 158.59375,
+      "to": 168.40625,
+      "type": "sound",
+      "title": "بل يغنى",
+      "eyebrow": "الشعر لا يكتب فقط",
+      "subtitle": "من النقش إلى اللحن",
+      "focus": 80
+    },
+    {
+      "id": "28",
+      "from": 168.40625,
+      "to": 175.96875,
+      "type": "verse",
+      "title": "جادك الغيث إذا الغيث همى",
+      "subtitle": "يا زمان الوصل بالأندلس",
+      "focus": 60
+    },
+    {
+      "id": "29",
+      "from": 175.96875,
+      "to": 183.96875,
+      "type": "poet",
+      "title": "لسان الدين بن الخطيب",
+      "subtitle": "وزيرٌ وشاعر",
+      "detail": "لحنٌ لا يموت",
+      "focus": 130
+    },
+    {
+      "id": "30",
+      "from": 183.96875,
+      "to": 190.875,
+      "type": "fall",
+      "title": "١٤٩٢",
+      "subtitle": "٢ يناير",
+      "focus": 70
+    },
+    {
+      "id": "31",
+      "from": 190.875,
+      "to": 197.5,
+      "type": "key",
+      "title": "المفاتيح",
+      "subtitle": "أبو عبد الله الصغير",
+      "focus": 220
+    },
+    {
+      "id": "32",
+      "from": 197.5,
+      "to": 205.25,
+      "type": "sigh",
+      "title": "النظرة الأخيرة",
+      "subtitle": "زفرة العربي الأخيرة",
+      "detail": "رواية شعبية",
+      "focus": -100
+    },
+    {
+      "id": "33",
+      "from": 205.25,
+      "to": 217.96875,
+      "type": "change",
+      "title": "طبقاتٌ من الزمن",
+      "subtitle": "تغيّرٌ وإهمال",
+      "detail": "القرن السادس عشر وما بعده",
+      "focus": 70
+    },
+    {
+      "id": "34",
+      "from": 217.96875,
+      "to": 223.0625,
+      "type": "resistance",
+      "title": "رفضت أن تموت",
+      "subtitle": "الحمراء",
+      "focus": -100
+    },
+    {
+      "id": "35",
+      "from": 223.0625,
+      "to": 229.96875,
+      "type": "archive",
+      "title": "اكتشافٌ متجدد",
+      "subtitle": "القرن التاسع عشر",
+      "detail": "أوراق الرحّالة",
+      "focus": 130
+    },
+    {
+      "id": "36",
+      "from": 229.96875,
+      "to": 238.5625,
+      "type": "visitors",
+      "title": "٢٫٧ مليون",
+      "subtitle": "زائر في ٢٠٢٥ · نحو",
+      "detail": "المصدر: حكومة الأندلس",
+      "focus": 20
+    },
+    {
+      "id": "37",
+      "from": 238.5625,
+      "to": 250.375,
+      "type": "return",
+      "title": "رسالة صمود",
+      "subtitle": "رحل أهلها… وبقي الأثر",
+      "focus": 230
+    },
+    {
+      "id": "38",
+      "from": 250.375,
+      "to": 255.25,
+      "type": "dream",
+      "title": "لم يكن وصلك إلا حلمًا",
+      "subtitle": "وبقي اللحن",
+      "focus": 80
+    },
+    {
+      "id": "39",
+      "from": 255.25,
+      "to": 265.40625,
+      "type": "closing",
+      "title": "ولا غالب إلا الله",
+      "subtitle": "في غرناطة… قصيدة من حجر",
+      "focus": -110
+    },
+    {
+      "id": "40",
+      "from": 265.40625,
+      "to": 269.40625,
+      "type": "credits",
+      "title": "قصيدة من حجر",
+      "subtitle": "الحمراء",
+      "focus": 0
+    }
+  ],
+  "plans": {
+    "01": {
+      "id": "01",
+      "type": "stone",
+      "source_start": 0,
+      "source_end": 3.9375,
+      "new_start": 0,
+      "new_end": 3.9375,
+      "title_unchanged": "لحجر",
+      "subtitle_unchanged": "أن يحفظ الشعر؟",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 230,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.5750000000000002,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "02": {
+      "id": "02",
+      "type": "inscription",
+      "source_start": 3.9375,
+      "source_end": 7.8125,
+      "new_start": 3.9375,
+      "new_end": 7.8125,
+      "title_unchanged": "جدران",
+      "subtitle_unchanged": "تروي التاريخ",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "inscription",
+      "photo_mask": "aperture-lens",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.55,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "03": {
+      "id": "03",
+      "type": "centuries",
+      "source_start": 7.8125,
+      "source_end": 10.71875,
+      "new_start": 7.8125,
+      "new_end": 10.71875,
+      "title_unchanged": "٨",
+      "subtitle_unchanged": "قرون",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 60,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.1625,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "8 separate paper strata; each 0.13s apart; the numeral has its own mask clock",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "04": {
+      "id": "04",
+      "type": "map",
+      "source_start": 10.71875,
+      "source_end": 14.15625,
+      "new_start": 10.71875,
+      "new_end": 14.15625,
+      "title_unchanged": "هنا",
+      "subtitle_unchanged": "هضبة السبيكة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -30,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.375,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "sea plate, country masks, Granada pin, pin ring, location type and route in sequence",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "05": {
+      "id": "05",
+      "type": "sky",
+      "source_start": 14.15625,
+      "source_end": 17.9375,
+      "new_start": 14.15625,
+      "new_end": 17.9375,
+      "title_unchanged": "تعانق السماء",
+      "subtitle_unchanged": "غرناطة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "dawn",
+      "photo_mask": "horizon-rise",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.5125000000000002,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "06": {
+      "id": "06",
+      "type": "layers",
+      "source_start": 17.9375,
+      "source_end": 22.5,
+      "new_start": 17.9375,
+      "new_end": 22.5,
+      "title_unchanged": "قصر",
+      "subtitle_unchanged": "",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 120,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.8250000000000002,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "red foundation, two paper levels, six blueprint cells per level, genuine skyline and three separate tags",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "07": {
+      "id": "07",
+      "type": "poem",
+      "source_start": 22.5,
+      "source_end": 26.09375,
+      "new_start": 22.5,
+      "new_end": 26.09375,
+      "title_unchanged": "قصيدة",
+      "subtitle_unchanged": "",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 80,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.4375,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "five arch outlines, paper body, main connected word and red underline on different clocks",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "08": {
+      "id": "08",
+      "type": "hero",
+      "source_start": 26.09375,
+      "source_end": 36.75,
+      "new_start": 26.09375,
+      "new_end": 36.75,
+      "title_unchanged": "الحمراء",
+      "subtitle_unchanged": "قصيدة من حجر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -110,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "09": {
+      "id": "09",
+      "type": "year",
+      "source_start": 36.75,
+      "source_end": 42.125,
+      "new_start": 36.75,
+      "new_end": 42.125,
+      "title_unchanged": "١٢٣٨",
+      "subtitle_unchanged": "بداية الحلم",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 90,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.15,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "four fixed-position digit regions revealed separately; date underline follows last digit",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "10": {
+      "id": "10",
+      "type": "decline",
+      "source_start": 42.125,
+      "source_end": 50.6875,
+      "new_start": 42.125,
+      "new_end": 50.6875,
+      "title_unchanged": "مدن تتساقط",
+      "subtitle_unchanged": "الأندلس · القرن الثالث عشر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -30,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "map geography, individual city markers, individual crossing strokes; no group movement",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "11": {
+      "id": "11",
+      "type": "founder",
+      "source_start": 50.6875,
+      "source_end": 60.40625,
+      "new_start": 50.6875,
+      "new_end": 60.40625,
+      "title_unchanged": "ابن الأحمر",
+      "subtitle_unchanged": "محمد بن يوسف بن نصر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": "founder",
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 140,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 6.4,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 6.65,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 4.35,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 4.52,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.7,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "subject_body": {
+          "start": 0.05,
+          "duration": 1.25,
+          "depth": 210,
+          "properties": [
+            "cutout silhouette matte"
+          ],
+          "before": "fully keyed transparent subject",
+          "during": "body-specific contour reveal",
+          "settled": "original generated illustration"
+        },
+        "subject_detail": {
+          "start": 0.48,
+          "duration": 1.03,
+          "depth": 235,
+          "properties": [
+            "independent head/hand/scroll mask",
+            "limited articulated movement"
+          ],
+          "before": "masked secondary parts",
+          "during": "detail parts settle after main silhouette",
+          "settled": "cleanly registered sublayers"
+        },
+        "subject_shadow": {
+          "start": 0.05,
+          "duration": 1.4,
+          "depth": 175,
+          "properties": [
+            "contact shadow offset",
+            "softness"
+          ],
+          "before": "soft floating contact",
+          "during": "separate optical settling",
+          "settled": "warm scene-matched contact"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "12": {
+      "id": "12",
+      "type": "foundation",
+      "source_start": 60.40625,
+      "source_end": 70.96875,
+      "new_start": 60.40625,
+      "new_end": 70.96875,
+      "title_unchanged": "حجر الأساس",
+      "subtitle_unchanged": "غرناطة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": "hands",
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 220,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "subject_body": {
+          "start": 0.05,
+          "duration": 1.25,
+          "depth": 210,
+          "properties": [
+            "cutout silhouette matte"
+          ],
+          "before": "fully keyed transparent subject",
+          "during": "body-specific contour reveal",
+          "settled": "original generated illustration"
+        },
+        "subject_detail": {
+          "start": 0.48,
+          "duration": 1.03,
+          "depth": 235,
+          "properties": [
+            "independent head/hand/scroll mask",
+            "limited articulated movement"
+          ],
+          "before": "masked secondary parts",
+          "during": "detail parts settle after main silhouette",
+          "settled": "cleanly registered sublayers"
+        },
+        "subject_shadow": {
+          "start": 0.05,
+          "duration": 1.4,
+          "depth": 175,
+          "properties": [
+            "contact shadow offset",
+            "softness"
+          ],
+          "before": "soft floating contact",
+          "during": "separate optical settling",
+          "settled": "warm scene-matched contact"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "13": {
+      "id": "13",
+      "type": "map",
+      "source_start": 70.96875,
+      "source_end": 73.75,
+      "new_start": 70.96875,
+      "new_end": 73.75,
+      "title_unchanged": "السبيكة",
+      "subtitle_unchanged": "اختيار المكان",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -30,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.1125,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "sea plate, country masks, Granada pin, pin ring, location type and route in sequence",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "14": {
+      "id": "14",
+      "type": "aqueduct",
+      "source_start": 73.75,
+      "source_end": 79.5,
+      "new_start": 73.75,
+      "new_end": 79.5,
+      "title_unchanged": "٦ كم",
+      "subtitle_unchanged": "من نهر دارو",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 50,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.3000000000000003,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "terrain matte, arch strokes, channel bed, flowing water path, distance type and individual plants",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "15": {
+      "id": "15",
+      "type": "growth",
+      "source_start": 79.5,
+      "source_end": 81.84375,
+      "new_start": 79.5,
+      "new_end": 81.84375,
+      "title_unchanged": "فأحيا الأرض",
+      "subtitle_unchanged": "الماء يصنع الحياة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 60,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 0.9375,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "individual stems and leaf strokes follow water; no scaling of the complete panel",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "16": {
+      "id": "16",
+      "type": "red",
+      "source_start": 81.84375,
+      "source_end": 91.1875,
+      "new_start": 81.84375,
+      "new_end": 91.1875,
+      "title_unchanged": "الحمراء",
+      "subtitle_unchanged": "طينٌ أحمر · اسمٌ باقٍ",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 230,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "17": {
+      "id": "17",
+      "type": "home",
+      "source_start": 91.1875,
+      "source_end": 97.84375,
+      "new_start": 91.1875,
+      "new_end": 97.84375,
+      "title_unchanged": "أكثر من حصن",
+      "subtitle_unchanged": "آخر ممالك الأندلس",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -90,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.6625,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "18": {
+      "id": "18",
+      "type": "patrons",
+      "source_start": 97.84375,
+      "source_end": 105.5,
+      "new_start": 97.84375,
+      "new_end": 105.5,
+      "title_unchanged": "القرن الرابع عشر",
+      "subtitle_unchanged": "يوسف الأول",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 70,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.0625,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "two separate arch panels, two names, two masks and independent cast shadows",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "19": {
+      "id": "19",
+      "type": "transformation",
+      "source_start": 105.5,
+      "source_end": 112.3125,
+      "new_start": 105.5,
+      "new_end": 112.3125,
+      "title_unchanged": "كل شيء له معنى",
+      "subtitle_unchanged": "من القلعة إلى التحفة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "myrtles",
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -70,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.725,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "20": {
+      "id": "20",
+      "type": "pool",
+      "source_start": 112.3125,
+      "source_end": 121.3125,
+      "new_start": 112.3125,
+      "new_end": 121.3125,
+      "title_unchanged": "بهو الريحان",
+      "subtitle_unchanged": "سماءٌ في الماء",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "myrtles",
+      "photo_mask": "facade-then-water-reflection",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 80,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "reflection": {
+          "start": 2.7,
+          "duration": 1.25,
+          "depth": 102,
+          "properties": [
+            "separate lower-photo track matte"
+          ],
+          "before": "reflection concealed",
+          "during": "waterline reveals downward",
+          "settled": "unaltered real reflection"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "21": {
+      "id": "21",
+      "type": "court",
+      "source_start": 121.3125,
+      "source_end": 125.9375,
+      "new_start": 121.3125,
+      "new_end": 125.9375,
+      "title_unchanged": "بهو الأسود",
+      "subtitle_unchanged": "قلب الحمراء",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "lions",
+      "photo_mask": "center-out-radial",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 90,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.85,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "22": {
+      "id": "22",
+      "type": "lions",
+      "source_start": 125.9375,
+      "source_end": 129.25,
+      "new_start": 125.9375,
+      "new_end": 129.25,
+      "title_unchanged": "١٢",
+      "subtitle_unchanged": "أسدًا من الرخام",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "lions",
+      "photo_mask": "center-out-radial",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.3250000000000002,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "12 distinct radial markers plus separate bowl contour and number typography",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "23": {
+      "id": "23",
+      "type": "columns",
+      "source_start": 129.25,
+      "source_end": 133.84375,
+      "new_start": 129.25,
+      "new_end": 133.84375,
+      "title_unchanged": "١٢٤",
+      "subtitle_unchanged": "عمودًا من الرخام",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 20,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.8375000000000001,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "124 distinct count marks in four rows; staggered per mark, not a group scale",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "24": {
+      "id": "24",
+      "type": "rim",
+      "source_start": 133.84375,
+      "source_end": 141.09375,
+      "new_start": 133.84375,
+      "new_end": 141.09375,
+      "title_unchanged": "قصيدة على الماء",
+      "subtitle_unchanged": "ابن زمرك",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "lions",
+      "photo_mask": "basin-band",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.9000000000000004,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "25": {
+      "id": "25",
+      "type": "dome",
+      "source_start": 141.09375,
+      "source_end": 149.375,
+      "new_start": 141.09375,
+      "new_end": 149.375,
+      "title_unchanged": "المقرنصات",
+      "subtitle_unchanged": "نجومٌ من حجر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "dome",
+      "photo_mask": "radial-ceiling",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 150,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "genuine ceiling photo, independent geometric facets and separately trimmed star contours",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "26": {
+      "id": "26",
+      "type": "motto",
+      "source_start": 149.375,
+      "source_end": 158.59375,
+      "new_start": 149.375,
+      "new_end": 158.59375,
+      "title_unchanged": "ولا غالب إلا الله",
+      "subtitle_unchanged": "شعارٌ يتردد في الجدران",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "inscription",
+      "photo_mask": "vertical-epigraphy",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 70,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "three independently masked lines; real epigraphy stays untouched",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "27": {
+      "id": "27",
+      "type": "sound",
+      "source_start": 158.59375,
+      "source_end": 168.40625,
+      "new_start": 158.59375,
+      "new_end": 168.40625,
+      "title_unchanged": "بل يغنى",
+      "subtitle_unchanged": "من النقش إلى اللحن",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "inscription",
+      "photo_mask": "vertical-epigraphy",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 80,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "epigraphy, headline body/dots, subtitle backing/type and audio-derived trace have separate clocks",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "29": {
+      "id": "29",
+      "type": "poet",
+      "source_start": 175.96875,
+      "source_end": 183.96875,
+      "new_start": 239.75,
+      "new_end": 247.75,
+      "title_unchanged": "لسان الدين بن الخطيب",
+      "subtitle_unchanged": "وزيرٌ وشاعر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": "poet",
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 130,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "subject_body": {
+          "start": 0.05,
+          "duration": 1.25,
+          "depth": 210,
+          "properties": [
+            "cutout silhouette matte"
+          ],
+          "before": "fully keyed transparent subject",
+          "during": "body-specific contour reveal",
+          "settled": "original generated illustration"
+        },
+        "subject_detail": {
+          "start": 0.48,
+          "duration": 1.03,
+          "depth": 235,
+          "properties": [
+            "independent head/hand/scroll mask",
+            "limited articulated movement"
+          ],
+          "before": "masked secondary parts",
+          "during": "detail parts settle after main silhouette",
+          "settled": "cleanly registered sublayers"
+        },
+        "subject_shadow": {
+          "start": 0.05,
+          "duration": 1.4,
+          "depth": 175,
+          "properties": [
+            "contact shadow offset",
+            "softness"
+          ],
+          "before": "soft floating contact",
+          "during": "separate optical settling",
+          "settled": "warm scene-matched contact"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "30": {
+      "id": "30",
+      "type": "fall",
+      "source_start": 183.96875,
+      "source_end": 190.875,
+      "new_start": 247.75,
+      "new_end": 254.65625,
+      "title_unchanged": "١٤٩٢",
+      "subtitle_unchanged": "٢ يناير",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": "key",
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 70,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.7625,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "subject_body": {
+          "start": 0.05,
+          "duration": 1.25,
+          "depth": 210,
+          "properties": [
+            "cutout silhouette matte"
+          ],
+          "before": "fully keyed transparent subject",
+          "during": "body-specific contour reveal",
+          "settled": "original generated illustration"
+        },
+        "subject_detail": {
+          "start": 0.48,
+          "duration": 1.03,
+          "depth": 235,
+          "properties": [
+            "independent head/hand/scroll mask",
+            "limited articulated movement"
+          ],
+          "before": "masked secondary parts",
+          "during": "detail parts settle after main silhouette",
+          "settled": "cleanly registered sublayers"
+        },
+        "subject_shadow": {
+          "start": 0.05,
+          "duration": 1.4,
+          "depth": 175,
+          "properties": [
+            "contact shadow offset",
+            "softness"
+          ],
+          "before": "soft floating contact",
+          "during": "separate optical settling",
+          "settled": "warm scene-matched contact"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "31": {
+      "id": "31",
+      "type": "key",
+      "source_start": 190.875,
+      "source_end": 197.5,
+      "new_start": 254.65625,
+      "new_end": 261.28125,
+      "title_unchanged": "المفاتيح",
+      "subtitle_unchanged": "أبو عبد الله الصغير",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": "key",
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 220,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.6500000000000004,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        },
+        "subject_body": {
+          "start": 0.05,
+          "duration": 1.25,
+          "depth": 210,
+          "properties": [
+            "cutout silhouette matte"
+          ],
+          "before": "fully keyed transparent subject",
+          "during": "body-specific contour reveal",
+          "settled": "original generated illustration"
+        },
+        "subject_detail": {
+          "start": 0.48,
+          "duration": 1.03,
+          "depth": 235,
+          "properties": [
+            "independent head/hand/scroll mask",
+            "limited articulated movement"
+          ],
+          "before": "masked secondary parts",
+          "during": "detail parts settle after main silhouette",
+          "settled": "cleanly registered sublayers"
+        },
+        "subject_shadow": {
+          "start": 0.05,
+          "duration": 1.4,
+          "depth": 175,
+          "properties": [
+            "contact shadow offset",
+            "softness"
+          ],
+          "before": "soft floating contact",
+          "during": "separate optical settling",
+          "settled": "warm scene-matched contact"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "32": {
+      "id": "32",
+      "type": "sigh",
+      "source_start": 197.5,
+      "source_end": 205.25,
+      "new_start": 261.28125,
+      "new_end": 269.03125,
+      "title_unchanged": "النظرة الأخيرة",
+      "subtitle_unchanged": "زفرة العربي الأخيرة",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "dawn",
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.1,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "33": {
+      "id": "33",
+      "type": "change",
+      "source_start": 205.25,
+      "source_end": 217.96875,
+      "new_start": 269.03125,
+      "new_end": 281.75,
+      "title_unchanged": "طبقاتٌ من الزمن",
+      "subtitle_unchanged": "تغيّرٌ وإهمال",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "dawn",
+      "photo_mask": "archive-sheet",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 70,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "34": {
+      "id": "34",
+      "type": "resistance",
+      "source_start": 217.96875,
+      "source_end": 223.0625,
+      "new_start": 281.75,
+      "new_end": 286.84375,
+      "title_unchanged": "رفضت أن تموت",
+      "subtitle_unchanged": "الحمراء",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -100,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.0375,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "35": {
+      "id": "35",
+      "type": "archive",
+      "source_start": 223.0625,
+      "source_end": 229.96875,
+      "new_start": 286.84375,
+      "new_end": 293.75,
+      "title_unchanged": "اكتشافٌ متجدد",
+      "subtitle_unchanged": "القرن التاسع عشر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "dawn",
+      "photo_mask": "archive-sheet",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 130,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 2.7625,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "36": {
+      "id": "36",
+      "type": "visitors",
+      "source_start": 229.96875,
+      "source_end": 238.5625,
+      "new_start": 293.75,
+      "new_end": 302.34375,
+      "title_unchanged": "٢٫٧ مليون",
+      "subtitle_unchanged": "زائر في ٢٠٢٥ · نحو",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 20,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "numerical text, year label, eighty individual count dots and source credit independent",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "37": {
+      "id": "37",
+      "type": "return",
+      "source_start": 238.5625,
+      "source_end": 250.375,
+      "new_start": 302.34375,
+      "new_end": 314.15625,
+      "title_unchanged": "رسالة صمود",
+      "subtitle_unchanged": "رحل أهلها… وبقي الأثر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": "inscription",
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 230,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "38": {
+      "id": "38",
+      "type": "dream",
+      "source_start": 250.375,
+      "source_end": 255.25,
+      "new_start": 314.15625,
+      "new_end": 319.03125,
+      "title_unchanged": "لم يكن وصلك إلا حلمًا",
+      "subtitle_unchanged": "وبقي اللحن",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": 80,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 1.9500000000000002,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    },
+    "39": {
+      "id": "39",
+      "type": "closing",
+      "source_start": 255.25,
+      "source_end": 265.40625,
+      "new_start": 319.03125,
+      "new_end": 329.1875,
+      "title_unchanged": "ولا غالب إلا الله",
+      "subtitle_unchanged": "في غرناطة… قصيدة من حجر",
+      "font_families_unchanged": [
+        "Amiri",
+        "Alexandria"
+      ],
+      "photo": null,
+      "photo_mask": "angled-paper-reveal",
+      "generated_subject": null,
+      "camera_intent": "slow authored focus move toward the explaining element; no random per-shot zoom",
+      "focus_depth": -110,
+      "roles": {
+        "backdrop": {
+          "start": 0,
+          "duration": 0,
+          "depth": -580,
+          "properties": [
+            "camera parallax only"
+          ],
+          "before": "visible",
+          "during": "no decorative element motion",
+          "settled": "fixed world substrate"
+        },
+        "paper_shadow": {
+          "start": 0,
+          "duration": 1.25,
+          "depth": 35,
+          "properties": [
+            "shadow offset",
+            "blur",
+            "density"
+          ],
+          "before": "wide soft low-density shadow",
+          "during": "narrows as paper approaches its plane",
+          "settled": "12px optical offset"
+        },
+        "paper_mount": {
+          "start": 0.08,
+          "duration": 0.68,
+          "depth": 55,
+          "properties": [
+            "custom torn-edge mask"
+          ],
+          "before": "matte closed",
+          "during": "angled right-to-left peel",
+          "settled": "original mount geometry"
+        },
+        "photo": {
+          "start": 0.3,
+          "duration": 1.05,
+          "depth": 90,
+          "properties": [
+            "image-specific track matte"
+          ],
+          "before": "hidden by matte",
+          "during": "independent reveal after mount",
+          "settled": "original crop and grading"
+        },
+        "title_body": {
+          "start": 0.32,
+          "duration": 1.08,
+          "depth": 495,
+          "properties": [
+            "three-band shaped-text alpha matte"
+          ],
+          "before": "native Arabic shape retained but masked",
+          "during": "baseline, ascenders and descenders reveal on staggered curves",
+          "settled": "original text and font pixels"
+        },
+        "title_dots": {
+          "start": 0.55,
+          "duration": 0.92,
+          "depth": 495,
+          "properties": [
+            "component masks, right-to-left range selector"
+          ],
+          "before": "dots masked at their original positions",
+          "during": "local apertures reveal dots after their body strokes",
+          "settled": "correct joined Arabic typography"
+        },
+        "eyebrow": {
+          "start": 0.12,
+          "duration": 0.68,
+          "depth": 495,
+          "properties": [
+            "Arabic mask reveal"
+          ],
+          "before": "hidden by matte",
+          "during": "separate smaller type clock",
+          "settled": "original label"
+        },
+        "subtitle_mount": {
+          "start": 0.85,
+          "duration": 0.55,
+          "depth": 125,
+          "properties": [
+            "paper matte",
+            "independent shadow"
+          ],
+          "before": "paper hidden",
+          "during": "tear-edge grows across its final position",
+          "settled": "original subtitle backing"
+        },
+        "subtitle_type": {
+          "start": 1.04,
+          "duration": 0.76,
+          "depth": 530,
+          "properties": [
+            "Arabic body/dot mattes"
+          ],
+          "before": "type hidden independently of backing",
+          "during": "right-to-left ink build",
+          "settled": "original words"
+        },
+        "thread": {
+          "start": 0.72,
+          "duration": 1.75,
+          "depth": 450,
+          "properties": [
+            "trim path",
+            "moving stroke tip"
+          ],
+          "before": "zero length",
+          "during": "arc-length reveal with a following tip",
+          "settled": "original red path"
+        },
+        "detail": {
+          "start": 3.2,
+          "duration": 0.82,
+          "depth": 495,
+          "properties": [
+            "independent type matte"
+          ],
+          "before": "hidden",
+          "during": "supporting detail follows primary explanation",
+          "settled": "original words"
+        }
+      },
+      "graphic_sequence": "Independent subject/image, typography, backing, shadow and annotation layers; static elements remain static where motion is not useful.",
+      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+    }
+  },
+  "output_is_not_an_aep_project": true,
+  "native_render_implementation": "Canvas alpha mattes, shape-path trimming, per-element keyframes, parent transforms and perspective layers"
+}

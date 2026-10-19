@@ -1,0 +1,23 @@
+{
+  "version": "layered-v5",
+  "exact_source_interval": [
+    618.67,
+    690.0
+  ],
+  "exact_excerpt_seconds": 71.33000000000004,
+  "video_padding_silence_seconds": 0.013749999999959073,
+  "music_movie_interval": [
+    168.40625,
+    239.75
+  ],
+  "narrator_during_song": false,
+  "tempo_changed": false,
+  "duration": 336.1875,
+  "frames": 10758,
+  "measured_encoded_lufs": -14.42,
+  "measured_encoded_true_peak_dbtp": -1.93,
+  "source_recording_sha256": "6486f1852653f5ecfd7c0a07bb759b193ccf350f1fec72fde1078280bbd9e422",
+  "mix_path": "/home/user/.cache/alhambra-render/layered-v5/alhambra-layered-v5-full-mix.m4a",
+  "mix_sha256": "f0b740f0ab744e25df12915bb0a8ab8db8e4829e1768ed323489c4a346115999",
+  "raw_premix_peak": 0.9036598205566406
+}
