@@ -1,0 +1,9 @@
+{
+  "moved_not_deleted": true,
+  "previous_path": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+  "runtime_path": "/home/user/.cache/alhambra-render/retained-previous/alhambra-cinematic-viewing-1080p32.mp4",
+  "sha256": "025d1b9494d0f9b6780d0fe83fa03c9d1a8f54f4251a1b001035de3534ed50b6",
+  "public_repository_path": "renders/versions/pre-muwashah/alhambra-cinematic-viewing-1080p32.mp4",
+  "public_backup_commit": "c59a4596fbe892f6f19bb293d24630283bbbb1a1",
+  "reason": "Preserve the previous version while keeping the new delivery within the 128 MB snapshot budget."
+}

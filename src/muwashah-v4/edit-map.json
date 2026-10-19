@@ -1,0 +1,216 @@
+{
+  "version": "muwashah-v4",
+  "fps": 32,
+  "width": 1920,
+  "height": 1080,
+  "song_source_in": 564.125,
+  "song_source_out": 609.75,
+  "music_duration": 45.625,
+  "music_frames": 1460,
+  "narrator_cut_in": 168.40625,
+  "narrator_resume_source": 175.96875,
+  "narrator_resume_new": 214.03125,
+  "source_voice_video_end": 265.40625,
+  "credit_duration": 7.0,
+  "credit_frames": 224,
+  "credit_start_new": 303.46875,
+  "duration": 310.46875,
+  "total_frames": 9935,
+  "credit_text": "المونتاج والتصميم بواسطة شذى ياسر",
+  "performer_from_embedded_metadata": "Sami Yusuf",
+  "recording_title": "En al-Ándalus",
+  "lyric_lines": [
+    {
+      "id": 0,
+      "text": "جادك الغيث إذا الغيث همى",
+      "start": 0.635,
+      "until": 9.075,
+      "words": [
+        {
+          "text": "جادك",
+          "start": 0.635,
+          "end": 2.035
+        },
+        {
+          "text": "الغيث",
+          "start": 2.035,
+          "end": 2.875
+        },
+        {
+          "text": "إذا",
+          "start": 2.875,
+          "end": 3.355
+        },
+        {
+          "text": "الغيث",
+          "start": 3.355,
+          "end": 4.115
+        },
+        {
+          "text": "همى",
+          "start": 4.115,
+          "end": 5.615
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "يا زمان الوصل بالأندلس",
+      "start": 9.075,
+      "until": 21.275,
+      "words": [
+        {
+          "text": "يا",
+          "start": 9.075,
+          "end": 9.635
+        },
+        {
+          "text": "زمان",
+          "start": 9.635,
+          "end": 10.955
+        },
+        {
+          "text": "الوصل",
+          "start": 10.955,
+          "end": 11.735
+        },
+        {
+          "text": "بالأندلس",
+          "start": 11.735,
+          "end": 17.775
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "جادك الغيث إذا الغيث همى",
+      "start": 21.275,
+      "until": 26.335,
+      "words": [
+        {
+          "text": "جادك",
+          "start": 21.275,
+          "end": 22.675
+        },
+        {
+          "text": "الغيث",
+          "start": 22.675,
+          "end": 23.775
+        },
+        {
+          "text": "إذا",
+          "start": 23.775,
+          "end": 24.375
+        },
+        {
+          "text": "الغيث",
+          "start": 24.375,
+          "end": 25.675
+        },
+        {
+          "text": "همى",
+          "start": 25.675,
+          "end": 26.335
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "يا زمان الوصل بالأندلس",
+      "start": 26.335,
+      "until": 33.695,
+      "words": [
+        {
+          "text": "يا",
+          "start": 26.335,
+          "end": 26.595
+        },
+        {
+          "text": "زمان",
+          "start": 26.595,
+          "end": 28.415
+        },
+        {
+          "text": "الوصل",
+          "start": 28.415,
+          "end": 29.215
+        },
+        {
+          "text": "بالأندلس",
+          "start": 29.215,
+          "end": 32.735
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "لم يكن وصلك إلا حلما",
+      "start": 33.695,
+      "until": 37.475,
+      "words": [
+        {
+          "text": "لم",
+          "start": 33.695,
+          "end": 33.995
+        },
+        {
+          "text": "يكن",
+          "start": 33.995,
+          "end": 34.555
+        },
+        {
+          "text": "وصلك",
+          "start": 34.555,
+          "end": 35.455
+        },
+        {
+          "text": "إلا",
+          "start": 35.455,
+          "end": 36.395
+        },
+        {
+          "text": "حلما",
+          "start": 36.395,
+          "end": 37.475
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "في الكرى أو خلسة المختلس",
+      "start": 37.475,
+      "until": 45.625,
+      "words": [
+        {
+          "text": "في",
+          "start": 37.475,
+          "end": 37.975
+        },
+        {
+          "text": "الكرى",
+          "start": 37.975,
+          "end": 40.455
+        },
+        {
+          "text": "أو",
+          "start": 40.455,
+          "end": 40.675
+        },
+        {
+          "text": "خلسة",
+          "start": 40.675,
+          "end": 42.875
+        },
+        {
+          "text": "المختلس",
+          "start": 42.875,
+          "end": 44.275
+        }
+      ]
+    }
+  ],
+  "timing_method": "Embedded synchronized lyrics + two local ASR passes + canonical spelling correction. Short fused sung function words are interpolated within their phrase; not a claim of manual phoneme alignment.",
+  "original_narrator_source_unchanged": true,
+  "narrator_in_music_section": false,
+  "song_tempo_changed": false
+}

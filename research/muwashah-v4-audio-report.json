@@ -1,0 +1,29 @@
+{
+  "version": "muwashah-v4",
+  "duration": 310.46875,
+  "total_frames": 9935,
+  "narrator_replaced_source_range": [
+    168.40625,
+    175.96875
+  ],
+  "singing_source_range": [
+    564.125,
+    609.75
+  ],
+  "singing_inserted_range": [
+    168.40625,
+    214.03125
+  ],
+  "narrator_resume_source": 175.96875,
+  "narrator_resume_new": 214.03125,
+  "lyrics_source": "embedded lyrics plus local recognition, with canonical text corrected",
+  "raw_premix_sample_peak": 0.9036598205566406,
+  "measured_encoded_lufs": -14.47,
+  "measured_encoded_true_peak_dbtp": -1.97,
+  "original_song_sha256": "6486f1852653f5ecfd7c0a07bb759b193ccf350f1fec72fde1078280bbd9e422",
+  "mix_path": "/home/user/.cache/alhambra-render/muwashah-v4/alhambra-muwashah-full-mix.m4a",
+  "mix_sha256": "99ad2b796a2a0a00e3cd83ac7eb688b6e07e001121f14f74c4b82a1ffcc73431",
+  "narration_overlap_during_song": false,
+  "song_time_stretched": false,
+  "new_credit": "المونتاج والتصميم بواسطة شذى ياسر"
+}
