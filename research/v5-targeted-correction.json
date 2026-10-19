@@ -1,0 +1,19 @@
+{
+  "reason": "Foreground paper partially obscured the original word حجر in scene 06.",
+  "change": "Raise only the three editorial bottom tags, preserving their words, font and coordinates.",
+  "re_render_parts": [
+    2,
+    3
+  ],
+  "already_rendered_parts_kept": 27,
+  "remaining_original_parts": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "prior_build": "f26451dec561",
+  "final_build": "6f07a6d1412c",
+  "push_failure_recovered_without_force_push": true
+}

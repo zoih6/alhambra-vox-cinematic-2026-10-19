@@ -39,6 +39,7 @@ def remove_function(text,name):
  return text[:start]+text[i:]
 for old_primitive in ['camera','arabic','paper','trace','arch','imageLayer','object','label','tag','photoNode','cutNode','titleBlock','redThread','stage','mapGraphic','draw']:
  base=remove_function(base,old_primitive)
+base=base.replace("t,1.1+i*.5,260,'ink',45)","t,1.1+i*.5,260,'ink',45,{z:610})")
 core=(D/'layer-core.js').read_text();scenes=(D/'layer-scenes.js').read_text()
 base=base.replace('window.seek=draw;',core+'\n'+scenes+'\nwindow.seek=v5Draw;')
 base=base.replace('draw(0);document.documentElement.dataset.ready', 'v5Draw(0);document.documentElement.dataset.ready')

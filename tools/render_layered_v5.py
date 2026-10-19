@@ -9,7 +9,7 @@ R=Path(__file__).resolve().parents[1];D=R/'src/layered-v5';C=json.loads((D/'laye
 BUILD=hashlib.sha256((D/'engine.js').read_bytes()+(D/'layer-plan.json').read_bytes()+(D/'chorus-data.json').read_bytes()).hexdigest()[:12]
 TMP=Path('/home/user/.cache/alhambra-render/layered-v5');RUN=TMP/BUILD;SEG=RUN/'segments';SEG.mkdir(parents=True,exist_ok=True);MIX=TMP/'alhambra-layered-v5-full-mix.m4a'
 Q=R/'sync-queue';MAN=R/'research/v5-render-manifest.json'
-parser=argparse.ArgumentParser();parser.add_argument('--parts',default='all');args=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--parts',default='all');parser.add_argument('--viewing-crf',type=int,default=26);args=parser.parse_args()
 SELECTED=list(range(math.ceil(TOTAL/320))) if args.parts=='all' else [int(p)-1 for p in args.parts.split(',')]
 S={'version':'layered-v5','build_id':BUILD,'status':'rendering','width':1920,'height':1080,'fps':32,'total_frames':TOTAL,'duration':C['duration'],'segments':[],'segment_count':math.ceil(TOTAL/320),'whole_film_rebuilt':True,'master_crf':20,'original_sources_deleted':False}
 if MAN.exists():
@@ -99,7 +99,7 @@ try:
  release=submit('v5-800-master-release.json','release',master,'renders/final/v5-master-download.json','Publish the full-quality layered v5 master as a versioned repository release asset')
  S.update(master_download_url=release['download_url'],master_backup_commit=release['commit']);save()
  dest=R/'deliverables/alhambra-layered-v5-viewing-1080p32.mp4';replacement=dest.stat().st_size if dest.exists() else 0;budget=118*1024**2-eligible()+replacement-2*1024**2
- for crf in [26,27,28,29]:
+ for crf in range(max(26,args.viewing_crf),32):
   candidate=RUN/f'viewing-crf{crf}.mp4';print('V5_VIEWING_ENCODE',crf,'budget',budget,flush=True)
   subprocess.run([FF,'-y','-v','warning','-i',str(master),'-map','0:v:0','-map','0:a:0','-vf','setpts=PTS-STARTPTS','-c:v','libx264','-preset','veryfast','-crf',str(crf),'-threads','2','-pix_fmt','yuv420p','-r','32','-g','64','-frames:v',str(TOTAL),'-t',str(C['duration']),'-c:a','copy','-avoid_negative_ts','disabled','-movflags','+faststart',str(candidate)],check=True,timeout=1200)
   v=media(candidate);assert v['frames']==TOTAL and v['fps']==32

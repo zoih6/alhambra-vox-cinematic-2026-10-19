@@ -68,7 +68,7 @@ function sceneContent(g,cam,s,globalT){
  case 'layers':
   for(let i=0;i<3;i++)object(g,cam,20+i*65,639,889-i*110,t,i*.17,c=>{paper(c,0,0,1100,190,i===0?'red':'paper',-.06,210+i);c.strokeStyle='rgba(37,42,34,.35)';c.lineWidth=3;for(let j=0;j<6;j++)c.strokeRect(-450+j*155,-38,122,76);},{heavy:true});
   cutNode(g,cam,'palace',645,501,1160,t,.35,210,-.035);titleBlock(g,cam,s,t,{y:518,size:300,width:560});
-  ['حجر','هندسة','حكاية'].forEach((x,i)=>tag(g,cam,x,280+i*385,967-i*10,t,1.1+i*.5,260,'ink',45));redThread(g,cam,t);break;
+  ['حجر','هندسة','حكاية'].forEach((x,i)=>tag(g,cam,x,280+i*385,967-i*10,t,1.1+i*.5,260,'ink',45,{z:610}));redThread(g,cam,t);break;
  case 'poem':case 'dream':case 'verse':case 'motto':case 'closing':
   if(s.type==='closing'){cutNode(g,cam,'palace',910,895,1670,t,.1,-25);}
   if(s.type==='motto'){photoNode(g,cam,'inscription',450,557,615,745,t,0,-.06,70);for(let i=0;i<3;i++)label(g,cam,'ولا غالب إلا الله',1700,550+i*130,70,t,1.2+i*.8,{family:'Amiri',weight:400,maxWidth:850,color:i===2?P.redLight:P.paper});}

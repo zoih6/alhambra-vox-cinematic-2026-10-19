@@ -1,7 +1,7 @@
 {
   "version": "layered-v5",
-  "build_id": "f26451dec561",
-  "status": "paused_on_error",
+  "build_id": "6f07a6d1412c",
+  "status": "rendering",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -26,44 +26,6 @@
       "time_out": 10.0,
       "repository_path": "renders/layered-v5/f26451dec561/segments/part-001.mp4",
       "backup_commit": "4f470c482e58c670cddc428ea8380310fee152ca"
-    },
-    {
-      "path": "/home/user/.cache/alhambra-render/layered-v5/f26451dec561/segments/part-002.mp4",
-      "frames": 320,
-      "fps": 32.0,
-      "width": 1920,
-      "height": 1080,
-      "duration": 10.0,
-      "start_time": 0.0,
-      "audio_streams": 1,
-      "bytes": 3102894,
-      "sha256": "daeb0fa2f536d4a78fee5f2b5ed329ba0d4e2b05cbfe5918264524b92d83af3c",
-      "part": 2,
-      "frame_in": 320,
-      "frame_out_exclusive": 640,
-      "time_in": 10.0,
-      "time_out": 20.0,
-      "repository_path": "renders/layered-v5/f26451dec561/segments/part-002.mp4",
-      "backup_commit": "2e65ed345c4835fbf4579492f77f03703c4d14b8"
-    },
-    {
-      "path": "/home/user/.cache/alhambra-render/layered-v5/f26451dec561/segments/part-003.mp4",
-      "frames": 320,
-      "fps": 32.0,
-      "width": 1920,
-      "height": 1080,
-      "duration": 10.0,
-      "start_time": 0.0,
-      "audio_streams": 1,
-      "bytes": 4897727,
-      "sha256": "64ceda58348a2ae1d6b5b4503ee99ed0382b81418ab0adcafbfeb643bf575b33",
-      "part": 3,
-      "frame_in": 640,
-      "frame_out_exclusive": 960,
-      "time_in": 20.0,
-      "time_out": 30.0,
-      "repository_path": "renders/layered-v5/f26451dec561/segments/part-003.mp4",
-      "backup_commit": "ca02bd9e555865e8331ac08519cee2202a64fb8a"
     },
     {
       "path": "/home/user/.cache/alhambra-render/layered-v5/f26451dec561/segments/part-004.mp4",
@@ -556,7 +518,8 @@
       "frame_out_exclusive": 9280,
       "time_in": 280.0,
       "time_out": 290.0,
-      "repository_path": "renders/layered-v5/f26451dec561/segments/part-029.mp4"
+      "repository_path": "renders/layered-v5/f26451dec561/segments/part-029.mp4",
+      "backup_commit": "b30e8ab993f3b35be4d7f8f32ca38fd27612e3e1"
     }
   ],
   "segment_count": 34,
@@ -566,5 +529,9 @@
   "current_segment": 29,
   "current_frame": 9280,
   "capture_fps": 11.28,
-  "error": "Backup failed; production paused so no completed piece is lost."
+  "reused_previous_build": "f26451dec561",
+  "corrected_parts": [
+    2,
+    3
+  ]
 }

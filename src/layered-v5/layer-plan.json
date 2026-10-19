@@ -1348,7 +1348,30 @@
         }
       },
       "graphic_sequence": "red foundation, two paper levels, six blueprint cells per level, genuine skyline and three separate tags",
-      "parent_control": "layout only; no shared entrance translation/scale/opacity"
+      "parent_control": "layout only; no shared entrance translation/scale/opacity",
+      "bottom_tag_layers": [
+        {
+          "text": "حجر",
+          "depth": 610,
+          "ink_depth": 612,
+          "start": 1.1,
+          "reason": "Keep the original word fully legible above the foreground paper; printed ink remains parent-linked."
+        },
+        {
+          "text": "هندسة",
+          "depth": 610,
+          "ink_depth": 612,
+          "start": 1.6,
+          "reason": "Keep the original word fully legible above the foreground paper; printed ink remains parent-linked."
+        },
+        {
+          "text": "حكاية",
+          "depth": 610,
+          "ink_depth": 612,
+          "start": 2.1,
+          "reason": "Keep the original word fully legible above the foreground paper; printed ink remains parent-linked."
+        }
+      ]
     },
     "07": {
       "id": "07",

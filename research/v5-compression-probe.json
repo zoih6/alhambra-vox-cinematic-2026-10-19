@@ -1,0 +1,55 @@
+{
+  "samples": [
+    {
+      "part": 1,
+      "crf": 26,
+      "in_bytes": 2798689,
+      "out_bytes": 1026311,
+      "video_ratio": 0.3179722544713892,
+      "elapsed": 3.47
+    },
+    {
+      "part": 1,
+      "crf": 29,
+      "in_bytes": 2798689,
+      "out_bytes": 727235,
+      "video_ratio": 0.2028849931638607,
+      "elapsed": 3.09
+    },
+    {
+      "part": 7,
+      "crf": 26,
+      "in_bytes": 9005811,
+      "out_bytes": 2256965,
+      "video_ratio": 0.23359177252384816,
+      "elapsed": 3.69
+    },
+    {
+      "part": 7,
+      "crf": 29,
+      "in_bytes": 9005811,
+      "out_bytes": 1172088,
+      "video_ratio": 0.11039164933246921,
+      "elapsed": 3.32
+    },
+    {
+      "part": 18,
+      "crf": 26,
+      "in_bytes": 4620185,
+      "out_bytes": 1536969,
+      "video_ratio": 0.3024690143059623,
+      "elapsed": 3.74
+    },
+    {
+      "part": 18,
+      "crf": 29,
+      "in_bytes": 4620185,
+      "out_bytes": 1061970,
+      "video_ratio": 0.19500767501812707,
+      "elapsed": 3.5
+    }
+  ],
+  "estimated_master_bytes": 137710911.3400862,
+  "estimated_viewing_crf26_bytes": 44012871.25689491,
+  "estimated_viewing_crf29_bytes": 28916656.634967256
+}
