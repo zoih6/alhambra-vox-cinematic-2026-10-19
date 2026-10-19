@@ -1075,6 +1075,31 @@
       },
       "repository_path": "renders/a08c190140/segments/part-026.mp4",
       "backup_commit": "2a64a8c1b83e0871a71ae27bdefe43795917e63c"
+    },
+    {
+      "path": "/home/user/.cache/alhambra-render/muwashah-v4/segments/closing-junction.mp4",
+      "frames": 173,
+      "fps": 32.0,
+      "width": 1920,
+      "height": 1080,
+      "start": 0.0,
+      "duration": 5.40625,
+      "bytes": 1814018,
+      "sha256": "a02b8fc24b327dcd7be59caf2b297ac03252e3b921b030c4dc6d6f3ee35bcdf8",
+      "name": "closing-junction",
+      "role": "frame-exact retained narration junction",
+      "new_render": true,
+      "frame_in_new": 9538,
+      "frame_out_new": 9711,
+      "source": {
+        "source_part": 27,
+        "source_frames": [
+          0,
+          173
+        ]
+      },
+      "repository_path": "renders/muwashah-v4/segments/closing-junction.mp4",
+      "backup_commit": "aa31dfcbc6031142e4aa829a40e236683b8255d4"
     }
   ],
   "unchanged_source_pieces_reused": 24,
@@ -1084,5 +1109,5 @@
   ],
   "music_duration": 45.625,
   "credit_text": "المونتاج والتصميم بواسطة شذى ياسر",
-  "completed_new_frames": 9538
+  "completed_new_frames": 9711
 }

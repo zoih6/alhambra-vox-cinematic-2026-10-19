@@ -254,9 +254,15 @@
       "bytes": 1814018,
       "sha256": "a02b8fc24b327dcd7be59caf2b297ac03252e3b921b030c4dc6d6f3ee35bcdf8",
       "source_name": "closing-junction.mp4"
+    },
+    {
+      "path": "renders/muwashah-v4/segments/shatha-yasser-credits.mp4",
+      "bytes": 1098947,
+      "sha256": "668a981ade3803e751023bf8973a20e1c64d371387e973219afe937551d933c6",
+      "source_name": "shatha-yasser-credits.mp4"
     }
   ],
-  "last_commit": "780d01613f7905311189bdbf53622a968be06e94",
+  "last_commit": "aa31dfcbc6031142e4aa829a40e236683b8255d4",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
