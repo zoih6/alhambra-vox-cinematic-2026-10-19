@@ -1,0 +1,13 @@
+{
+  "scenes_checked": 50,
+  "javascript_errors": [],
+  "deterministic_seek": true,
+  "shared_parent_entrance_transforms": false,
+  "text_shaping": "native joined Arabic, before body/dot mattes",
+  "paper_photo_shadow": "separate scheduled layers",
+  "legacy_full_frame_wipe": "removed from the active v5 engine",
+  "width": 1920,
+  "height": 1080,
+  "fps": 32,
+  "full_render_still_pending": true
+}

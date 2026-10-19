@@ -44,5 +44,8 @@
   "archive_bytes": 11714904,
   "archive_sha256": "d206b2758155283f7a2fabce5aa057f94164755a9a9b2af013c5bc46d10a7f32",
   "repository_path": "archives/static-v1-full-resolution.zip",
-  "purpose": "Preserve all eight original full-HD stills while reserving local snapshot space for the new high-quality viewing film. Interactive board and contact sheet remain local."
+  "purpose": "Preserve all eight original full-HD stills while reserving local snapshot space for the new high-quality viewing film. Interactive board and contact sheet remain local.",
+  "local_files_moved_not_deleted": true,
+  "runtime_path": "/home/user/.cache/alhambra-render/preserved-static-v1-frames",
+  "backup_commit": "3a4524baa54fc5de2136b089408223a1a48eab59"
 }

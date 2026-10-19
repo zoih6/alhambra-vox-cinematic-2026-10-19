@@ -1,0 +1,15 @@
+{
+  "version": "layered-v5",
+  "build_id": "f26451dec561",
+  "status": "rendering",
+  "width": 1920,
+  "height": 1080,
+  "fps": 32,
+  "total_frames": 10758,
+  "duration": 336.1875,
+  "segments": [],
+  "segment_count": 34,
+  "whole_film_rebuilt": true,
+  "master_crf": 20,
+  "original_sources_deleted": false
+}

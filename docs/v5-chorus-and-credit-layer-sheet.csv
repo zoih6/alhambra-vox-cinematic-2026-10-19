@@ -1,0 +1,256 @@
+﻿scene,element,text,start_seconds,duration,property
+M01,M01.word0.body-baseline,جادك,168.63625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word0.ascenders,جادك,168.67475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word0.descenders,جادك,168.70624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word0.marks,جادك,168.70624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word0.underline,جادك,168.73624999999998,0.5914999999999999,trim path with following cap
+M01,M01.word1.body-baseline,الغيث,169.54625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word1.ascenders,الغيث,169.58474999999999,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word1.descenders,الغيث,169.61624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word1.marks,الغيث,169.61624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word1.underline,الغيث,169.64624999999998,0.806,trim path with following cap
+M01,M01.word2.body-baseline,إذا,170.78625,0.48840000000000017,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word2.ascenders,إذا,170.82475,0.48840000000000017,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word2.descenders,إذا,170.85625,0.48840000000000017,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word2.marks,إذا,170.85625,0.2148960000000001,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word2.underline,إذا,170.88625,0.48100000000000015,trim path with following cap
+M01,M01.word3.body-baseline,الغيث,171.52625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word3.ascenders,الغيث,171.56475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word3.descenders,الغيث,171.59625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word3.marks,الغيث,171.59625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word3.underline,الغيث,171.62625,0.7540000000000001,trim path with following cap
+M01,M01.word4.body-baseline,همى,172.68625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word4.ascenders,همى,172.72475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word4.descenders,همى,172.75625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word4.marks,همى,172.75625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M01,M01.word4.underline,همى,172.78625,0.7929999999999998,trim path with following cap
+M02,M02.word0.body-baseline,يا,174.20625,0.39600000000000035,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word0.ascenders,يا,174.24475,0.39600000000000035,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word0.descenders,يا,174.27625,0.39600000000000035,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word0.marks,يا,174.27625,0.17424000000000014,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word0.underline,يا,174.30625,0.39000000000000035,trim path with following cap
+M02,M02.word1.body-baseline,زمان,174.80625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word1.ascenders,زمان,174.84475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word1.descenders,زمان,174.87625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word1.marks,زمان,174.87625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word1.underline,زمان,174.90625,0.6889999999999997,trim path with following cap
+M02,M02.word2.body-baseline,الوصل,175.86625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word2.ascenders,الوصل,175.90475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word2.descenders,الوصل,175.93625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word2.marks,الوصل,175.93625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word2.underline,الوصل,175.96625,0.6630000000000004,trim path with following cap
+M02,M02.word3.body-baseline,بالأندلس,176.88625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word3.ascenders,بالأندلس,176.92475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word3.descenders,بالأندلس,176.95624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word3.marks,بالأندلس,176.95624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M02,M02.word3.underline,بالأندلس,176.98624999999998,1.4949999999999994,trim path with following cap
+M03,M03.word0.body-baseline,لم,179.74625,0.4619999999999996,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word0.ascenders,لم,179.78475,0.4619999999999996,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word0.descenders,لم,179.81625,0.4619999999999996,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word0.marks,لم,179.81625,0.20327999999999982,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word0.underline,لم,179.84625,0.45499999999999957,trim path with following cap
+M03,M03.word1.body-baseline,يكن,180.44625,0.47520000000000046,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word1.ascenders,يكن,180.48475,0.47520000000000046,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word1.descenders,يكن,180.51624999999999,0.47520000000000046,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word1.marks,يكن,180.51624999999999,0.2090880000000002,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word1.underline,يكن,180.54625,0.4680000000000004,trim path with following cap
+M03,M03.word2.body-baseline,وصلك,181.16625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word2.ascenders,وصلك,181.20475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word2.descenders,وصلك,181.23624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word2.marks,وصلك,181.23624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word2.underline,وصلك,181.26624999999999,0.9620000000000003,trim path with following cap
+M03,M03.word3.body-baseline,إلا,182.64625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word3.ascenders,إلا,182.68475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word3.descenders,إلا,182.71625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word3.marks,إلا,182.71625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word3.underline,إلا,182.74625,0.6239999999999994,trim path with following cap
+M03,M03.word4.body-baseline,حلما,183.60625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word4.ascenders,حلما,183.64475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word4.descenders,حلما,183.67624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word4.marks,حلما,183.67624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M03,M03.word4.underline,حلما,183.70624999999998,1.0009999999999994,trim path with following cap
+M04,M04.word0.body-baseline,في,185.88625,0.2112000000000002,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word0.ascenders,في,185.92475,0.2112000000000002,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word0.descenders,في,185.95624999999998,0.2112000000000002,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word0.marks,في,185.95624999999998,0.12,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word0.underline,في,185.98624999999998,0.24,trim path with following cap
+M04,M04.word1.body-baseline,الكرى,186.20625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word1.ascenders,الكرى,186.24475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word1.descenders,الكرى,186.27625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word1.marks,الكرى,186.27625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word1.underline,الكرى,186.30625,0.6889999999999992,trim path with following cap
+M04,M04.word2.body-baseline,أو,187.26625,0.3036000000000006,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word2.ascenders,أو,187.30475,0.3036000000000006,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word2.descenders,أو,187.33625,0.3036000000000006,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word2.marks,أو,187.33625,0.13358400000000026,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word2.underline,أو,187.36625,0.29900000000000054,trim path with following cap
+M04,M04.word3.body-baseline,خلسة,187.72625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word3.ascenders,خلسة,187.76475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word3.descenders,خلسة,187.79625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word3.marks,خلسة,187.79625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word3.underline,خلسة,187.82625,0.6240000000000006,trim path with following cap
+M04,M04.word4.body-baseline,المختلس,188.68625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word4.ascenders,المختلس,188.72475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word4.descenders,المختلس,188.75625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word4.marks,المختلس,188.75625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M04,M04.word4.underline,المختلس,188.78625,1.2739999999999982,trim path with following cap
+M05,M05.word0.body-baseline,جادك,191.39625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word0.ascenders,جادك,191.43475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word0.descenders,جادك,191.46625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word0.marks,جادك,191.46625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word0.underline,جادك,191.49625,0.7084999999999999,trim path with following cap
+M05,M05.word1.body-baseline,الغيث,192.48624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word1.ascenders,الغيث,192.52474999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word1.descenders,الغيث,192.55624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word1.marks,الغيث,192.55624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word1.underline,الغيث,192.58624999999998,0.8320000000000007,trim path with following cap
+M05,M05.word2.body-baseline,إذا,193.76625,0.4487999999999998,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word2.ascenders,إذا,193.80475,0.4487999999999998,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word2.descenders,إذا,193.83625,0.4487999999999998,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word2.marks,إذا,193.83625,0.19747199999999993,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word2.underline,إذا,193.86625,0.44199999999999984,trim path with following cap
+M05,M05.word3.body-baseline,الغيث,194.44625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word3.ascenders,الغيث,194.48475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word3.descenders,الغيث,194.51624999999999,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word3.marks,الغيث,194.51624999999999,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word3.underline,الغيث,194.54625,0.7930000000000016,trim path with following cap
+M05,M05.word4.body-baseline,همى,195.66625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word4.ascenders,همى,195.70475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word4.descenders,همى,195.73624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word4.marks,همى,195.73624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M05,M05.word4.underline,همى,195.76624999999999,0.636999999999998,trim path with following cap
+M06,M06.word0.body-baseline,يا,197.34625,0.26399999999999907,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word0.ascenders,يا,197.38475,0.26399999999999907,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word0.descenders,يا,197.41625,0.26399999999999907,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word0.marks,يا,197.41625,0.12,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word0.underline,يا,197.44625,0.25999999999999907,trim path with following cap
+M06,M06.word1.body-baseline,زمان,197.74625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word1.ascenders,زمان,197.78475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word1.descenders,زمان,197.81625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word1.marks,زمان,197.81625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word1.underline,زمان,197.84625,0.8450000000000005,trim path with following cap
+M06,M06.word2.body-baseline,الوصل,199.04625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word2.ascenders,الوصل,199.08474999999999,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word2.descenders,الوصل,199.11624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word2.marks,الوصل,199.11624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word2.underline,الوصل,199.14624999999998,0.7149999999999986,trim path with following cap
+M06,M06.word3.body-baseline,بالأندلس,200.14625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word3.ascenders,بالأندلس,200.18475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word3.descenders,بالأندلس,200.21625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word3.marks,بالأندلس,200.21625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M06,M06.word3.underline,بالأندلس,200.24625,1.4040000000000001,trim path with following cap
+M07,M07.word0.body-baseline,لم,202.85625,0.5213999999999994,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word0.ascenders,لم,202.89475,0.5213999999999994,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word0.descenders,لم,202.92624999999998,0.5213999999999994,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word0.marks,لم,202.92624999999998,0.22941599999999976,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word0.underline,لم,202.95624999999998,0.5134999999999995,trim path with following cap
+M07,M07.word1.body-baseline,يكن,203.64625,0.3695999999999968,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word1.ascenders,يكن,203.68475,0.3695999999999968,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word1.descenders,يكن,203.71625,0.3695999999999968,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word1.marks,يكن,203.71625,0.1626239999999986,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word1.underline,يكن,203.74625,0.3639999999999969,trim path with following cap
+M07,M07.word2.body-baseline,وصلك,204.20625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word2.ascenders,وصلك,204.24475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word2.descenders,وصلك,204.27625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word2.marks,وصلك,204.27625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word2.underline,وصلك,204.30625,0.8580000000000002,trim path with following cap
+M07,M07.word3.body-baseline,إلا,205.52625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word3.ascenders,إلا,205.56475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word3.descenders,إلا,205.59625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word3.marks,إلا,205.59625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word3.underline,إلا,205.62625,0.7540000000000024,trim path with following cap
+M07,M07.word4.body-baseline,حلما,206.68625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word4.ascenders,حلما,206.72475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word4.descenders,حلما,206.75625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word4.marks,حلما,206.75625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M07,M07.word4.underline,حلما,206.78625,1.1570000000000007,trim path with following cap
+M08,M08.word0.body-baseline,في,208.66625,0.34320000000000206,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word0.ascenders,في,208.70475,0.34320000000000206,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word0.descenders,في,208.73624999999998,0.34320000000000206,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word0.marks,في,208.73624999999998,0.15100800000000092,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word0.underline,في,208.76624999999999,0.338000000000002,trim path with following cap
+M08,M08.word1.body-baseline,الكرى,209.18625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word1.ascenders,الكرى,209.22475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word1.descenders,الكرى,209.25625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word1.marks,الكرى,209.25625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word1.underline,الكرى,209.28625,0.8580000000000002,trim path with following cap
+M08,M08.word2.body-baseline,أو,210.50625,0.165,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word2.ascenders,أو,210.54475,0.165,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word2.descenders,أو,210.57625,0.165,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word2.marks,أو,210.57625,0.12,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word2.underline,أو,210.60625,0.24,trim path with following cap
+M08,M08.word3.body-baseline,خلسة,210.75625,0.5741999999999984,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word3.ascenders,خلسة,210.79475,0.5741999999999984,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word3.descenders,خلسة,210.82625,0.5741999999999984,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word3.marks,خلسة,210.82625,0.25264799999999926,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word3.underline,خلسة,210.85625,0.5654999999999983,trim path with following cap
+M08,M08.word4.body-baseline,المختلس,211.62625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word4.ascenders,المختلس,211.66475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word4.descenders,المختلس,211.69625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word4.marks,المختلس,211.69625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M08,M08.word4.underline,المختلس,211.72625,1.6120000000000025,trim path with following cap
+M09,M09.word0.body-baseline,يا,214.14625,0.4619999999999972,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word0.ascenders,يا,214.18475,0.4619999999999972,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word0.descenders,يا,214.21625,0.4619999999999972,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word0.marks,يا,214.21625,0.20327999999999877,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word0.underline,يا,214.24625,0.45499999999999724,trim path with following cap
+M09,M09.word1.body-baseline,زمان,214.84625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word1.ascenders,زمان,214.88475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word1.descenders,زمان,214.91625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word1.marks,زمان,214.91625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word1.underline,زمان,214.94625,1.0919999999999999,trim path with following cap
+M09,M09.word2.body-baseline,الوصل,216.52625,0.5808000000000018,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word2.ascenders,الوصل,216.56475,0.5808000000000018,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word2.descenders,الوصل,216.59625,0.5808000000000018,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word2.marks,الوصل,216.59625,0.2555520000000008,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word2.underline,الوصل,216.62625,0.5720000000000017,trim path with following cap
+M09,M09.word3.body-baseline,بالأندلس,217.40625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word3.ascenders,بالأندلس,217.44475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word3.descenders,بالأندلس,217.47625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word3.marks,بالأندلس,217.47625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M09,M09.word3.underline,بالأندلس,217.50625,1.4820000000000009,trim path with following cap
+M10,M10.word0.body-baseline,يا,219.68625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word0.ascenders,يا,219.72475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word0.descenders,يا,219.75625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word0.marks,يا,219.75625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word0.underline,يا,219.78625,0.715000000000001,trim path with following cap
+M10,M10.word1.body-baseline,زمان,220.78625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word1.ascenders,زمان,220.82475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word1.descenders,زمان,220.85625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word1.marks,زمان,220.85625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word1.underline,زمان,220.88625,0.6240000000000006,trim path with following cap
+M10,M10.word2.body-baseline,الوصل,221.74625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word2.ascenders,الوصل,221.78475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word2.descenders,الوصل,221.81625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word2.marks,الوصل,221.81625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word2.underline,الوصل,221.84625,0.8319999999999962,trim path with following cap
+M10,M10.word3.body-baseline,بالأندلس,223.02625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word3.ascenders,بالأندلس,223.06475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word3.descenders,بالأندلس,223.09625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word3.marks,بالأندلس,223.09625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M10,M10.word3.underline,بالأندلس,223.12625,1.5860000000000032,trim path with following cap
+M11,M11.word0.body-baseline,يا,224.93625,0.3498000000000008,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word0.ascenders,يا,224.97475,0.3498000000000008,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word0.descenders,يا,225.00625,0.3498000000000008,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word0.marks,يا,225.00625,0.15391200000000035,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word0.underline,يا,225.03625,0.34450000000000075,trim path with following cap
+M11,M11.word1.body-baseline,زمان,225.46625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word1.ascenders,زمان,225.50475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word1.descenders,زمان,225.53625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word1.marks,زمان,225.53625,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word1.underline,زمان,225.56625,1.3910000000000005,trim path with following cap
+M11,M11.word2.body-baseline,الوصل,227.60625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word2.ascenders,الوصل,227.64475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word2.descenders,الوصل,227.67624999999998,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word2.marks,الوصل,227.67624999999998,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word2.underline,الوصل,227.70624999999998,0.8709999999999977,trim path with following cap
+M11,M11.word3.body-baseline,بالأندلس,228.94625,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word3.ascenders,بالأندلس,228.98475,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word3.descenders,بالأندلس,229.01624999999999,0.6,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word3.marks,بالأندلس,229.01624999999999,0.264,native shaped Arabic alpha matte; original glyph positions fixed
+M11,M11.word3.underline,بالأندلس,229.04625,3.288999999999997,trim path with following cap
+C5,header_ranges.0,المونتاج,329.3075,1.03,separate Arabic body and mark mattes; no block position/opacity entrance
+C5,header_ranges.1,والتصميم,329.9075,1.03,separate Arabic body and mark mattes; no block position/opacity entrance
+C5,header_ranges.2,بواسطة,330.4875,1.03,separate Arabic body and mark mattes; no block position/opacity entrance
+C5,name_ranges.0,شذى,330.9275,1.03,separate Arabic body and mark mattes; no block position/opacity entrance
+C5,name_ranges.1,ياسر,331.5875,1.03,separate Arabic body and mark mattes; no block position/opacity entrance

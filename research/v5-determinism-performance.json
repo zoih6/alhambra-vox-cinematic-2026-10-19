@@ -1,0 +1,8 @@
+{
+  "random_access_seek_identical": true,
+  "capture_fps": {
+    "2": 18.96,
+    "56": 15.18,
+    "184": 10.82
+  }
+}

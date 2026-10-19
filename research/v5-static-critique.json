@@ -1,0 +1,27 @@
+{
+  "pass_1": {
+    "reviewed": "21 representative stills plus cutout sheet",
+    "issues": [
+      "founder disclosure was behind foreground paper",
+      "mason sleeve concealment bar competed with the title",
+      "background light flag dimmed foreground lyrics"
+    ]
+  },
+  "pass_2": {
+    "fixed": [
+      "disclosure moved to its own foreground plane",
+      "masonry image split into hands and stone, clipped into a paper study instead of a bar",
+      "light flag moved behind editorial elements"
+    ],
+    "reviewed": "50 scene states plus mask-development strip"
+  },
+  "pass_3": {
+    "fixed": [
+      "portrait reveal changed to head-first, avoiding a temporarily headless figure",
+      "independent soft type shadow restored contrast",
+      "key shaft reveal now grows from bow toward the bit"
+    ],
+    "reviewed": "full-resolution portrait entrance, courtyard title, credit and lyric samples"
+  },
+  "motion_and_audio_note": "Native function and encoded media checks remain separate from these static critiques."
+}

@@ -461,6 +461,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -608,6 +619,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -757,6 +779,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -904,6 +937,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -1053,6 +1097,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -1200,6 +1255,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -1349,6 +1415,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -1496,6 +1573,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -1645,6 +1733,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -1793,6 +1892,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -1940,6 +2050,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 6.4,
@@ -2124,6 +2245,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -2307,6 +2439,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -2454,6 +2597,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -2603,6 +2757,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -2750,6 +2915,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -2899,6 +3075,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -3046,6 +3233,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -3195,6 +3393,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -3342,6 +3551,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -3502,6 +3722,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -3649,6 +3880,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -3798,6 +4040,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -3945,6 +4198,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -4094,6 +4358,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -4241,6 +4516,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -4390,6 +4676,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -4537,6 +4834,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -4721,6 +5029,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -4903,6 +5222,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -5087,6 +5417,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -5234,6 +5575,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -5383,6 +5735,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -5530,6 +5893,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -5679,6 +6053,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -5826,6 +6211,17 @@
           "before": "hidden by matte",
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
+        },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
         },
         "title_body": {
           "start": 0.32,
@@ -5975,6 +6371,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -6123,6 +6530,17 @@
           "during": "independent reveal after mount",
           "settled": "original crop and grading"
         },
+        "title_shadow": {
+          "start": 0.35,
+          "duration": 1.23,
+          "depth": 494.7,
+          "properties": [
+            "independent blurred ink shadow matte"
+          ],
+          "before": "masked",
+          "during": "follows the emerging ink without moving the title",
+          "settled": "soft contrast shadow"
+        },
         "title_body": {
           "start": 0.32,
           "duration": 1.08,
@@ -6208,5 +6626,1961 @@
     }
   },
   "output_is_not_an_aep_project": true,
-  "native_render_implementation": "Canvas alpha mattes, shape-path trimming, per-element keyframes, parent transforms and perspective layers"
+  "native_render_implementation": "Canvas alpha mattes, shape-path trimming, per-element keyframes, parent transforms and perspective layers",
+  "chorus_scene_plans": [
+    {
+      "scene": "M01",
+      "world": "rain-arch",
+      "start": 168.63625,
+      "end": 174.20625,
+      "nodes": [
+        {
+          "id": "M01.word0.body-baseline",
+          "text": "جادك",
+          "start": 168.63625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word0.ascenders",
+          "text": "جادك",
+          "start": 168.67475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word0.descenders",
+          "text": "جادك",
+          "start": 168.70624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word0.marks",
+          "text": "جادك",
+          "start": 168.70624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word0.underline",
+          "text": "جادك",
+          "start": 168.73624999999998,
+          "duration": 0.5914999999999999,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M01.word1.body-baseline",
+          "text": "الغيث",
+          "start": 169.54625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word1.ascenders",
+          "text": "الغيث",
+          "start": 169.58474999999999,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word1.descenders",
+          "text": "الغيث",
+          "start": 169.61624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word1.marks",
+          "text": "الغيث",
+          "start": 169.61624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word1.underline",
+          "text": "الغيث",
+          "start": 169.64624999999998,
+          "duration": 0.806,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M01.word2.body-baseline",
+          "text": "إذا",
+          "start": 170.78625,
+          "duration": 0.48840000000000017,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word2.ascenders",
+          "text": "إذا",
+          "start": 170.82475,
+          "duration": 0.48840000000000017,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word2.descenders",
+          "text": "إذا",
+          "start": 170.85625,
+          "duration": 0.48840000000000017,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word2.marks",
+          "text": "إذا",
+          "start": 170.85625,
+          "duration": 0.2148960000000001,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word2.underline",
+          "text": "إذا",
+          "start": 170.88625,
+          "duration": 0.48100000000000015,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M01.word3.body-baseline",
+          "text": "الغيث",
+          "start": 171.52625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word3.ascenders",
+          "text": "الغيث",
+          "start": 171.56475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word3.descenders",
+          "text": "الغيث",
+          "start": 171.59625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word3.marks",
+          "text": "الغيث",
+          "start": 171.59625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word3.underline",
+          "text": "الغيث",
+          "start": 171.62625,
+          "duration": 0.7540000000000001,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M01.word4.body-baseline",
+          "text": "همى",
+          "start": 172.68625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word4.ascenders",
+          "text": "همى",
+          "start": 172.72475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word4.descenders",
+          "text": "همى",
+          "start": 172.75625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word4.marks",
+          "text": "همى",
+          "start": 172.75625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M01.word4.underline",
+          "text": "همى",
+          "start": 172.78625,
+          "duration": 0.7929999999999998,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M02",
+      "world": "palace-memory",
+      "start": 174.20625,
+      "end": 179.74625,
+      "nodes": [
+        {
+          "id": "M02.word0.body-baseline",
+          "text": "يا",
+          "start": 174.20625,
+          "duration": 0.39600000000000035,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word0.ascenders",
+          "text": "يا",
+          "start": 174.24475,
+          "duration": 0.39600000000000035,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word0.descenders",
+          "text": "يا",
+          "start": 174.27625,
+          "duration": 0.39600000000000035,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word0.marks",
+          "text": "يا",
+          "start": 174.27625,
+          "duration": 0.17424000000000014,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word0.underline",
+          "text": "يا",
+          "start": 174.30625,
+          "duration": 0.39000000000000035,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M02.word1.body-baseline",
+          "text": "زمان",
+          "start": 174.80625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word1.ascenders",
+          "text": "زمان",
+          "start": 174.84475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word1.descenders",
+          "text": "زمان",
+          "start": 174.87625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word1.marks",
+          "text": "زمان",
+          "start": 174.87625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word1.underline",
+          "text": "زمان",
+          "start": 174.90625,
+          "duration": 0.6889999999999997,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M02.word2.body-baseline",
+          "text": "الوصل",
+          "start": 175.86625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word2.ascenders",
+          "text": "الوصل",
+          "start": 175.90475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word2.descenders",
+          "text": "الوصل",
+          "start": 175.93625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word2.marks",
+          "text": "الوصل",
+          "start": 175.93625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word2.underline",
+          "text": "الوصل",
+          "start": 175.96625,
+          "duration": 0.6630000000000004,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M02.word3.body-baseline",
+          "text": "بالأندلس",
+          "start": 176.88625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word3.ascenders",
+          "text": "بالأندلس",
+          "start": 176.92475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word3.descenders",
+          "text": "بالأندلس",
+          "start": 176.95624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word3.marks",
+          "text": "بالأندلس",
+          "start": 176.95624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M02.word3.underline",
+          "text": "بالأندلس",
+          "start": 176.98624999999998,
+          "duration": 1.4949999999999994,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M03",
+      "world": "mirror-dream",
+      "start": 179.74625,
+      "end": 185.88625,
+      "nodes": [
+        {
+          "id": "M03.word0.body-baseline",
+          "text": "لم",
+          "start": 179.74625,
+          "duration": 0.4619999999999996,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word0.ascenders",
+          "text": "لم",
+          "start": 179.78475,
+          "duration": 0.4619999999999996,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word0.descenders",
+          "text": "لم",
+          "start": 179.81625,
+          "duration": 0.4619999999999996,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word0.marks",
+          "text": "لم",
+          "start": 179.81625,
+          "duration": 0.20327999999999982,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word0.underline",
+          "text": "لم",
+          "start": 179.84625,
+          "duration": 0.45499999999999957,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M03.word1.body-baseline",
+          "text": "يكن",
+          "start": 180.44625,
+          "duration": 0.47520000000000046,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word1.ascenders",
+          "text": "يكن",
+          "start": 180.48475,
+          "duration": 0.47520000000000046,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word1.descenders",
+          "text": "يكن",
+          "start": 180.51624999999999,
+          "duration": 0.47520000000000046,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word1.marks",
+          "text": "يكن",
+          "start": 180.51624999999999,
+          "duration": 0.2090880000000002,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word1.underline",
+          "text": "يكن",
+          "start": 180.54625,
+          "duration": 0.4680000000000004,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M03.word2.body-baseline",
+          "text": "وصلك",
+          "start": 181.16625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word2.ascenders",
+          "text": "وصلك",
+          "start": 181.20475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word2.descenders",
+          "text": "وصلك",
+          "start": 181.23624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word2.marks",
+          "text": "وصلك",
+          "start": 181.23624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word2.underline",
+          "text": "وصلك",
+          "start": 181.26624999999999,
+          "duration": 0.9620000000000003,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M03.word3.body-baseline",
+          "text": "إلا",
+          "start": 182.64625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word3.ascenders",
+          "text": "إلا",
+          "start": 182.68475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word3.descenders",
+          "text": "إلا",
+          "start": 182.71625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word3.marks",
+          "text": "إلا",
+          "start": 182.71625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word3.underline",
+          "text": "إلا",
+          "start": 182.74625,
+          "duration": 0.6239999999999994,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M03.word4.body-baseline",
+          "text": "حلما",
+          "start": 183.60625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word4.ascenders",
+          "text": "حلما",
+          "start": 183.64475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word4.descenders",
+          "text": "حلما",
+          "start": 183.67624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word4.marks",
+          "text": "حلما",
+          "start": 183.67624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M03.word4.underline",
+          "text": "حلما",
+          "start": 183.70624999999998,
+          "duration": 1.0009999999999994,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M04",
+      "world": "ink-geometry",
+      "start": 185.88625,
+      "end": 191.39625,
+      "nodes": [
+        {
+          "id": "M04.word0.body-baseline",
+          "text": "في",
+          "start": 185.88625,
+          "duration": 0.2112000000000002,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word0.ascenders",
+          "text": "في",
+          "start": 185.92475,
+          "duration": 0.2112000000000002,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word0.descenders",
+          "text": "في",
+          "start": 185.95624999999998,
+          "duration": 0.2112000000000002,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word0.marks",
+          "text": "في",
+          "start": 185.95624999999998,
+          "duration": 0.12,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word0.underline",
+          "text": "في",
+          "start": 185.98624999999998,
+          "duration": 0.24,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M04.word1.body-baseline",
+          "text": "الكرى",
+          "start": 186.20625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word1.ascenders",
+          "text": "الكرى",
+          "start": 186.24475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word1.descenders",
+          "text": "الكرى",
+          "start": 186.27625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word1.marks",
+          "text": "الكرى",
+          "start": 186.27625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word1.underline",
+          "text": "الكرى",
+          "start": 186.30625,
+          "duration": 0.6889999999999992,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M04.word2.body-baseline",
+          "text": "أو",
+          "start": 187.26625,
+          "duration": 0.3036000000000006,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word2.ascenders",
+          "text": "أو",
+          "start": 187.30475,
+          "duration": 0.3036000000000006,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word2.descenders",
+          "text": "أو",
+          "start": 187.33625,
+          "duration": 0.3036000000000006,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word2.marks",
+          "text": "أو",
+          "start": 187.33625,
+          "duration": 0.13358400000000026,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word2.underline",
+          "text": "أو",
+          "start": 187.36625,
+          "duration": 0.29900000000000054,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M04.word3.body-baseline",
+          "text": "خلسة",
+          "start": 187.72625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word3.ascenders",
+          "text": "خلسة",
+          "start": 187.76475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word3.descenders",
+          "text": "خلسة",
+          "start": 187.79625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word3.marks",
+          "text": "خلسة",
+          "start": 187.79625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word3.underline",
+          "text": "خلسة",
+          "start": 187.82625,
+          "duration": 0.6240000000000006,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M04.word4.body-baseline",
+          "text": "المختلس",
+          "start": 188.68625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word4.ascenders",
+          "text": "المختلس",
+          "start": 188.72475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word4.descenders",
+          "text": "المختلس",
+          "start": 188.75625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word4.marks",
+          "text": "المختلس",
+          "start": 188.75625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M04.word4.underline",
+          "text": "المختلس",
+          "start": 188.78625,
+          "duration": 1.2739999999999982,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M05",
+      "world": "rain-arch",
+      "start": 191.39625,
+      "end": 197.34625,
+      "nodes": [
+        {
+          "id": "M05.word0.body-baseline",
+          "text": "جادك",
+          "start": 191.39625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word0.ascenders",
+          "text": "جادك",
+          "start": 191.43475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word0.descenders",
+          "text": "جادك",
+          "start": 191.46625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word0.marks",
+          "text": "جادك",
+          "start": 191.46625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word0.underline",
+          "text": "جادك",
+          "start": 191.49625,
+          "duration": 0.7084999999999999,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M05.word1.body-baseline",
+          "text": "الغيث",
+          "start": 192.48624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word1.ascenders",
+          "text": "الغيث",
+          "start": 192.52474999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word1.descenders",
+          "text": "الغيث",
+          "start": 192.55624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word1.marks",
+          "text": "الغيث",
+          "start": 192.55624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word1.underline",
+          "text": "الغيث",
+          "start": 192.58624999999998,
+          "duration": 0.8320000000000007,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M05.word2.body-baseline",
+          "text": "إذا",
+          "start": 193.76625,
+          "duration": 0.4487999999999998,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word2.ascenders",
+          "text": "إذا",
+          "start": 193.80475,
+          "duration": 0.4487999999999998,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word2.descenders",
+          "text": "إذا",
+          "start": 193.83625,
+          "duration": 0.4487999999999998,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word2.marks",
+          "text": "إذا",
+          "start": 193.83625,
+          "duration": 0.19747199999999993,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word2.underline",
+          "text": "إذا",
+          "start": 193.86625,
+          "duration": 0.44199999999999984,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M05.word3.body-baseline",
+          "text": "الغيث",
+          "start": 194.44625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word3.ascenders",
+          "text": "الغيث",
+          "start": 194.48475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word3.descenders",
+          "text": "الغيث",
+          "start": 194.51624999999999,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word3.marks",
+          "text": "الغيث",
+          "start": 194.51624999999999,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word3.underline",
+          "text": "الغيث",
+          "start": 194.54625,
+          "duration": 0.7930000000000016,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M05.word4.body-baseline",
+          "text": "همى",
+          "start": 195.66625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word4.ascenders",
+          "text": "همى",
+          "start": 195.70475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word4.descenders",
+          "text": "همى",
+          "start": 195.73624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word4.marks",
+          "text": "همى",
+          "start": 195.73624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M05.word4.underline",
+          "text": "همى",
+          "start": 195.76624999999999,
+          "duration": 0.636999999999998,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M06",
+      "world": "palace-memory",
+      "start": 197.34625,
+      "end": 202.85625,
+      "nodes": [
+        {
+          "id": "M06.word0.body-baseline",
+          "text": "يا",
+          "start": 197.34625,
+          "duration": 0.26399999999999907,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word0.ascenders",
+          "text": "يا",
+          "start": 197.38475,
+          "duration": 0.26399999999999907,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word0.descenders",
+          "text": "يا",
+          "start": 197.41625,
+          "duration": 0.26399999999999907,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word0.marks",
+          "text": "يا",
+          "start": 197.41625,
+          "duration": 0.12,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word0.underline",
+          "text": "يا",
+          "start": 197.44625,
+          "duration": 0.25999999999999907,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M06.word1.body-baseline",
+          "text": "زمان",
+          "start": 197.74625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word1.ascenders",
+          "text": "زمان",
+          "start": 197.78475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word1.descenders",
+          "text": "زمان",
+          "start": 197.81625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word1.marks",
+          "text": "زمان",
+          "start": 197.81625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word1.underline",
+          "text": "زمان",
+          "start": 197.84625,
+          "duration": 0.8450000000000005,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M06.word2.body-baseline",
+          "text": "الوصل",
+          "start": 199.04625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word2.ascenders",
+          "text": "الوصل",
+          "start": 199.08474999999999,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word2.descenders",
+          "text": "الوصل",
+          "start": 199.11624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word2.marks",
+          "text": "الوصل",
+          "start": 199.11624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word2.underline",
+          "text": "الوصل",
+          "start": 199.14624999999998,
+          "duration": 0.7149999999999986,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M06.word3.body-baseline",
+          "text": "بالأندلس",
+          "start": 200.14625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word3.ascenders",
+          "text": "بالأندلس",
+          "start": 200.18475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word3.descenders",
+          "text": "بالأندلس",
+          "start": 200.21625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word3.marks",
+          "text": "بالأندلس",
+          "start": 200.21625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M06.word3.underline",
+          "text": "بالأندلس",
+          "start": 200.24625,
+          "duration": 1.4040000000000001,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M07",
+      "world": "mirror-dream",
+      "start": 202.85625,
+      "end": 208.66625,
+      "nodes": [
+        {
+          "id": "M07.word0.body-baseline",
+          "text": "لم",
+          "start": 202.85625,
+          "duration": 0.5213999999999994,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word0.ascenders",
+          "text": "لم",
+          "start": 202.89475,
+          "duration": 0.5213999999999994,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word0.descenders",
+          "text": "لم",
+          "start": 202.92624999999998,
+          "duration": 0.5213999999999994,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word0.marks",
+          "text": "لم",
+          "start": 202.92624999999998,
+          "duration": 0.22941599999999976,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word0.underline",
+          "text": "لم",
+          "start": 202.95624999999998,
+          "duration": 0.5134999999999995,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M07.word1.body-baseline",
+          "text": "يكن",
+          "start": 203.64625,
+          "duration": 0.3695999999999968,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word1.ascenders",
+          "text": "يكن",
+          "start": 203.68475,
+          "duration": 0.3695999999999968,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word1.descenders",
+          "text": "يكن",
+          "start": 203.71625,
+          "duration": 0.3695999999999968,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word1.marks",
+          "text": "يكن",
+          "start": 203.71625,
+          "duration": 0.1626239999999986,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word1.underline",
+          "text": "يكن",
+          "start": 203.74625,
+          "duration": 0.3639999999999969,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M07.word2.body-baseline",
+          "text": "وصلك",
+          "start": 204.20625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word2.ascenders",
+          "text": "وصلك",
+          "start": 204.24475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word2.descenders",
+          "text": "وصلك",
+          "start": 204.27625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word2.marks",
+          "text": "وصلك",
+          "start": 204.27625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word2.underline",
+          "text": "وصلك",
+          "start": 204.30625,
+          "duration": 0.8580000000000002,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M07.word3.body-baseline",
+          "text": "إلا",
+          "start": 205.52625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word3.ascenders",
+          "text": "إلا",
+          "start": 205.56475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word3.descenders",
+          "text": "إلا",
+          "start": 205.59625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word3.marks",
+          "text": "إلا",
+          "start": 205.59625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word3.underline",
+          "text": "إلا",
+          "start": 205.62625,
+          "duration": 0.7540000000000024,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M07.word4.body-baseline",
+          "text": "حلما",
+          "start": 206.68625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word4.ascenders",
+          "text": "حلما",
+          "start": 206.72475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word4.descenders",
+          "text": "حلما",
+          "start": 206.75625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word4.marks",
+          "text": "حلما",
+          "start": 206.75625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M07.word4.underline",
+          "text": "حلما",
+          "start": 206.78625,
+          "duration": 1.1570000000000007,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M08",
+      "world": "ink-geometry",
+      "start": 208.66625,
+      "end": 214.14625,
+      "nodes": [
+        {
+          "id": "M08.word0.body-baseline",
+          "text": "في",
+          "start": 208.66625,
+          "duration": 0.34320000000000206,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word0.ascenders",
+          "text": "في",
+          "start": 208.70475,
+          "duration": 0.34320000000000206,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word0.descenders",
+          "text": "في",
+          "start": 208.73624999999998,
+          "duration": 0.34320000000000206,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word0.marks",
+          "text": "في",
+          "start": 208.73624999999998,
+          "duration": 0.15100800000000092,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word0.underline",
+          "text": "في",
+          "start": 208.76624999999999,
+          "duration": 0.338000000000002,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M08.word1.body-baseline",
+          "text": "الكرى",
+          "start": 209.18625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word1.ascenders",
+          "text": "الكرى",
+          "start": 209.22475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word1.descenders",
+          "text": "الكرى",
+          "start": 209.25625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word1.marks",
+          "text": "الكرى",
+          "start": 209.25625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word1.underline",
+          "text": "الكرى",
+          "start": 209.28625,
+          "duration": 0.8580000000000002,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M08.word2.body-baseline",
+          "text": "أو",
+          "start": 210.50625,
+          "duration": 0.165,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word2.ascenders",
+          "text": "أو",
+          "start": 210.54475,
+          "duration": 0.165,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word2.descenders",
+          "text": "أو",
+          "start": 210.57625,
+          "duration": 0.165,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word2.marks",
+          "text": "أو",
+          "start": 210.57625,
+          "duration": 0.12,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word2.underline",
+          "text": "أو",
+          "start": 210.60625,
+          "duration": 0.24,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M08.word3.body-baseline",
+          "text": "خلسة",
+          "start": 210.75625,
+          "duration": 0.5741999999999984,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word3.ascenders",
+          "text": "خلسة",
+          "start": 210.79475,
+          "duration": 0.5741999999999984,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word3.descenders",
+          "text": "خلسة",
+          "start": 210.82625,
+          "duration": 0.5741999999999984,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word3.marks",
+          "text": "خلسة",
+          "start": 210.82625,
+          "duration": 0.25264799999999926,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word3.underline",
+          "text": "خلسة",
+          "start": 210.85625,
+          "duration": 0.5654999999999983,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M08.word4.body-baseline",
+          "text": "المختلس",
+          "start": 211.62625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word4.ascenders",
+          "text": "المختلس",
+          "start": 211.66475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word4.descenders",
+          "text": "المختلس",
+          "start": 211.69625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word4.marks",
+          "text": "المختلس",
+          "start": 211.69625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M08.word4.underline",
+          "text": "المختلس",
+          "start": 211.72625,
+          "duration": 1.6120000000000025,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M09",
+      "world": "palace-coda",
+      "start": 214.14625,
+      "end": 219.68625,
+      "nodes": [
+        {
+          "id": "M09.word0.body-baseline",
+          "text": "يا",
+          "start": 214.14625,
+          "duration": 0.4619999999999972,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word0.ascenders",
+          "text": "يا",
+          "start": 214.18475,
+          "duration": 0.4619999999999972,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word0.descenders",
+          "text": "يا",
+          "start": 214.21625,
+          "duration": 0.4619999999999972,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word0.marks",
+          "text": "يا",
+          "start": 214.21625,
+          "duration": 0.20327999999999877,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word0.underline",
+          "text": "يا",
+          "start": 214.24625,
+          "duration": 0.45499999999999724,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M09.word1.body-baseline",
+          "text": "زمان",
+          "start": 214.84625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word1.ascenders",
+          "text": "زمان",
+          "start": 214.88475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word1.descenders",
+          "text": "زمان",
+          "start": 214.91625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word1.marks",
+          "text": "زمان",
+          "start": 214.91625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word1.underline",
+          "text": "زمان",
+          "start": 214.94625,
+          "duration": 1.0919999999999999,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M09.word2.body-baseline",
+          "text": "الوصل",
+          "start": 216.52625,
+          "duration": 0.5808000000000018,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word2.ascenders",
+          "text": "الوصل",
+          "start": 216.56475,
+          "duration": 0.5808000000000018,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word2.descenders",
+          "text": "الوصل",
+          "start": 216.59625,
+          "duration": 0.5808000000000018,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word2.marks",
+          "text": "الوصل",
+          "start": 216.59625,
+          "duration": 0.2555520000000008,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word2.underline",
+          "text": "الوصل",
+          "start": 216.62625,
+          "duration": 0.5720000000000017,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M09.word3.body-baseline",
+          "text": "بالأندلس",
+          "start": 217.40625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word3.ascenders",
+          "text": "بالأندلس",
+          "start": 217.44475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word3.descenders",
+          "text": "بالأندلس",
+          "start": 217.47625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word3.marks",
+          "text": "بالأندلس",
+          "start": 217.47625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M09.word3.underline",
+          "text": "بالأندلس",
+          "start": 217.50625,
+          "duration": 1.4820000000000009,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M10",
+      "world": "palace-coda",
+      "start": 219.68625,
+      "end": 224.93625,
+      "nodes": [
+        {
+          "id": "M10.word0.body-baseline",
+          "text": "يا",
+          "start": 219.68625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word0.ascenders",
+          "text": "يا",
+          "start": 219.72475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word0.descenders",
+          "text": "يا",
+          "start": 219.75625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word0.marks",
+          "text": "يا",
+          "start": 219.75625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word0.underline",
+          "text": "يا",
+          "start": 219.78625,
+          "duration": 0.715000000000001,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M10.word1.body-baseline",
+          "text": "زمان",
+          "start": 220.78625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word1.ascenders",
+          "text": "زمان",
+          "start": 220.82475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word1.descenders",
+          "text": "زمان",
+          "start": 220.85625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word1.marks",
+          "text": "زمان",
+          "start": 220.85625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word1.underline",
+          "text": "زمان",
+          "start": 220.88625,
+          "duration": 0.6240000000000006,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M10.word2.body-baseline",
+          "text": "الوصل",
+          "start": 221.74625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word2.ascenders",
+          "text": "الوصل",
+          "start": 221.78475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word2.descenders",
+          "text": "الوصل",
+          "start": 221.81625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word2.marks",
+          "text": "الوصل",
+          "start": 221.81625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word2.underline",
+          "text": "الوصل",
+          "start": 221.84625,
+          "duration": 0.8319999999999962,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M10.word3.body-baseline",
+          "text": "بالأندلس",
+          "start": 223.02625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word3.ascenders",
+          "text": "بالأندلس",
+          "start": 223.06475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word3.descenders",
+          "text": "بالأندلس",
+          "start": 223.09625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word3.marks",
+          "text": "بالأندلس",
+          "start": 223.09625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M10.word3.underline",
+          "text": "بالأندلس",
+          "start": 223.12625,
+          "duration": 1.5860000000000032,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    },
+    {
+      "scene": "M11",
+      "world": "palace-coda",
+      "start": 224.93625,
+      "end": 239.75,
+      "nodes": [
+        {
+          "id": "M11.word0.body-baseline",
+          "text": "يا",
+          "start": 224.93625,
+          "duration": 0.3498000000000008,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word0.ascenders",
+          "text": "يا",
+          "start": 224.97475,
+          "duration": 0.3498000000000008,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word0.descenders",
+          "text": "يا",
+          "start": 225.00625,
+          "duration": 0.3498000000000008,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word0.marks",
+          "text": "يا",
+          "start": 225.00625,
+          "duration": 0.15391200000000035,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word0.underline",
+          "text": "يا",
+          "start": 225.03625,
+          "duration": 0.34450000000000075,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M11.word1.body-baseline",
+          "text": "زمان",
+          "start": 225.46625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word1.ascenders",
+          "text": "زمان",
+          "start": 225.50475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word1.descenders",
+          "text": "زمان",
+          "start": 225.53625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word1.marks",
+          "text": "زمان",
+          "start": 225.53625,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word1.underline",
+          "text": "زمان",
+          "start": 225.56625,
+          "duration": 1.3910000000000005,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M11.word2.body-baseline",
+          "text": "الوصل",
+          "start": 227.60625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word2.ascenders",
+          "text": "الوصل",
+          "start": 227.64475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word2.descenders",
+          "text": "الوصل",
+          "start": 227.67624999999998,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word2.marks",
+          "text": "الوصل",
+          "start": 227.67624999999998,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word2.underline",
+          "text": "الوصل",
+          "start": 227.70624999999998,
+          "duration": 0.8709999999999977,
+          "property": "trim path with following cap"
+        },
+        {
+          "id": "M11.word3.body-baseline",
+          "text": "بالأندلس",
+          "start": 228.94625,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word3.ascenders",
+          "text": "بالأندلس",
+          "start": 228.98475,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word3.descenders",
+          "text": "بالأندلس",
+          "start": 229.01624999999999,
+          "duration": 0.6,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word3.marks",
+          "text": "بالأندلس",
+          "start": 229.01624999999999,
+          "duration": 0.264,
+          "property": "native shaped Arabic alpha matte; original glyph positions fixed"
+        },
+        {
+          "id": "M11.word3.underline",
+          "text": "بالأندلس",
+          "start": 229.04625,
+          "duration": 3.288999999999997,
+          "property": "trim path with following cap"
+        }
+      ],
+      "image_layers": [
+        "independent contact shadow",
+        "torn paper backing",
+        "photo aperture / split reflection",
+        "foreground geometry"
+      ],
+      "camera": "authored phrase-to-phrase focus move; no stochastic zoom"
+    }
+  ],
+  "credit_scene_plan": {
+    "id": "C5",
+    "start": 329.1875,
+    "duration": 7,
+    "header_ranges": [
+      {
+        "text": "المونتاج",
+        "start": 0.12
+      },
+      {
+        "text": "والتصميم",
+        "start": 0.72
+      },
+      {
+        "text": "بواسطة",
+        "start": 1.3
+      }
+    ],
+    "name_ranges": [
+      {
+        "text": "شذى",
+        "start": 1.74
+      },
+      {
+        "text": "ياسر",
+        "start": 2.4
+      }
+    ],
+    "underline": [
+      2.8,
+      4.35
+    ],
+    "source_line_starts": [
+      4.05,
+      4.23,
+      4.41
+    ],
+    "shared_entrance_transform": false
+  }
 }
