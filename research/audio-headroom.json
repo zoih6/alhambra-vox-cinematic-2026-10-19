@@ -1,0 +1,12 @@
+{
+  "original_voice": {
+    "sample_peak": 0.8935204744338989,
+    "samples_at_full_scale": 0,
+    "samples": 12739200
+  },
+  "premix": {
+    "sample_peak": 0.9036598205566406,
+    "samples_at_full_scale": 0,
+    "samples": 25863000
+  }
+}
