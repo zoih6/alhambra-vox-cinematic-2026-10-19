@@ -1,0 +1,9 @@
+{
+  "js_errors": [],
+  "deterministic_seek": true,
+  "full_hd": true,
+  "fps": 32,
+  "canonical_arabic_words": true,
+  "word_timing_source": "embedded LRC plus local ASR, corrected canonical spelling",
+  "frames_reviewed": 12
+}

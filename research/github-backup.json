@@ -206,9 +206,15 @@
       "bytes": 6618830,
       "sha256": "99ad2b796a2a0a00e3cd83ac7eb688b6e07e001121f14f74c4b82a1ffcc73431",
       "source_name": "alhambra-muwashah-full-mix.m4a"
+    },
+    {
+      "path": "renders/muwashah-v4/segments/prelude-junction.mp4",
+      "bytes": 2000434,
+      "sha256": "12a0096fb5808a575e8cc1eb808a381727cffe8bc2a1d02ba61f40ba79078b3f",
+      "source_name": "prelude-junction.mp4"
     }
   ],
-  "last_commit": "c59a4596fbe892f6f19bb293d24630283bbbb1a1",
+  "last_commit": "b7ec25ec324c1a2d3b8af24fb997ab8c3d5c5e3b",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
