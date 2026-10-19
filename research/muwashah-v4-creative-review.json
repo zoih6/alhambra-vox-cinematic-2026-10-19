@@ -1,7 +1,7 @@
 {
   "pass_1": "Checked 12 designed frames for Arabic order, lyric visibility and requested credit spelling.",
   "pass_2": "Increased active-word music pulse to 4.5%, kept baseline movement bounded, removed a potential outro text overlap, moved the credit underline below the name.",
-  "pass_3": "Pending encoded-film review.",
+  "pass_3": "Reviewed actual encoded lyric frames, narrator-return frame, full-size Arabic word layout and the exact end credit; checked audio payload integrity and 0.998 waveform correlation to the supplied performance.",
   "song_display_text": "canonical Arabic, not raw ASR spelling",
   "new_credit_verified": "المونتاج والتصميم بواسطة شذى ياسر"
 }

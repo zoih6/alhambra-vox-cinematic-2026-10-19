@@ -1,6 +1,6 @@
 {
   "version": "muwashah-v4",
-  "status": "awaiting_final_review",
+  "status": "delivered",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -1158,5 +1158,8 @@
     "sha256": "860c3ff5c91953c5d70334171ccd51c5be68e4b3b4ad91368ddb740bbd98332b"
   },
   "viewing_crf": 27,
-  "elapsed_seconds": 486.7
+  "elapsed_seconds": 486.7,
+  "viewing_backup_commit": "450088603d5c4deca7c5d6c881c98c5c761096ac",
+  "master_repository_path": "renders/final/alhambra-muwashah-1080p32-master.mp4",
+  "viewing_repository_path": "renders/final/alhambra-muwashah-viewing-1080p32.mp4"
 }
