@@ -1,7 +1,7 @@
 {
-  "snapshot_eligible_bytes": 122033348,
-  "snapshot_eligible_mib": 116.38,
-  "files": 894,
+  "snapshot_eligible_bytes": 122040550,
+  "snapshot_eligible_mib": 116.39,
+  "files": 898,
   "soft_limit_mib": 90,
   "stop_limit_mib": 118,
   "below_stop_limit": true,

@@ -1,7 +1,7 @@
 {
   "project_id": "alhambra-poem-in-stone",
   "date": "2026-10-19",
-  "stage": "rendered_and_delivered",
+  "stage": "revising_muwashah_and_end_credit",
   "video_render_allowed": true,
   "video_rendered": true,
   "full_film_built": true,
@@ -23,7 +23,7 @@
   "workspace_stop_limit_mib": 118,
   "required_future_output_directory": "deliverables",
   "never_use_output_directory_named": "out",
-  "next_action": "User may review the full film; no further changes or publishing beyond this project without a request.",
+  "next_action": "Analyze the supplied singing, build the musical interlude, render only changed portions, preserve the prior film and publish the new version.",
   "public_github_backup_authorized": true,
   "credential_storage_allowed": false,
   "camera_requirements": [
@@ -41,5 +41,7 @@
   "github_backup_authorized": true,
   "master_repository_path": "renders/final/alhambra-cinematic-1080p32.mp4",
   "local_video": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
-  "quality_status": "technical_checks_passed_visual_contacts_reviewed_user_final_review_pending"
+  "quality_status": "technical_checks_passed_visual_contacts_reviewed_user_final_review_pending",
+  "narration_playback_edit_authorized": true,
+  "revision_request": "Replace the spoken opening muwashah quote with the supplied sung performance; animate lyrics to singing; resume narration; credit editing/design to شذى ياسر."
 }

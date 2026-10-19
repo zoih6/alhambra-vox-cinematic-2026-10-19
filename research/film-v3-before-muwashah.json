@@ -1,0 +1,327 @@
+{
+  "project": {
+    "project_id": "alhambra-poem-in-stone",
+    "date": "2026-10-19",
+    "stage": "rendered_and_delivered",
+    "video_render_allowed": true,
+    "video_rendered": true,
+    "full_film_built": true,
+    "width": 1920,
+    "height": 1080,
+    "fps": 32,
+    "narration_duration_seconds": 265.4,
+    "planned_total_frames": 8621,
+    "frame_quantized_duration_seconds": 269.40625,
+    "preview_duration_seconds": 30,
+    "preview_timeline_frames": 960,
+    "approval_stills": 8,
+    "voice_word_timing_status": "machine_candidates_canonical_text_corrected_manual_listening_pending",
+    "canonical_narration": "docs/narration-canonical-ar.txt",
+    "original_audio": "assets/audio/voiceover_narration.mp3",
+    "source_file_sha256": "0e836b98497fce7b753f26a49b5a4a9da75d00ee872f051da4399442b3f2f901",
+    "references_status": "opening_visual_identity_approved_cinematic_upgrade_requested",
+    "workspace_soft_limit_mib": 90,
+    "workspace_stop_limit_mib": 118,
+    "required_future_output_directory": "deliverables",
+    "never_use_output_directory_named": "out",
+    "next_action": "User may review the full film; no further changes or publishing beyond this project without a request.",
+    "public_github_backup_authorized": true,
+    "credential_storage_allowed": false,
+    "camera_requirements": [
+      "continuous virtual camera",
+      "depth parallax",
+      "rack focus",
+      "moving warm light",
+      "dust in light",
+      "stop-motion element transforms on a smooth 32fps timeline"
+    ],
+    "render_started": true,
+    "engine_built": true,
+    "credits_duration_seconds": 4.0,
+    "duration_seconds": 269.40625,
+    "github_backup_authorized": true,
+    "master_repository_path": "renders/final/alhambra-cinematic-1080p32.mp4",
+    "local_video": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+    "quality_status": "technical_checks_passed_visual_contacts_reviewed_user_final_review_pending"
+  },
+  "finalization": {
+    "status": "delivered",
+    "build_id": "baf673ad5f",
+    "master": {
+      "path": "/home/user/.cache/alhambra-render/baf673ad5f/alhambra-cinematic-1080p32.mp4",
+      "bytes": 57583737,
+      "sha256": "f4ff4d32345faa9500758efc1360f44cb3bccf0e94ae38c5e4874c2f83fdf162",
+      "width": 1920,
+      "height": 1080,
+      "fps": 32.0,
+      "frame_count": 8621,
+      "video_duration": 269.40625,
+      "audio_duration": 269.427,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "pixel_format": "yuv420p"
+    },
+    "viewing_copy": {
+      "path": "/home/user/alhambra-vox/deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+      "bytes": 39274740,
+      "sha256": "025d1b9494d0f9b6780d0fe83fa03c9d1a8f54f4251a1b001035de3534ed50b6",
+      "width": 1920,
+      "height": 1080,
+      "fps": 32.0,
+      "frame_count": 8621,
+      "video_duration": 269.40625,
+      "audio_duration": 269.406,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "pixel_format": "yuv420p"
+    },
+    "viewing_copy_relative": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+    "compact_encoding": {
+      "crf": 25,
+      "preset": "veryfast",
+      "unchanged_dimensions": [
+        1920,
+        1080
+      ],
+      "unchanged_fps": 32,
+      "lossless": false,
+      "master_preserved": true,
+      "budget_bytes": 39924769
+    },
+    "cfr_pts_verified": true,
+    "full_decoder_pass": "passed",
+    "master_backed_up_before_viewing_encode": true,
+    "checkpoints_preserved": 27,
+    "required_checkpoints": 27,
+    "credential_written_to_project": false,
+    "review": {
+      "approved_for_delivery": true,
+      "reviewer": "assistant technical and visual contact-sheet review",
+      "build_id": "baf673ad5f",
+      "reviewed": [
+        "40-scene encoded-master contact sheets",
+        "full-resolution viewing-copy Arabic verse frame",
+        "encoded opening motion strip",
+        "corrected scene 27 typography and its final encoded contact",
+        "complete decoder pass and constant-frame-rate presentation timestamps",
+        "27 current checkpoints with verified GitHub backup commits",
+        "master and viewing-copy hashes matched to uploaded artifacts",
+        "original narration checksum, audio headroom, loudness and true-peak report",
+        "credential scan and persistent workspace storage budget"
+      ],
+      "master_frame_count": 8621,
+      "viewing_frame_count": 8621,
+      "fps": 32,
+      "width": 1920,
+      "height": 1080,
+      "source_files_deleted": false,
+      "user_full_cut_creative_approval": "pending user review",
+      "review_limit": "This records specific technical and sampled visual checks, not a claim of manual real-time listening or human approval of every frame."
+    }
+  },
+  "backup": {
+    "status": "complete",
+    "public_repository": true,
+    "token_persisted": false,
+    "uploaded_artifacts": [
+      {
+        "path": "renders/a08c190140/segments/part-001.mp4",
+        "bytes": 2271628,
+        "sha256": "c3bff6e5236ae0ac5bcb7952c966dc9ef5bded90153d782098bfdcd59bfe6560",
+        "source_name": "part-001.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-002.mp4",
+        "bytes": 1814203,
+        "sha256": "fb49cdb3a3d0633e1ee7e016562cfa29da0c506c3db9750f7afeb16dfd9ed63c",
+        "source_name": "part-002.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-003.mp4",
+        "bytes": 2316868,
+        "sha256": "7fcb887080301417aad3dc09f1dcfba5276af5d75797341e64b8f1df74158ebe",
+        "source_name": "part-003.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-004.mp4",
+        "bytes": 2824679,
+        "sha256": "7db9dad5e0fba648748101bd277d846dd65dbcde8544524762d1508712a76633",
+        "source_name": "part-004.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-005.mp4",
+        "bytes": 1292912,
+        "sha256": "d7bb1d17983ee2cf87a3833915cfd83a38fac6bc37c1bf68d6dc069e6be66e9c",
+        "source_name": "part-005.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-006.mp4",
+        "bytes": 1102320,
+        "sha256": "12975066c2ac280461bf816be91ac6ab2d7c4569e0717c25ad08361bcfa59cd4",
+        "source_name": "part-006.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-007.mp4",
+        "bytes": 1863128,
+        "sha256": "01c7e91974e49d4906a26f8dcbc79452f2e16e40f5f58d3fad07c6f540778439",
+        "source_name": "part-007.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-008.mp4",
+        "bytes": 1425576,
+        "sha256": "05523ce1113f579e8406929c87ed9581e1b884e59cecebe8d381470863802f63",
+        "source_name": "part-008.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-009.mp4",
+        "bytes": 1559233,
+        "sha256": "042af7e78eba5eded0444211be31106f6c69a05589a2060c6b07c4d3ac5a79ce",
+        "source_name": "part-009.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-010.mp4",
+        "bytes": 2827340,
+        "sha256": "170ebdbc8c80c8837d419bfb80cdadbc017a4d49648f88314cbbff942eaa98e4",
+        "source_name": "part-010.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-011.mp4",
+        "bytes": 1452570,
+        "sha256": "e7362e87a23aba4f6f0c33bd3039fef440503a9fb053fd59ac4ccac4f1448e1e",
+        "source_name": "part-011.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-012.mp4",
+        "bytes": 3338595,
+        "sha256": "50d0e2c4de2d945dfcacbb7090fe6591a4fb92ffb1dc563841e8a5fb67d6dc6a",
+        "source_name": "part-012.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-013.mp4",
+        "bytes": 1982786,
+        "sha256": "126e5be75ac7e207453266d6001d7288107d90ad3dd72b9f44ad7007f3ee6439",
+        "source_name": "part-013.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-014.mp4",
+        "bytes": 1542001,
+        "sha256": "f310703de778bf8337ecfb5a0de02d364f670137a2095583e09ad20530d74e67",
+        "source_name": "part-014.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-015.mp4",
+        "bytes": 6041332,
+        "sha256": "dd6591708b891f7114f15c6a665aa73ef49b9c391933dc62b54e9d21cac5a373",
+        "source_name": "part-015.mp4"
+      },
+      {
+        "path": "references/style-reference-videos-originals.zip",
+        "bytes": 38570897,
+        "sha256": "8aee829235f1bd4c14c4933717135a8a4ef435b9291cb7aa8027b403812b9314",
+        "source_name": "style-reference-videos-originals.zip"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-016.mp4",
+        "bytes": 2257524,
+        "sha256": "12b012c52f5c5153205b745cb7a17b7f27ed670658775dd716ef0241e5489e79",
+        "source_name": "part-016.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-017.mp4",
+        "bytes": 2160416,
+        "sha256": "54fb3bc6f549f9fd33f52313f58a541c2d5b4fc1b47a25d4d05f4e6883f84526",
+        "source_name": "part-017.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-018.mp4",
+        "bytes": 1101147,
+        "sha256": "d5b0f2473d4359fcb7a58d04008373908acf0af71dfb6ebf0f137e946c1e1d57",
+        "source_name": "part-018.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-019.mp4",
+        "bytes": 1095573,
+        "sha256": "0264aaf4c0461d56d0f51fc34adc41a69500dae6a372366dba46ee6afbb7adb2",
+        "source_name": "part-019.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-020.mp4",
+        "bytes": 1224574,
+        "sha256": "782be345e43172a4b6117efad4acb6ad181220d57872ac32bba79eec8335929b",
+        "source_name": "part-020.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-021.mp4",
+        "bytes": 1281953,
+        "sha256": "2eb1f22e1fdd901588c2347db8d169bcd4ed9422ffa49e5bca733fde15590497",
+        "source_name": "part-021.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-022.mp4",
+        "bytes": 1634992,
+        "sha256": "9454433e9b7469b59301809a6e56f2bcd2cceb99ad7e9b0b2600a4803e863576",
+        "source_name": "part-022.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-023.mp4",
+        "bytes": 2204922,
+        "sha256": "34257868da1e5ba6c5131073fe80a66bdd659084edaaafb36ba55e02703e3543",
+        "source_name": "part-023.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-024.mp4",
+        "bytes": 4034468,
+        "sha256": "8420acb10e644f3093b0b636e1c25e195af4b493a91ffb8db61159f9ef8a05f5",
+        "source_name": "part-024.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-025.mp4",
+        "bytes": 1856791,
+        "sha256": "b29c5545f4275b92f3cad3373833ae89c9d2ce92c5a8a8c979e949dd2bc97766",
+        "source_name": "part-025.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-026.mp4",
+        "bytes": 2599145,
+        "sha256": "a706c072ee4fd4c037e2888c88b14f806ef01cb07675901cd73293dd2de30ce9",
+        "source_name": "part-026.mp4"
+      },
+      {
+        "path": "renders/a08c190140/segments/part-027.mp4",
+        "bytes": 2425406,
+        "sha256": "a7472eec21bd781d0b4063e0294f94e6ce7275c1ca49964b97d28e691227dd90",
+        "source_name": "part-027.mp4"
+      },
+      {
+        "path": "renders/baf673ad5f/segments/part-016.mp4",
+        "bytes": 2252627,
+        "sha256": "9a3165112cf653af655e92e321f3035f07db23d42a8d49baa92ddea92842f8f3",
+        "source_name": "part-016.mp4"
+      },
+      {
+        "path": "renders/baf673ad5f/segments/part-017.mp4",
+        "bytes": 2156463,
+        "sha256": "78886b295a18831ab8c7f6f8697cbf2d7b2a034f6ec98e5ba480a4fa3b707d3a",
+        "source_name": "part-017.mp4"
+      },
+      {
+        "path": "renders/final/alhambra-cinematic-1080p32.mp4",
+        "bytes": 57583737,
+        "sha256": "f4ff4d32345faa9500758efc1360f44cb3bccf0e94ae38c5e4874c2f83fdf162",
+        "source_name": "alhambra-cinematic-1080p32.mp4"
+      },
+      {
+        "path": "renders/final/alhambra-cinematic-viewing-1080p32.mp4",
+        "bytes": 39274740,
+        "sha256": "025d1b9494d0f9b6780d0fe83fa03c9d1a8f54f4251a1b001035de3534ed50b6",
+        "source_name": "alhambra-cinematic-viewing-1080p32.mp4"
+      }
+    ],
+    "last_commit": "a56137db784c736ebd90f4aab162d44a53c91d47",
+    "owner": "zoih6",
+    "repository_id": 1424996248,
+    "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
+    "repository_url": "https://github.com/zoih6/alhambra-vox-cinematic-2026-10-19",
+    "clone_url": "https://github.com/zoih6/alhambra-vox-cinematic-2026-10-19.git"
+  }
+}
