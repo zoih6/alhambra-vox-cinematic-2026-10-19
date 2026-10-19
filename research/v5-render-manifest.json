@@ -1,7 +1,7 @@
 {
   "version": "layered-v5",
   "build_id": "6f07a6d1412c",
-  "status": "master_verified",
+  "status": "delivered",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -682,5 +682,22 @@
   "cfr_pts_verified": true,
   "full_decoder_check": "passed",
   "master_download_url": "https://github.com/zoih6/alhambra-vox-cinematic-2026-10-19/releases/download/v5-layered-motion/alhambra-layered-v5-1080p32-master.mp4",
-  "master_backup_commit": "b88dd9f3ec5579f06276be19551e39bfbf7f2aab"
+  "master_backup_commit": "b88dd9f3ec5579f06276be19551e39bfbf7f2aab",
+  "viewing": {
+    "path": "/home/user/alhambra-vox/deliverables/alhambra-layered-v5-viewing-1080p32.mp4",
+    "frames": 10758,
+    "fps": 32.0,
+    "width": 1920,
+    "height": 1080,
+    "duration": 336.1875,
+    "start_time": 0.0,
+    "audio_streams": 1,
+    "bytes": 44577626,
+    "sha256": "916d524a0e2a7ce457de5a97f4d763d44a240db631a97d6d521e74f168ca014d"
+  },
+  "viewing_crf": 27,
+  "viewing_backup_commit": "42c41467eaa840e51347fe355e720a973884f929",
+  "viewing_repository_path": "renders/final/alhambra-layered-v5-viewing-1080p32.mp4",
+  "render_elapsed_seconds": 479.35,
+  "final_review": "research/v5-finalization.json"
 }

@@ -1,0 +1,110 @@
+[
+  {
+    "asset": "founder",
+    "layer": "original",
+    "path": "assets/generated/v5-founder-portrait.jpg",
+    "sha256": "5d39e1b0a42dd731869e2e54f93a113ef55f7b792d076a3db76c73c4e06fabb1"
+  },
+  {
+    "asset": "founder",
+    "layer": "clean_cutout",
+    "path": "assets/layered-v5/founder.webp",
+    "sha256": "9f79986f6ce754853ea7767478575fa3c1ad9a287c718fdb57c4bb0044c49a9d"
+  },
+  {
+    "asset": "founder",
+    "layer": "founder-head",
+    "path": "assets/layered-v5/founder-head.webp",
+    "sha256": "bf53ac402c728c08281f7db2ef0921ab926953d1639575ecb0474e635deaf61d"
+  },
+  {
+    "asset": "founder",
+    "layer": "founder-scroll",
+    "path": "assets/layered-v5/founder-scroll.webp",
+    "sha256": "0ad3c6a878cf2179ed3b51c634c40d6a3cc2b75bcf9a6fd32ca5b6d4abc64a37"
+  },
+  {
+    "asset": "poet",
+    "layer": "original",
+    "path": "assets/generated/v5-poet-portrait.jpg",
+    "sha256": "8525afbd3396f8d999c7e1f6fdfaefc8402ba80173e99010341bef323d7b562f"
+  },
+  {
+    "asset": "poet",
+    "layer": "clean_cutout",
+    "path": "assets/layered-v5/poet.webp",
+    "sha256": "46bf1160abbb6c669a7ad5b505d62ad07d6d062a3c649f7d94a4d728b2814017"
+  },
+  {
+    "asset": "poet",
+    "layer": "poet-head",
+    "path": "assets/layered-v5/poet-head.webp",
+    "sha256": "2cef594ed413d6ba93d7d7f9887e5d1ec97ec06bd1ff350267c376626ddcb63b"
+  },
+  {
+    "asset": "poet",
+    "layer": "poet-writing-hand",
+    "path": "assets/layered-v5/poet-writing-hand.webp",
+    "sha256": "d3517e8de5087104e068dfb0963625ad0b5ab5cb55762a932d2145418b8ecd5d"
+  },
+  {
+    "asset": "poet",
+    "layer": "poet-manuscript",
+    "path": "assets/layered-v5/poet-manuscript.webp",
+    "sha256": "2bf1ac262b6172e0b40c45098a97a8f58498c144e6fa9bc9e69c01785fcb909f"
+  },
+  {
+    "asset": "hands",
+    "layer": "original",
+    "path": "assets/generated/v5-foundation-hands.jpg",
+    "sha256": "cad96b59c311206c9f63deca0fbc914922006cafb658d117a862383b1087a76d"
+  },
+  {
+    "asset": "hands",
+    "layer": "clean_cutout",
+    "path": "assets/layered-v5/hands.webp",
+    "sha256": "f07cce2b8933dd5060663269de43269e17b589c431c31012669159be7ae7a15b"
+  },
+  {
+    "asset": "hands",
+    "layer": "hands-left-hand",
+    "path": "assets/layered-v5/hands-left-hand.webp",
+    "sha256": "edec6a868277a3f8c1349cc3db502582da561a8b1097981423cc435b00ed2bb5"
+  },
+  {
+    "asset": "hands",
+    "layer": "hands-right-hand",
+    "path": "assets/layered-v5/hands-right-hand.webp",
+    "sha256": "8dee689efbbbcbb479e90b87aad1c92b2b40615fc525295e217eb726915c4bb7"
+  },
+  {
+    "asset": "hands",
+    "layer": "hands-left-hand-partition",
+    "path": "assets/layered-v5/hands-left-hand-partition.webp",
+    "sha256": "7cb0bdeba7ad5fe3c8833e44a7172af73977828fc856fdd8b2168192395f118b"
+  },
+  {
+    "asset": "hands",
+    "layer": "hands-right-hand-partition",
+    "path": "assets/layered-v5/hands-right-hand-partition.webp",
+    "sha256": "b3aef2433f7d8ee7762dfcd2eaeea8f498c82cfc09e547e143e77c1da167ac6f"
+  },
+  {
+    "asset": "hands",
+    "layer": "hands-stone-partition",
+    "path": "assets/layered-v5/hands-stone-partition.webp",
+    "sha256": "40b500230f7daaceed810bce4bb0316d7a7c28bbe03293d3362d1e6f1dee805a"
+  },
+  {
+    "asset": "key",
+    "layer": "original",
+    "path": "assets/generated/v5-medieval-key.jpg",
+    "sha256": "9211a1ad659c53efeed979284af5a63f9a835d2eaff534e9c91662b137c43e71"
+  },
+  {
+    "asset": "key",
+    "layer": "clean_cutout",
+    "path": "assets/layered-v5/key.webp",
+    "sha256": "8760e9488fd24f6916e6de9cead53f180bc51284ba8ddd638cc815cc135c3241"
+  }
+]

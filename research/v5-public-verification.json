@@ -1,0 +1,13 @@
+{
+  "repository_public": true,
+  "viewing_file": "alhambra-layered-v5-viewing-1080p32.mp4",
+  "viewing_bytes": 44577626,
+  "viewing_git_blob_sha": "aa3abd41fb3a1e233b02c6d0ea4860e247605115",
+  "viewing_sha256": "916d524a0e2a7ce457de5a97f4d763d44a240db631a97d6d521e74f168ca014d",
+  "viewing_download_url": "https://raw.githubusercontent.com/zoih6/alhambra-vox-cinematic-2026-10-19/main/renders/final/alhambra-layered-v5-viewing-1080p32.mp4",
+  "master_release_url": "https://github.com/zoih6/alhambra-vox-cinematic-2026-10-19/releases/download/v5-layered-motion/alhambra-layered-v5-1080p32-master.mp4",
+  "master_sha256": "d4e1cd5b522d0928d9a63afc3c3186c159abf53055a9bc53bcc4071c9935253e",
+  "release_digest_checked_in": "research/v5-finalization.json",
+  "credential_scan": "clean",
+  "text_files_scanned": 237
+}

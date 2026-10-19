@@ -1,7 +1,7 @@
 {
-  "snapshot_eligible_bytes": 75440553,
-  "snapshot_eligible_mib": 71.95,
-  "files": 1027,
+  "snapshot_eligible_bytes": 122097320,
+  "snapshot_eligible_mib": 116.44,
+  "files": 1065,
   "soft_limit_mib": 90,
   "stop_limit_mib": 118,
   "below_stop_limit": true,
@@ -10,10 +10,12 @@
     "AGENTS.md": 0.0,
     "ai-film-studio": 3.73,
     "ai-film-studio-setup": 0.06,
-    "alhambra-vox": 66.21,
+    "alhambra-vox": 110.71,
     "image-search": 0.41,
     "skills": 1.53
   },
-  "system_disk_free_gib": 16.57,
-  "project_video_files": []
+  "system_disk_free_gib": 15.94,
+  "project_video_files": [
+    "deliverables/alhambra-layered-v5-viewing-1080p32.mp4"
+  ]
 }

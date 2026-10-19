@@ -19,5 +19,7 @@
   "source_recording_sha256": "6486f1852653f5ecfd7c0a07bb759b193ccf350f1fec72fde1078280bbd9e422",
   "mix_path": "/home/user/.cache/alhambra-render/layered-v5/alhambra-layered-v5-full-mix.m4a",
   "mix_sha256": "f0b740f0ab744e25df12915bb0a8ab8db8e4829e1768ed323489c4a346115999",
-  "raw_premix_peak": 0.9036598205566406
+  "raw_premix_peak": 0.9036598205566406,
+  "mix_repository_path": "renders/layered-v5/audio/alhambra-layered-v5-full-mix.m4a",
+  "mix_backup_commit": "9fddd3f9f3c5d7a356e1ece6b3faedd7f177b091"
 }

@@ -1,10 +1,14 @@
+> **Current edition: layered-v5.** Duration 336.1875 seconds / 10,758 frames at 32fps. The user-selected sung source interval is exactly **10:18.670–11:30.000** (71.330 seconds), with 13.75 ms of silent video-grid padding, not extra source audio. Earlier editions are retained in the project history.
+
+**المونتاج والتصميم بواسطة شذى ياسر**
+
 # المصادر والتراخيص / Credits and provenance
 
 ## Film
 
 **الحمراء — قصيدة من حجر / Alhambra — A Poem in Stone**
 
-Arabic narration and the complete script were supplied by the project owner. The muwashah revision replaces the narrator’s spoken opening lyric quote with 45.625 seconds of the supplied sung recording, then resumes the original narrator without time-stretching or regenerated speech. The source narration file is retained unchanged. The revised duration is 310.46875 seconds (9,935 frames at 32fps), including a seven-second end credit.
+Arabic narration and the complete script were supplied by the project owner. The muwashah revision replaces the narrator’s spoken opening lyric quote with 71.330 seconds of the supplied sung recording, then resumes the original narrator without time-stretching or regenerated speech. The source narration file is retained unchanged. The revised duration is 336.1875 seconds (10,758 frames at 32fps), including a seven-second end credit.
 
 **المونتاج والتصميم بواسطة شذى ياسر** — on-screen credit requested by the project owner.
 
@@ -42,7 +46,7 @@ Source repository: https://github.com/zoih6/alhambra-film-assets
 - `voiceover_narration.mp3`: original source retained. The authorized playback edit removes 168.40625–175.96875 seconds; everything else is kept in order, with subsequent material shifted later to accommodate the song.
 - `background_music_option_2.mp3`: selected as a quiet, ducked musical bed; looped using an eight-second equal-power crossfade.
 - `background_music_option_1.mp3`: retained as an unused alternative.
-- `muwashah_en_al_andalus.m4a`: **used in the muwashah revision**. Embedded metadata identifies the recording as **Sami Yusuf — En al-Ándalus**, album **Alma**. The selected contiguous excerpt is 09:24.125–10:09.750. During this performance, neither the narrator nor the previous background score is layered over it. The performance tempo is unchanged.
+- `muwashah_en_al_andalus.m4a`: **used in the muwashah revision**. Embedded metadata identifies the recording as **Sami Yusuf — En al-Ándalus**, album **Alma**. The selected contiguous excerpt is 10:18.670–11:30.000. During this performance, neither the narrator nor the previous background score is layered over it. The performance tempo is unchanged.
 
 The project owner supplied and authorized publication of these files. Their inclusion is not a blanket license grant for third-party reuse; underlying audio rights were not independently established. Do not assume the code license applies to supplied audio or photographs.
 
@@ -65,3 +69,9 @@ Both portable skills are preserved in the public repository's `vendor/` director
 ## Original style references
 
 All twelve user-supplied reference clips are also backed up, unmodified, in `references/style-reference-videos-originals.zip` in the public repository. They are reference material, not scenes from this produced film. The ZIP includes a source-commit note and SHA-256 manifest. Their underlying rights are not reassigned by this backup.
+
+## V5 illustrative assets
+
+Four new AI-generated conceptual assets are used: an imagined Ibn al-Ahmar portrait, an imagined Ibn al-Khatib portrait, mason hands placing a sandstone block, and an illustrative medieval-style key. They are not authentic historical portraits or claimed surviving artifacts. The person images are labeled as imagined on screen. Original green-background images, cleaned RGBA cutouts, detail partitions and integrity records are preserved in the project. They do not replace the genuine location photographs as evidence.
+
+V5 animation preserves native Arabic shaping before masking its bodies and marks. The final cut was implemented using a deterministic Canvas/Playwright/FFmpeg compositor, not an Adobe After Effects project file.
