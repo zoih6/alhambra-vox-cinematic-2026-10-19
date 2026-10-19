@@ -85,9 +85,9 @@ try:
     save();log('PUBLIC_REPOSITORY '+info['html_url'])
     GIT.mkdir(parents=True,exist_ok=True)
     if not (GIT/'.git').exists():
-        git('init','-b','main');git('remote','add','origin',info['clone_url'])
+        git('init','-b','main');git('remote','add','origin',info['clone_url']);git('config','pack.windowMemory','64m');git('config','pack.threads','1')
         if existing.get('last_commit'):
-            git('fetch','origin','main',auth=True);git('reset','--hard','origin/main')
+            git('fetch','--depth','1','origin','main',auth=True);git('reset','--hard','origin/main')
     git('config','user.name','AI Film Studio');git('config','user.email',f'{me["id"]}+{login}@users.noreply.github.com')
     snapshot();commit_push('Preserve approved project sources, assets, narration and production skills')
     log('INITIAL_BACKUP_COMPLETE')
@@ -108,6 +108,34 @@ try:
                 state['uploaded_artifacts']=[a for a in state['uploaded_artifacts'] if a['path']!=entry['path']]+[entry]
                 save();snapshot();commit_push(job.get('message','Preserve rendered checkpoint '+local.name))
                 log('ARTIFACT_UPLOADED '+str(dest))
+            elif kind=='release':
+                local=Path(job['local_path']).resolve()
+                if not (ROOT.resolve() in local.parents or Path('/home/user/.cache/alhambra-render').resolve() in local.parents):raise RuntimeError('Unsafe release asset path')
+                digest=hashlib.sha256(local.read_bytes()).hexdigest();tag=job.get('tag','v5-layered-motion');repo=state['repository_full_name']
+                try:release=api('GET','/repos/'+repo+'/releases/tags/'+tag)
+                except RuntimeError as exc:
+                    if not str(exc).startswith('GitHub 404:'):raise
+                    release=api('POST','/repos/'+repo+'/releases',json={'tag_name':tag,'target_commitish':'main','name':job.get('release_name','Alhambra — layered-motion edition'),'body':job.get('release_body','Full-quality film master. Sources, credits and independently preserved render checkpoints are in this repository.'),'draft':False,'prerelease':False})
+                assets=api('GET',f'/repos/{repo}/releases/{release["id"]}/assets')
+                asset=next((a for a in assets if a.get('digest')=='sha256:'+digest),None)
+                name=local.name
+                if asset is None:
+                    if any(a['name']==name for a in assets):name=local.stem+'-'+digest[:8]+local.suffix
+                    upload=release['upload_url'].split('{')[0]
+                    if not upload.startswith('https://uploads.github.com/'):raise RuntimeError('Untrusted release upload host')
+                    with local.open('rb') as stream:
+                        response=SESSION.post(upload,params={'name':name},data=stream,headers={'Content-Type':'video/mp4','Content-Length':str(local.stat().st_size)},timeout=300,allow_redirects=False)
+                    if response.status_code!=201:raise RuntimeError('Release upload failed: '+str(response.status_code))
+                    asset=response.json()
+                record={'release_id':release['id'],'asset_id':asset['id'],'tag':tag,'name':asset['name'],'bytes':local.stat().st_size,'sha256':digest,'download_url':asset['browser_download_url'],'release_url':release['html_url']}
+                relpath=Path(job.get('remote_path','renders/final/v5-master-download.json'))
+                if relpath.is_absolute() or '..' in relpath.parts:raise RuntimeError('Unsafe release metadata path')
+                dest=GIT/relpath;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(json.dumps(record,ensure_ascii=False,indent=2))
+                (ROOT/'research/v5-release-published.json').write_text(json.dumps(record,ensure_ascii=False,indent=2))
+                entry={'path':'releases/'+tag+'/'+asset['name'],'bytes':local.stat().st_size,'sha256':digest,'download_url':asset['browser_download_url'],'source_name':local.name}
+                state['uploaded_artifacts']=[a for a in state['uploaded_artifacts'] if a['path']!=entry['path']]+[entry]
+                save();snapshot();commit_push(job.get('message','Preserve full-quality release master'))
+                job['download_url']=asset['browser_download_url'];log('RELEASE_ASSET_UPLOADED '+asset['browser_download_url'])
             elif kind in {'snapshot','finish'}:
                 snapshot();commit_push(job.get('message','Preserve production checkpoint'))
             else:raise RuntimeError('Unknown checkpoint job kind')

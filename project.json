@@ -1,7 +1,7 @@
 {
   "project_id": "alhambra-poem-in-stone",
   "date": "2026-10-19",
-  "stage": "muwashah_revision_delivered",
+  "stage": "v5_independent_layer_rebuild",
   "video_render_allowed": true,
   "video_rendered": true,
   "full_film_built": true,
@@ -23,7 +23,7 @@
   "workspace_stop_limit_mib": 118,
   "required_future_output_directory": "deliverables",
   "never_use_output_directory_named": "out",
-  "next_action": "User may review the revised movie, especially 02:48–03:34 and the end credit. No further edits or publishing without a request.",
+  "next_action": "Build and verify the new layer graph and exact chorus excerpt; render and publish version v5 while preserving prior versions.",
   "public_github_backup_authorized": true,
   "credential_storage_allowed": false,
   "camera_requirements": [
@@ -43,7 +43,7 @@
   "local_video": "deliverables/alhambra-muwashah-viewing-1080p32.mp4",
   "quality_status": "technical_and_sampled_visual_checks_passed_user_review_pending",
   "narration_playback_edit_authorized": true,
-  "revision_request": "Replace the spoken opening muwashah quote with the supplied sung performance; animate lyrics to singing; resume narration; credit editing/design to شذى ياسر.",
+  "revision_request": "User requests a full independent-layer motion redesign with track mattes, custom masks, trim paths, separate paper/photo/shadow motion, generated historical illustrations, exact song interval 618.670–690.000 seconds and animated Shatha Yasser end credit.",
   "current_revision": "muwashah-v4",
   "musical_interlude": {
     "start": 168.40625,

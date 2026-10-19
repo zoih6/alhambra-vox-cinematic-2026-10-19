@@ -1,5 +1,5 @@
 {
-  "status": "complete",
+  "status": "initial_backup",
   "public_repository": true,
   "token_persisted": false,
   "uploaded_artifacts": [
@@ -274,7 +274,7 @@
       "source_name": "alhambra-muwashah-viewing-1080p32.mp4"
     }
   ],
-  "last_commit": "f101aacc0ced50e1977234da703f1c6576478db0",
+  "last_commit": null,
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",

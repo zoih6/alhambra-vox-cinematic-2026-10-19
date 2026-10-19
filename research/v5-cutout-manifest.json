@@ -1,0 +1,150 @@
+{
+  "assets": {
+    "founder": {
+      "source": "assets/generated/v5-founder-portrait.jpg",
+      "cutout": "assets/layered-v5/founder.webp",
+      "size": [
+        860,
+        1411
+      ],
+      "source_crop": [
+        97,
+        125,
+        957,
+        1536
+      ],
+      "layers": [
+        {
+          "key": "founder-head",
+          "path": "assets/layered-v5/founder-head.webp",
+          "bounds": [
+            0.2372093023255814,
+            0.005669737774627924,
+            0.48604651162790696,
+            0.3664068036853296
+          ],
+          "depth": 235
+        },
+        {
+          "key": "founder-scroll",
+          "path": "assets/layered-v5/founder-scroll.webp",
+          "bounds": [
+            0.2372093023255814,
+            0.6080793763288448,
+            0.41627906976744183,
+            0.22395464209780297
+          ],
+          "depth": 255
+        }
+      ],
+      "body": "assets/layered-v5/founder-body.webp"
+    },
+    "poet": {
+      "source": "assets/generated/v5-poet-portrait.jpg",
+      "cutout": "assets/layered-v5/poet.webp",
+      "size": [
+        1024,
+        1442
+      ],
+      "source_crop": [
+        0,
+        94,
+        1024,
+        1536
+      ],
+      "layers": [
+        {
+          "key": "poet-head",
+          "path": "assets/layered-v5/poet-head.webp",
+          "bounds": [
+            0.248046875,
+            0.005547850208044383,
+            0.4482421875,
+            0.406380027739251
+          ],
+          "depth": 225
+        },
+        {
+          "key": "poet-writing-hand",
+          "path": "assets/layered-v5/poet-writing-hand.webp",
+          "bounds": [
+            0.27734375,
+            0.43828016643550627,
+            0.4150390625,
+            0.23370319001386963
+          ],
+          "depth": 250
+        },
+        {
+          "key": "poet-manuscript",
+          "path": "assets/layered-v5/poet-manuscript.webp",
+          "bounds": [
+            0.4580078125,
+            0.573509015256588,
+            0.51953125,
+            0.33841886269070737
+          ],
+          "depth": 242
+        }
+      ],
+      "body": "assets/layered-v5/poet-body.webp"
+    },
+    "hands": {
+      "source": "assets/generated/v5-foundation-hands.jpg",
+      "cutout": "assets/layered-v5/hands.webp",
+      "size": [
+        1448,
+        892
+      ],
+      "source_crop": [
+        0,
+        0,
+        1448,
+        892
+      ],
+      "layers": [
+        {
+          "key": "hands-left-hand",
+          "path": "assets/layered-v5/hands-left-hand.webp",
+          "bounds": [
+            0.0,
+            0.0,
+            0.3819060773480663,
+            0.8822869955156951
+          ],
+          "depth": 260
+        },
+        {
+          "key": "hands-right-hand",
+          "path": "assets/layered-v5/hands-right-hand.webp",
+          "bounds": [
+            0.6781767955801105,
+            0.0,
+            0.3218232044198895,
+            0.9125560538116592
+          ],
+          "depth": 265
+        }
+      ],
+      "body": "assets/layered-v5/hands-body.webp"
+    },
+    "key": {
+      "source": "assets/generated/v5-medieval-key.jpg",
+      "cutout": "assets/layered-v5/key.webp",
+      "size": [
+        1509,
+        383
+      ],
+      "source_crop": [
+        83,
+        291,
+        1592,
+        674
+      ],
+      "layers": [],
+      "body": "assets/layered-v5/key.webp"
+    }
+  },
+  "historical_people_are_imagined_illustrations": true,
+  "source_images_retained": true
+}

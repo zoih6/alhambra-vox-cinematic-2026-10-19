@@ -1,7 +1,7 @@
 {
-  "snapshot_eligible_bytes": 120133368,
+  "snapshot_eligible_bytes": 120133625,
   "snapshot_eligible_mib": 114.57,
-  "files": 948,
+  "files": 949,
   "soft_limit_mib": 90,
   "stop_limit_mib": 118,
   "below_stop_limit": true,
@@ -14,7 +14,7 @@
     "image-search": 0.41,
     "skills": 1.53
   },
-  "system_disk_free_gib": 16.3,
+  "system_disk_free_gib": 19.97,
   "project_video_files": [
     "deliverables/alhambra-muwashah-viewing-1080p32.mp4"
   ]
