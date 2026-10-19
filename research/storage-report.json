@@ -1,7 +1,7 @@
 {
-  "snapshot_eligible_bytes": 50895279,
-  "snapshot_eligible_mib": 48.54,
-  "files": 787,
+  "snapshot_eligible_bytes": 76130483,
+  "snapshot_eligible_mib": 72.6,
+  "files": 802,
   "soft_limit_mib": 90,
   "stop_limit_mib": 118,
   "below_stop_limit": true,
@@ -10,9 +10,10 @@
     "AGENTS.md": 0.0,
     "ai-film-studio": 3.73,
     "ai-film-studio-setup": 0.06,
-    "alhambra-vox": 43.22,
+    "alhambra-vox": 66.87,
+    "image-search": 0.41,
     "skills": 1.53
   },
-  "system_disk_free_gib": 18.05,
+  "system_disk_free_gib": 17.94,
   "project_video_files": []
 }

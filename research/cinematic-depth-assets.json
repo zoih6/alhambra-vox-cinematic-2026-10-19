@@ -1,0 +1,80 @@
+{
+  "generated_plates_are_conceptual_illustrations": true,
+  "layers": {
+    "stone": {
+      "original": "assets/generated/cinematic-plate-stone.jpg",
+      "backing": "assets/cinematic/stone-backing.jpg",
+      "size": [
+        1376,
+        768
+      ],
+      "overlays": [
+        {
+          "key": "stone-palace",
+          "path": "assets/cinematic/stone-palace.webp",
+          "bounds_normalized": [
+            0.3488372093023256,
+            0.3372395833333333,
+            0.6511627906976745,
+            0.3463541666666667
+          ],
+          "depth": -110
+        },
+        {
+          "key": "stone-hero",
+          "path": "assets/cinematic/stone-hero.webp",
+          "bounds_normalized": [
+            0.07848837209302326,
+            0.3658854166666667,
+            0.2928779069767442,
+            0.4283854166666667
+          ],
+          "depth": 230
+        },
+        {
+          "key": "stone-foreground",
+          "path": "assets/cinematic/stone-foreground.webp",
+          "bounds_normalized": [
+            0.0,
+            0.7552083333333334,
+            1.0,
+            0.24479166666666666
+          ],
+          "depth": 440
+        }
+      ]
+    },
+    "water": {
+      "original": "assets/generated/cinematic-plate-water.jpg",
+      "backing": "assets/cinematic/water-backing.jpg",
+      "size": [
+        1376,
+        768
+      ],
+      "overlays": [
+        {
+          "key": "water-wall",
+          "path": "assets/cinematic/water-wall.webp",
+          "bounds_normalized": [
+            0.12863372093023256,
+            0.17578125,
+            0.8713662790697675,
+            0.57421875
+          ],
+          "depth": -70
+        },
+        {
+          "key": "water-arch",
+          "path": "assets/cinematic/water-arch.webp",
+          "bounds_normalized": [
+            0.0,
+            0.0,
+            0.2369186046511628,
+            1.0
+          ],
+          "depth": 420
+        }
+      ]
+    }
+  }
+}

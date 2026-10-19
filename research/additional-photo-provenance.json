@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3-1",
+    "group": 2,
+    "title": "File:Muqarnas Dome, Alhambra, Granada 6 30 11 -architecture -islamic -palace (25092731377).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Muqarnas_Dome,_Alhambra,_Granada_6_30_11_-architecture_-islamic_-palace_(25092731377).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Muqarnas_Dome%2C_Alhambra%2C_Granada_6_30_11_-architecture_-islamic_-palace_%2825092731377%29.jpg",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Muqarnas_Dome%2C_Alhambra%2C_Granada_6_30_11_-architecture_-islamic_-palace_%2825092731377%29.jpg/960px-Muqarnas_Dome%2C_Alhambra%2C_Granada_6_30_11_-architecture_-islamic_-palace_%2825092731377%29.jpg",
+    "author": "Sharon Mollerus",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Muqarnas Dome, Alhambra, Granada 6/30/11 #architecture #islamic #palace",
+    "local_path": "assets/photos/muqarnas-dome.jpg"
+  },
+  {
+    "id": "4-1",
+    "group": 3,
+    "title": "File:Patio de los Arrayanes detail Alhambra Granada Spain.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg",
+    "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg/960px-Patio_de_los_Arrayanes_detail_Alhambra_Granada_Spain.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Patio de los Arrayanes (Court of the Myrtles), detail, Alhambra, Granada, Spain.",
+    "local_path": "assets/photos/myrtles-court.jpg"
+  }
+]
