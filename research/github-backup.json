@@ -2,8 +2,15 @@
   "status": "watching_for_checkpoints",
   "public_repository": true,
   "token_persisted": false,
-  "uploaded_artifacts": [],
-  "last_commit": "97afb85a71945fb233f055a13a8b528f07025605",
+  "uploaded_artifacts": [
+    {
+      "path": "renders/a08c190140/segments/part-001.mp4",
+      "bytes": 2271628,
+      "sha256": "c3bff6e5236ae0ac5bcb7952c966dc9ef5bded90153d782098bfdcd59bfe6560",
+      "source_name": "part-001.mp4"
+    }
+  ],
+  "last_commit": "2fb6e54487d6d1b0b8e24cc08f81ed39005c15d0",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",

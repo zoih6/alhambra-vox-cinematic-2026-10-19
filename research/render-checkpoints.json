@@ -1,0 +1,35 @@
+{
+  "build_id": "a08c190140",
+  "status": "rendering",
+  "fps": 32,
+  "width": 1920,
+  "height": 1080,
+  "total_frames": 8621,
+  "total_segments": 27,
+  "completed_segments": [
+    {
+      "duration": 10.0,
+      "frames": 320,
+      "fps": 32.0,
+      "fps_fraction": "32/1",
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_streams": 1,
+      "bytes": 2271628,
+      "sha256": "c3bff6e5236ae0ac5bcb7952c966dc9ef5bded90153d782098bfdcd59bfe6560",
+      "part": 1,
+      "frame_in": 0,
+      "frame_out_exclusive": 320,
+      "time_in": 0,
+      "time_out": 10,
+      "local_staging_path": "/home/user/.cache/alhambra-render/a08c190140/segments/part-001.mp4",
+      "repository_path": "renders/a08c190140/segments/part-001.mp4"
+    }
+  ],
+  "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
+  "current_segment": 1,
+  "current_frame": 319,
+  "completed_count": 1,
+  "render_capture_fps": 8.89
+}

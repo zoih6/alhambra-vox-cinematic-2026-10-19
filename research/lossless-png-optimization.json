@@ -1,0 +1,65 @@
+{
+  "saved_bytes": 7307241,
+  "files": [
+    {
+      "file": "preview/mobile-layout-check.png",
+      "before": 130517,
+      "after": 125133,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/first-30s-board.png",
+      "before": 5475328,
+      "after": 5475328,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-05.png",
+      "before": 2780700,
+      "after": 1761062,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-01.png",
+      "before": 2677880,
+      "after": 1774428,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-08.png",
+      "before": 2670424,
+      "after": 1729112,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-03.png",
+      "before": 1725933,
+      "after": 872170,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-07.png",
+      "before": 2037299,
+      "after": 1059914,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-02.png",
+      "before": 3261603,
+      "after": 2194896,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-04.png",
+      "before": 1316519,
+      "after": 778303,
+      "rgba_pixel_identical": true
+    },
+    {
+      "file": "preview/frames/frame-06.png",
+      "before": 2544359,
+      "after": 1542975,
+      "rgba_pixel_identical": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "build_id": "a08c190140",
+  "status": "rendering",
+  "fps": 32,
+  "width": 1920,
+  "height": 1080,
+  "total_frames": 8621,
+  "total_segments": 27,
+  "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
+  "current_segment": 1,
+  "current_frame": 319,
+  "completed_count": 1,
+  "render_capture_fps": 8.89
+}

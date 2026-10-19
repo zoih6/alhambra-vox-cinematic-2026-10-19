@@ -17,13 +17,15 @@ state={'build_id':BUILD,'status':'rendering','fps':FPS,'width':1920,'height':108
 if MANIFEST.exists():
  old=json.loads(MANIFEST.read_text())
  if old.get('build_id')==BUILD:state=old
+state['status']='rendering'
+state.pop('error',None)
 
 def save():
  MANIFEST.write_text(json.dumps(state,ensure_ascii=False,indent=2));PROGRESS.write_text(json.dumps({k:v for k,v in state.items() if k!='completed_segments'},ensure_ascii=False,indent=2))
 def info(path):
  with av.open(str(path)) as c:
   v=c.streams.video[0]
-  return {'duration':float(v.duration*v.time_base) if v.duration is not None else float(c.duration/av.time_base),'frames':int(v.frames),'fps':str(v.average_rate),'width':v.width,'height':v.height,'video_codec':v.codec_context.name,'audio_streams':len(c.streams.audio),'bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
+  return {'duration':float(v.duration*v.time_base) if v.duration is not None else float(c.duration/av.time_base),'frames':int(v.frames),'fps':float(v.average_rate),'fps_fraction':str(v.average_rate),'width':v.width,'height':v.height,'video_codec':v.codec_context.name,'audio_streams':len(c.streams.audio),'bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
 def enqueue(kind,name,local=None,remote=None,message='Checkpoint'):
  job={'kind':kind,'message':message}
  if local is not None:job.update(local_path=str(local),remote_path=remote)
@@ -81,7 +83,7 @@ try:
       if ff.stdin:ff.stdin.close()
      code=ff.wait(timeout=90)
     if code:raise RuntimeError('Encoder failed: '+log.read_text()[-1500:])
-    record=info(path);assert record['frames']==n and record['width']==1920 and record['height']==1080 and record['fps']=='32',record
+    record=info(path);assert record['frames']==n and record['width']==1920 and record['height']==1080 and record['fps']==FPS,record
     record.update(part=part+1,frame_in=first,frame_out_exclusive=last,time_in=first/FPS,time_out=last/FPS,local_staging_path=str(path),repository_path=remote)
     state['completed_segments']=[x for x in state['completed_segments'] if x['part']!=part+1]+[record];state['completed_segments'].sort(key=lambda x:x['part']);state['completed_count']=len(state['completed_segments']);save()
    if not args.local_only:
