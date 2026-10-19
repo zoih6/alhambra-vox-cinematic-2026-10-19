@@ -70,7 +70,8 @@ try:
  if delivery is None:
   replace_target=R/'deliverables/alhambra-cinematic-viewing-1080p32.mp4'
   replace_size=replace_target.stat().st_size if replace_target.exists() else 0
-  budget=118*1024**2-eligible()+replace_size-2*1024**2
+  reserve=(1 if (R/'research/final-encoded-contact-1.jpg').exists() else 2)*1024**2
+  budget=118*1024**2-eligible()+replace_size-reserve
   if budget<12*1024**2:raise RuntimeError('Insufficient persistent space for a viewing copy. Master is already backed up.')
   for crf in [25,26,27,28]:
    candidate=TMP/m['build_id']/f'alhambra-viewing-crf{crf}-exact32.mp4'

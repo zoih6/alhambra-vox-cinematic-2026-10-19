@@ -571,5 +571,8 @@
     "bytes": 57583737,
     "sha256": "f4ff4d32345faa9500758efc1360f44cb3bccf0e94ae38c5e4874c2f83fdf162"
   },
-  "master_staging_path": "/home/user/.cache/alhambra-render/baf673ad5f/alhambra-cinematic-1080p32.mp4"
+  "master_staging_path": "/home/user/.cache/alhambra-render/baf673ad5f/alhambra-cinematic-1080p32.mp4",
+  "master_backup_commit": "e4ad0dc93bad722e3a69e51103af48c698ceea72",
+  "local_delivery": null,
+  "local_delivery_note": "Full-quality master is preserved in GitHub and local runtime staging; a size-budgeted viewing copy may be added after review."
 }
