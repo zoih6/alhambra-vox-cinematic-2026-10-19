@@ -1,7 +1,7 @@
 {
   "version": "layered-v5",
   "build_id": "6f07a6d1412c",
-  "status": "rendering",
+  "status": "master_verified",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -651,7 +651,8 @@
       "frame_out_exclusive": 10758,
       "time_in": 330.0,
       "time_out": 336.1875,
-      "repository_path": "renders/layered-v5/6f07a6d1412c/segments/part-034.mp4"
+      "repository_path": "renders/layered-v5/6f07a6d1412c/segments/part-034.mp4",
+      "backup_commit": "72663c0bd4b5dcdaebc556ad7c98303788033545"
     }
   ],
   "segment_count": 34,
@@ -665,5 +666,19 @@
   "corrected_parts": [
     2,
     3
-  ]
+  ],
+  "master": {
+    "path": "/home/user/.cache/alhambra-render/layered-v5/6f07a6d1412c/alhambra-layered-v5-1080p32-master.mp4",
+    "frames": 10758,
+    "fps": 32.0,
+    "width": 1920,
+    "height": 1080,
+    "duration": 336.1875,
+    "start_time": 0.0,
+    "audio_streams": 1,
+    "bytes": 135183547,
+    "sha256": "d4e1cd5b522d0928d9a63afc3c3186c159abf53055a9bc53bcc4071c9935253e"
+  },
+  "cfr_pts_verified": true,
+  "full_decoder_check": "passed"
 }
