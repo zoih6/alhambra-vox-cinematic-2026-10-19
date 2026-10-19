@@ -4,7 +4,9 @@
 
 **الحمراء — قصيدة من حجر / Alhambra — A Poem in Stone**
 
-Arabic narration and the complete script were supplied by the project owner. The film uses the original narration without time-stretching or regenerated speech. Visual design and animation code were created for this project. The new cinematic duration is 269.40625 seconds: the 265.4-second narration plus approximately four seconds of credits, quantized to 32fps.
+Arabic narration and the complete script were supplied by the project owner. The muwashah revision replaces the narrator’s spoken opening lyric quote with 45.625 seconds of the supplied sung recording, then resumes the original narrator without time-stretching or regenerated speech. The source narration file is retained unchanged. The revised duration is 310.46875 seconds (9,935 frames at 32fps), including a seven-second end credit.
+
+**المونتاج والتصميم بواسطة شذى ياسر** — on-screen credit requested by the project owner.
 
 ## Genuine photographs
 
@@ -37,9 +39,10 @@ Pexels License: https://www.pexels.com/license/
 
 Source repository: https://github.com/zoih6/alhambra-film-assets
 
-- `voiceover_narration.mp3`: used throughout, wording and timing retained.
+- `voiceover_narration.mp3`: original source retained. The authorized playback edit removes 168.40625–175.96875 seconds; everything else is kept in order, with subsequent material shifted later to accommodate the song.
 - `background_music_option_2.mp3`: selected as a quiet, ducked musical bed; looped using an eight-second equal-power crossfade.
-- `background_music_option_1.mp3` and `muwashah_en_al_andalus.m4a`: preserved as supplied alternatives, not mixed into this version to avoid competing vocals.
+- `background_music_option_1.mp3`: retained as an unused alternative.
+- `muwashah_en_al_andalus.m4a`: **used in the muwashah revision**. Embedded metadata identifies the recording as **Sami Yusuf — En al-Ándalus**, album **Alma**. The selected contiguous excerpt is 09:24.125–10:09.750. During this performance, neither the narrator nor the previous background score is layered over it. The performance tempo is unchanged.
 
 The project owner supplied and authorized publication of these files. Their inclusion is not a blanket license grant for third-party reuse; underlying audio rights were not independently established. Do not assume the code license applies to supplied audio or photographs.
 

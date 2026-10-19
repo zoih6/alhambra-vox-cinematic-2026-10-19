@@ -248,9 +248,15 @@
       "bytes": 526483,
       "sha256": "b07b1851bc5e3b6eaedecba885c11d5417c9a9d7a0c64cd5489ee64553beb1be",
       "source_name": "narrator-return.mp4"
+    },
+    {
+      "path": "renders/muwashah-v4/segments/closing-junction.mp4",
+      "bytes": 1814018,
+      "sha256": "a02b8fc24b327dcd7be59caf2b297ac03252e3b921b030c4dc6d6f3ee35bcdf8",
+      "source_name": "closing-junction.mp4"
     }
   ],
-  "last_commit": "20f36a3756dc771ad8c72200af9c848a899b4801",
+  "last_commit": "780d01613f7905311189bdbf53622a968be06e94",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",

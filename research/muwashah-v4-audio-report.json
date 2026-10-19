@@ -25,5 +25,7 @@
   "mix_sha256": "99ad2b796a2a0a00e3cd83ac7eb688b6e07e001121f14f74c4b82a1ffcc73431",
   "narration_overlap_during_song": false,
   "song_time_stretched": false,
-  "new_credit": "المونتاج والتصميم بواسطة شذى ياسر"
+  "new_credit": "المونتاج والتصميم بواسطة شذى ياسر",
+  "mix_repository_path": "renders/muwashah-v4/audio/alhambra-muwashah-full-mix.m4a",
+  "mix_backup_commit": "b7ec25ec324c1a2d3b8af24fb997ab8c3d5c5e3b"
 }

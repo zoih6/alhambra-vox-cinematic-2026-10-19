@@ -1,3 +1,5 @@
+> **Preserved v2/v3 engine documentation.** The later sung interlude and Shatha Yasser end credit are described in `muwashah-v4-edit-notes.md`; the old engine remains unchanged for reproduction of the approved base film.
+
 # Cinematic engine v2
 
 ## The two clocks
