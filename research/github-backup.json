@@ -513,9 +513,15 @@
       "sha256": "d4e1cd5b522d0928d9a63afc3c3186c159abf53055a9bc53bcc4071c9935253e",
       "download_url": "https://github.com/zoih6/alhambra-vox-cinematic-2026-10-19/releases/download/v5-layered-motion/alhambra-layered-v5-1080p32-master.mp4",
       "source_name": "alhambra-layered-v5-1080p32-master.mp4"
+    },
+    {
+      "path": "renders/final/alhambra-layered-v5-viewing-1080p32.mp4",
+      "bytes": 44577626,
+      "sha256": "916d524a0e2a7ce457de5a97f4d763d44a240db631a97d6d521e74f168ca014d",
+      "source_name": "alhambra-layered-v5-viewing-1080p32.mp4"
     }
   ],
-  "last_commit": "72663c0bd4b5dcdaebc556ad7c98303788033545",
+  "last_commit": "b88dd9f3ec5579f06276be19551e39bfbf7f2aab",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
