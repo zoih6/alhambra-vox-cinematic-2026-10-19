@@ -1,0 +1,25 @@
+{
+  "public_checkpoint_http": 206,
+  "joins": [
+    {
+      "boundary_seconds": 10,
+      "adjacent_frame_mad": 0.016,
+      "join_frame_mad": 0.951,
+      "camera_reset": false
+    },
+    {
+      "boundary_seconds": 20,
+      "adjacent_frame_mad": 0.025,
+      "join_frame_mad": 1.597,
+      "camera_reset": false
+    },
+    {
+      "boundary_seconds": 30,
+      "adjacent_frame_mad": 0.061,
+      "join_frame_mad": 2.198,
+      "camera_reset": false
+    }
+  ],
+  "first_checkpoint_sha256": "c3bff6e5236ae0ac5bcb7952c966dc9ef5bded90153d782098bfdcd59bfe6560",
+  "scope": "first available encoded checkpoints"
+}

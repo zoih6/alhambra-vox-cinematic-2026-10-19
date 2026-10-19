@@ -1,0 +1,10 @@
+{
+  "crf": 25,
+  "preset": "veryfast",
+  "width": 1920,
+  "height": 1080,
+  "fps": 32,
+  "input_bytes": 2271628,
+  "output_bytes": 1151423,
+  "elapsed_seconds": 6.65
+}
