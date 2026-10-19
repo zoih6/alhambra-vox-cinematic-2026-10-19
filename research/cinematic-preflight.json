@@ -1,0 +1,13 @@
+{
+  "scene_count": 40,
+  "js_errors": [],
+  "deterministic_seek": true,
+  "camera_max_per_frame_boundary_step": 0.09168707637726392,
+  "benchmark_capture_fps": 8.31,
+  "first_frame_width": 1920,
+  "first_frame_height": 1080,
+  "stop_motion_fps": 8,
+  "camera_fps": 32,
+  "rack_focus": "continuous depth-dependent blur interpolation",
+  "motion_preview_requires_video_review": true
+}

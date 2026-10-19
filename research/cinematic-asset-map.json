@@ -1,0 +1,19 @@
+{
+  "stone": "assets/cutouts/stone.webp",
+  "inscription": "assets/cutouts/inscription.webp",
+  "palace": "assets/cutouts/palace.webp",
+  "dawn": "assets/photos/palace-dawn.jpg",
+  "paper": "assets/textures/paper.jpg",
+  "charcoal": "assets/textures/charcoal.jpg",
+  "red": "assets/textures/red.jpg",
+  "myrtles": "assets/cinematic/myrtles.webp",
+  "dome": "assets/cinematic/dome.webp",
+  "lions": "assets/cinematic/lions.webp",
+  "stone-backing": "assets/cinematic/stone-backing.jpg",
+  "stone-palace": "assets/cinematic/stone-palace.webp",
+  "stone-hero": "assets/cinematic/stone-hero.webp",
+  "stone-foreground": "assets/cinematic/stone-foreground.webp",
+  "water-backing": "assets/cinematic/water-backing.jpg",
+  "water-wall": "assets/cinematic/water-wall.webp",
+  "water-arch": "assets/cinematic/water-arch.webp"
+}

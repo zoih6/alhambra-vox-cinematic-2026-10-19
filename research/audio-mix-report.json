@@ -1,0 +1,19 @@
+{
+  "original_voice_unchanged": true,
+  "voice_duration_seconds": 265.4,
+  "mix_duration_seconds": 269.40625,
+  "music_used": "background_music_option_2.mp3",
+  "unused_user_options_retained": [
+    "background_music_option_1.mp3",
+    "muwashah_en_al_andalus.m4a"
+  ],
+  "reason_no_sung_overlay": "Avoid competing vocals over the recorded narrator; no unapproved extra pauses inserted.",
+  "ducking": "continuous voice-led RMS sidechain",
+  "target_lufs": -14,
+  "target_true_peak_dbtp": -1.5,
+  "aac_guard_limiter_dbtp": -2.2,
+  "measured_encoded_lufs": -14.58,
+  "measured_encoded_true_peak_dbtp": -1.51,
+  "lra": 4.9,
+  "output": "assets/audio/film-mix-v2.m4a"
+}
