@@ -1,6 +1,6 @@
 {
   "version": "muwashah-v4",
-  "status": "rendering",
+  "status": "master_verified",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -1100,6 +1100,28 @@
       },
       "repository_path": "renders/muwashah-v4/segments/closing-junction.mp4",
       "backup_commit": "aa31dfcbc6031142e4aa829a40e236683b8255d4"
+    },
+    {
+      "path": "/home/user/.cache/alhambra-render/muwashah-v4/segments/shatha-yasser-credits.mp4",
+      "frames": 224,
+      "fps": 32.0,
+      "width": 1920,
+      "height": 1080,
+      "start": 0.0,
+      "duration": 7.0,
+      "bytes": 1098947,
+      "sha256": "668a981ade3803e751023bf8973a20e1c64d371387e973219afe937551d933c6",
+      "name": "shatha-yasser-credits",
+      "role": "credits",
+      "new_render": true,
+      "frame_in_new": 9711,
+      "frame_out_new": 9935,
+      "source": {
+        "render_mode": "credits",
+        "seek_start": 0
+      },
+      "repository_path": "renders/muwashah-v4/segments/shatha-yasser-credits.mp4",
+      "backup_commit": "06a800ca7c0f84911b34b4401b7f9e43f9ad45a1"
     }
   ],
   "unchanged_source_pieces_reused": 24,
@@ -1109,5 +1131,18 @@
   ],
   "music_duration": 45.625,
   "credit_text": "المونتاج والتصميم بواسطة شذى ياسر",
-  "completed_new_frames": 9711
+  "completed_new_frames": 9935,
+  "master": {
+    "path": "/home/user/.cache/alhambra-render/muwashah-v4/alhambra-muwashah-1080p32-master.mp4",
+    "frames": 9935,
+    "fps": 32.0,
+    "width": 1920,
+    "height": 1080,
+    "start": 0.0,
+    "duration": 310.46875,
+    "bytes": 67186207,
+    "sha256": "644fb0386f0ced59a15761479488aa0d0cb6643795836bd4531e76f66b8848e4"
+  },
+  "master_constant_pts": true,
+  "master_full_decode": "passed"
 }
