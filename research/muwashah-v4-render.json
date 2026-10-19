@@ -1,6 +1,6 @@
 {
   "version": "muwashah-v4",
-  "status": "master_verified",
+  "status": "awaiting_final_review",
   "width": 1920,
   "height": 1080,
   "fps": 32,
@@ -1144,5 +1144,19 @@
     "sha256": "644fb0386f0ced59a15761479488aa0d0cb6643795836bd4531e76f66b8848e4"
   },
   "master_constant_pts": true,
-  "master_full_decode": "passed"
+  "master_full_decode": "passed",
+  "master_backup_commit": "d26335798b07ea15216cf2158fa7856a57ae6409",
+  "viewing": {
+    "path": "/home/user/alhambra-vox/deliverables/alhambra-muwashah-viewing-1080p32.mp4",
+    "frames": 9935,
+    "fps": 32.0,
+    "width": 1920,
+    "height": 1080,
+    "start": 0.0,
+    "duration": 310.46875,
+    "bytes": 34978929,
+    "sha256": "860c3ff5c91953c5d70334171ccd51c5be68e4b3b4ad91368ddb740bbd98332b"
+  },
+  "viewing_crf": 27,
+  "elapsed_seconds": 486.7
 }

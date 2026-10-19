@@ -266,9 +266,15 @@
       "bytes": 67186207,
       "sha256": "644fb0386f0ced59a15761479488aa0d0cb6643795836bd4531e76f66b8848e4",
       "source_name": "alhambra-muwashah-1080p32-master.mp4"
+    },
+    {
+      "path": "renders/final/alhambra-muwashah-viewing-1080p32.mp4",
+      "bytes": 34978929,
+      "sha256": "860c3ff5c91953c5d70334171ccd51c5be68e4b3b4ad91368ddb740bbd98332b",
+      "source_name": "alhambra-muwashah-viewing-1080p32.mp4"
     }
   ],
-  "last_commit": "06a800ca7c0f84911b34b4401b7f9e43f9ad45a1",
+  "last_commit": "d26335798b07ea15216cf2158fa7856a57ae6409",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
