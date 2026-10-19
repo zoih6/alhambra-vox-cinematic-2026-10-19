@@ -1,0 +1,22 @@
+[
+  {
+    "id": 13341148,
+    "local_path": "assets/photos/palace-dawn.jpg",
+    "download_url": "https://images.pexels.com/photos/13341148/pexels-photo-13341148.jpeg?auto=compress&cs=tinysrgb&w=2560&q=95",
+    "source_page": "https://www.pexels.com/photo/13341148/",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "author": "Enrique",
+    "status": "source_and_license_page_checked"
+  },
+  {
+    "id": 3049735,
+    "local_path": "assets/photos/palace-overview.jpg",
+    "download_url": "https://images.pexels.com/photos/3049735/pexels-photo-3049735.jpeg?auto=compress&cs=tinysrgb&w=2560&q=95",
+    "source_page": "https://www.pexels.com/photo/3049735/",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "author": "Miquel Rosselló Calafell",
+    "status": "source_and_license_page_checked"
+  }
+]

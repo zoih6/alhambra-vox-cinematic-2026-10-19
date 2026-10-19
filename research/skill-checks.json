@@ -1,0 +1,9 @@
+{
+  "motion_reel_core_files_match_git_blobs": "10/10",
+  "motion_js_assertions_passed": 6,
+  "render_mjs_syntax": "passed_not_executed",
+  "sfx_mjs_syntax": "passed_not_executed",
+  "beats_py_syntax": "passed_music_analysis_not_run",
+  "installation_scope": "local_workspace",
+  "agent_skill_runtime": "read and applied in current project"
+}

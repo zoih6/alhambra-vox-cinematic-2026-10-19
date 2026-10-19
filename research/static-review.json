@@ -1,0 +1,35 @@
+{
+  "scope": "static design review only; not a rendered-video critique",
+  "passes": [
+    {
+      "pass": 1,
+      "reviewed": "8-frame board, full-resolution frame 06 and mobile layout",
+      "findings": [
+        "The palace obscured part of the word قصر.",
+        "The title subtitle overlapped the paper/photo zone.",
+        "The board header needed more separation from its caption."
+      ]
+    },
+    {
+      "pass": 2,
+      "reviewed": "Corrected layer composition and source checks",
+      "changes": [
+        "Separated the word قصر from the palace image.",
+        "Repositioned title paper/photo layers and preserved subtitle contrast.",
+        "Increased header spacing, removed floating diacritics and neutral studio-shadow fringe."
+      ]
+    },
+    {
+      "pass": 3,
+      "reviewed": "Updated complete board and full-resolution frames 06 and 08",
+      "changes": [
+        "Confirmed complete readable Arabic words and unobscured subtitle.",
+        "Reduced coarse paper noise and cleaned isolated sky pockets in the palace cutout.",
+        "Confirmed 8 stills, offline fonts, seek determinism, mobile layout, and no video output."
+      ]
+    }
+  ],
+  "motion_quality_score": null,
+  "audio_sync_score": null,
+  "reason_for_unscored": "Neither motion playback nor final mixed audio has been produced or reviewed. Those gates await explicit approval."
+}

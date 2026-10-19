@@ -1,0 +1,21 @@
+{
+  "static_only": true,
+  "rendered_video_files": 0,
+  "frame_dimensions": [
+    1920,
+    1080
+  ],
+  "timeline_fps": 32,
+  "sample_frames": 8,
+  "timeline_frames": 960,
+  "deterministic_out_of_order_seek": true,
+  "arabic_fonts_loaded": true,
+  "mobile_no_horizontal_overflow": true,
+  "zoom_controls_tested": true,
+  "spring_boundary_checks": true,
+  "js_errors": [],
+  "motion_playback_review": "not performed; approval stills only",
+  "audio_sync_review": "machine word candidates only; manual listening review pending",
+  "opaque_origin_iframe_sandbox_allow_scripts": "passed",
+  "external_resources_required": false
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "zoih6/alhambra-film-assets",
+  "commit": "03ee1b5d9a797e8fbf20a95436fe79578aee1a52",
+  "narration": {
+    "path": "assets/audio/voiceover_narration.mp3",
+    "source_url": "https://raw.githubusercontent.com/zoih6/alhambra-film-assets/03ee1b5d9a797e8fbf20a95436fe79578aee1a52/audio/voiceover_narration.mp3",
+    "sha256": "0e836b98497fce7b753f26a49b5a4a9da75d00ee872f051da4399442b3f2f901"
+  },
+  "other_assets": [
+    "audio/background_music_option_1.mp3",
+    "audio/background_music_option_2.mp3",
+    "audio/muwashah_en_al_andalus.m4a"
+  ]
+}
