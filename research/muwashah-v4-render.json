@@ -683,6 +683,28 @@
       },
       "repository_path": "renders/muwashah-v4/segments/music-02.mp4",
       "backup_commit": "1d74aaabb4cbccf0568ad203f18174aef04206f7"
+    },
+    {
+      "path": "/home/user/.cache/alhambra-render/muwashah-v4/segments/music-03.mp4",
+      "frames": 320,
+      "fps": 32.0,
+      "width": 1920,
+      "height": 1080,
+      "start": 0.0,
+      "duration": 10.0,
+      "bytes": 2261994,
+      "sha256": "2f5eedce7843d09d2883140196e0b2332a0943cc33bca3f96d63ea5b560709df",
+      "name": "music-03",
+      "role": "music",
+      "new_render": true,
+      "frame_in_new": 6029,
+      "frame_out_new": 6349,
+      "source": {
+        "render_mode": "music",
+        "seek_start": 20.0
+      },
+      "repository_path": "renders/muwashah-v4/segments/music-03.mp4",
+      "backup_commit": "40cc34748ed3dbd17414cbacd182c8e13239ef31"
     }
   ],
   "unchanged_source_pieces_reused": 24,
@@ -692,5 +714,5 @@
   ],
   "music_duration": 45.625,
   "credit_text": "المونتاج والتصميم بواسطة شذى ياسر",
-  "completed_new_frames": 6029
+  "completed_new_frames": 6349
 }
