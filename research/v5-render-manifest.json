@@ -7,9 +7,31 @@
   "fps": 32,
   "total_frames": 10758,
   "duration": 336.1875,
-  "segments": [],
+  "segments": [
+    {
+      "path": "/home/user/.cache/alhambra-render/layered-v5/f26451dec561/segments/part-001.mp4",
+      "frames": 320,
+      "fps": 32.0,
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.0,
+      "start_time": 0.0,
+      "audio_streams": 1,
+      "bytes": 2798689,
+      "sha256": "619e76c961852609a54eb1182b2b6a5b4e9b741453ba04fa00375cdf3ab6b660",
+      "part": 1,
+      "frame_in": 0,
+      "frame_out_exclusive": 320,
+      "time_in": 0.0,
+      "time_out": 10.0,
+      "repository_path": "renders/layered-v5/f26451dec561/segments/part-001.mp4"
+    }
+  ],
   "segment_count": 34,
   "whole_film_rebuilt": true,
   "master_crf": 20,
-  "original_sources_deleted": false
+  "original_sources_deleted": false,
+  "current_segment": 1,
+  "current_frame": 320,
+  "capture_fps": 13.56
 }
