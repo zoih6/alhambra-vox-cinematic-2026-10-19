@@ -639,6 +639,28 @@
       },
       "repository_path": "renders/muwashah-v4/segments/prelude-junction.mp4",
       "backup_commit": "e14eb7ca4f9a071387dfe8e009500e1e36c1e7a5"
+    },
+    {
+      "path": "/home/user/.cache/alhambra-render/muwashah-v4/segments/music-01.mp4",
+      "frames": 320,
+      "fps": 32.0,
+      "width": 1920,
+      "height": 1080,
+      "start": 0.0,
+      "duration": 10.0,
+      "bytes": 1751778,
+      "sha256": "15fbc427e77694c44a2882d7731a8487879e3cb82426f138d52b86f5df9e77b6",
+      "name": "music-01",
+      "role": "music",
+      "new_render": true,
+      "frame_in_new": 5389,
+      "frame_out_new": 5709,
+      "source": {
+        "render_mode": "music",
+        "seek_start": 0.0
+      },
+      "repository_path": "renders/muwashah-v4/segments/music-01.mp4",
+      "backup_commit": "24ea5efc50378dc85c5d1e79a9091175bdf4c1dd"
     }
   ],
   "unchanged_source_pieces_reused": 24,
@@ -648,5 +670,5 @@
   ],
   "music_duration": 45.625,
   "credit_text": "المونتاج والتصميم بواسطة شذى ياسر",
-  "completed_new_frames": 5389
+  "completed_new_frames": 5709
 }
