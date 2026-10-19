@@ -1,0 +1,51 @@
+{
+  "status": "awaiting_final_visual_review",
+  "build_id": "a08c190140",
+  "master": {
+    "path": "/home/user/.cache/alhambra-render/a08c190140/alhambra-cinematic-1080p32.mp4",
+    "bytes": 57592587,
+    "sha256": "5023704406299e680760c36500842e1c7dde83be3a964cfad497b322d717b051",
+    "width": 1920,
+    "height": 1080,
+    "fps": 32.0,
+    "frame_count": 8621,
+    "video_duration": 269.40625,
+    "audio_duration": 269.427,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pixel_format": "yuv420p"
+  },
+  "viewing_copy": {
+    "path": "/home/user/alhambra-vox/deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+    "bytes": 39279082,
+    "sha256": "f8c61dc3f79dfb3d42f6f9666296366bcd06f58c81344210f59753c9e5b96879",
+    "width": 1920,
+    "height": 1080,
+    "fps": 32.0,
+    "frame_count": 8621,
+    "video_duration": 269.40625,
+    "audio_duration": 269.406,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pixel_format": "yuv420p"
+  },
+  "viewing_copy_relative": "deliverables/alhambra-cinematic-viewing-1080p32.mp4",
+  "compact_encoding": {
+    "crf": 25,
+    "preset": "veryfast",
+    "unchanged_dimensions": [
+      1920,
+      1080
+    ],
+    "unchanged_fps": 32,
+    "lossless": false,
+    "master_preserved": true,
+    "budget_bytes": 41345987
+  },
+  "cfr_pts_verified": true,
+  "full_decoder_pass": "passed",
+  "master_backed_up_before_viewing_encode": true,
+  "checkpoints_preserved": 27,
+  "required_checkpoints": 27,
+  "credential_written_to_project": false
+}

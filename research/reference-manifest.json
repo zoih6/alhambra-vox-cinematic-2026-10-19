@@ -1,47 +1,47 @@
 {
-  "status": "candidate_not_approved",
+  "status": "approved_base_direction_with_user_requested_cinematic_execution",
   "anchors": [
     {
       "anchor_id": "stone",
       "kind": "generated_metaphor",
       "candidate_asset": "assets/cutouts/stone.webp",
       "notes": "original generated conceptual prop, not a genuine historic artifact",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     },
     {
       "anchor_id": "inscription",
       "kind": "genuine_epigraphy",
       "candidate_asset": "assets/cutouts/inscription.webp",
       "notes": "Jebulon CC0; keep original letters and do not overwrite them",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     },
     {
       "anchor_id": "palace",
       "kind": "genuine_location",
       "candidate_asset": "assets/cutouts/palace.webp",
       "notes": "Miquel Rosselló Calafell Pexels; preserve actual silhouette",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     },
     {
       "anchor_id": "dawn",
       "kind": "genuine_location",
       "candidate_asset": "assets/photos/palace-dawn.jpg",
       "notes": "Enrique Pexels",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     },
     {
       "anchor_id": "map",
       "kind": "geographic_reference",
       "candidate_asset": "assets/iberia-map.geojson",
       "notes": "Natural Earth public domain; Granada marker 37.1761 -3.5881",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     },
     {
       "anchor_id": "typography",
       "kind": "text_system",
       "candidate_asset": "assets/fonts/",
       "notes": "Amiri and Alexandria; OFL; RTL and connected words",
-      "status": "pending_user_approval"
+      "status": "approved_base_reference"
     }
   ],
   "shot_reference_map": {
@@ -78,5 +78,7 @@
       "typography"
     ]
   },
-  "external_model_image_slots": "not applicable: current execution is local Canvas composition, not a video generation provider"
+  "external_model_image_slots": "not applicable: current execution is local Canvas composition, not a video generation provider",
+  "approval_note": "User praised the board and explicitly requested the full cinematic render plus two new plates.",
+  "cinematic_extension": "research/cinematic-depth-assets.json"
 }

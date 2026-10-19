@@ -1,0 +1,6 @@
+{
+  "issue": "The first compact transcode inherited the AAC tail and added one final video frame under automatic CFR sync.",
+  "master_affected": false,
+  "correction": "Explicit -frames:v 8621 and -t 269.40625 in the viewing transcode.",
+  "original_failed_candidate_retained_in_runtime_staging": true
+}

@@ -68,16 +68,18 @@ try:
  delivery=R/m['local_delivery'] if m.get('local_delivery') else None
  compact_report=None
  if delivery is None:
-  budget=118*1024**2-eligible()-2*1024**2
+  replace_target=R/'deliverables/alhambra-cinematic-viewing-1080p32.mp4'
+  replace_size=replace_target.stat().st_size if replace_target.exists() else 0
+  budget=118*1024**2-eligible()+replace_size-2*1024**2
   if budget<12*1024**2:raise RuntimeError('Insufficient persistent space for a viewing copy. Master is already backed up.')
   for crf in [25,26,27,28]:
-   candidate=TMP/m['build_id']/f'alhambra-viewing-crf{crf}.mp4'
+   candidate=TMP/m['build_id']/f'alhambra-viewing-crf{crf}-exact32.mp4'
    print('ENCODE_VIEWING_COPY',crf,'budget',budget,flush=True)
-   subprocess.run([FF,'-y','-hide_banner','-loglevel','warning','-i',str(master),'-map','0:v:0','-map','0:a:0','-c:v','libx264','-preset','veryfast','-crf',str(crf),'-threads','2','-pix_fmt','yuv420p','-r','32','-g','64','-c:a','copy','-movflags','+faststart','-metadata','title=الحمراء — قصيدة من حجر | 1080p32 viewing copy',str(candidate)],check=True,timeout=900)
+   subprocess.run([FF,'-y','-hide_banner','-loglevel','warning','-i',str(master),'-map','0:v:0','-map','0:a:0','-c:v','libx264','-preset','veryfast','-crf',str(crf),'-threads','2','-pix_fmt','yuv420p','-r','32','-g','64','-c:a','copy','-frames:v',str(conf['duration_frames']),'-t',str(conf['duration']),'-movflags','+faststart','-metadata','title=الحمراء — قصيدة من حجر | 1080p32 viewing copy',str(candidate)],check=True,timeout=900)
    if candidate.stat().st_size<=budget:
     delivery=R/'deliverables/alhambra-cinematic-viewing-1080p32.mp4';delivery.parent.mkdir(exist_ok=True);shutil.copy2(candidate,delivery);compact_report={'crf':crf,'preset':'veryfast','unchanged_dimensions':[1920,1080],'unchanged_fps':32,'lossless':False,'master_preserved':True,'budget_bytes':budget};break
   if delivery is None:raise RuntimeError('Viewing copies exceed the safe snapshot budget; all candidates and the master are retained.')
- outinfo=details(delivery);assert outinfo['frame_count']==conf['duration_frames'] and outinfo['fps']==32
+ outinfo=details(delivery);assert outinfo['frame_count']==conf['duration_frames'] and outinfo['fps']==32, outinfo
  # One real movie frame is the poster; all review sheets are from the encoded master.
  (R/'deliverables').mkdir(exist_ok=True)
  with av.open(str(master)) as c:getframe(c,32.7).save(R/'deliverables/poster.jpg',quality=95,optimize=True)

@@ -58,3 +58,7 @@ The project owner supplied and authorized publication of these files. Their incl
 - Motion Reel helper package, sourced from: https://github.com/zoih6/ta3liq-sawti-khat-thuluth-211706577/tree/master/motion-reel
 
 Both portable skills are preserved in the public repository's `vendor/` directory. Their rendering defaults were adapted to the actual project: Linux, horizontal 1920×1080, 32fps, original supplied narration, and no `out/` output directory.
+
+## Original style references
+
+All twelve user-supplied reference clips are also backed up, unmodified, in `references/style-reference-videos-originals.zip` in the public repository. They are reference material, not scenes from this produced film. The ZIP includes a source-commit note and SHA-256 manifest. Their underlying rights are not reassigned by this backup.

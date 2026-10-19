@@ -176,9 +176,15 @@
       "bytes": 57592587,
       "sha256": "5023704406299e680760c36500842e1c7dde83be3a964cfad497b322d717b051",
       "source_name": "alhambra-cinematic-1080p32.mp4"
+    },
+    {
+      "path": "renders/final/alhambra-cinematic-viewing-1080p32.mp4",
+      "bytes": 39279082,
+      "sha256": "f8c61dc3f79dfb3d42f6f9666296366bcd06f58c81344210f59753c9e5b96879",
+      "source_name": "alhambra-cinematic-viewing-1080p32.mp4"
     }
   ],
-  "last_commit": "1c48a8889f473b57856827b924da1b023bc8a445",
+  "last_commit": "38f6f46d820b6402de45ee704ea4376c882b6fc3",
   "owner": "zoih6",
   "repository_id": 1424996248,
   "repository_full_name": "zoih6/alhambra-vox-cinematic-2026-10-19",
