@@ -7,8 +7,8 @@
   "total_frames": 8621,
   "total_segments": 27,
   "frame_pipeline": "Canvas -> JPEG quality 95 in memory -> FFmpeg image2pipe -> H.264; no frame directories",
-  "current_segment": 14,
-  "current_frame": 4479,
-  "completed_count": 14,
-  "render_capture_fps": 7.3
+  "current_segment": 15,
+  "current_frame": 4799,
+  "completed_count": 15,
+  "render_capture_fps": 6.95
 }
